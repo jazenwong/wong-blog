@@ -1,0 +1,14 @@
+---
+layout: "wrapper"
+---
+
+<section class="picturelayout">
+  {% for file in site.static_files %}
+    {% if file.image %}
+      <div class="picturepost">
+        <img src="{{ file.path }}" alt="{{ file.name }}" class="img-responsive" id="photoInput">
+        <p>{{ file.name | remove: ".jpeg" }}</p>
+      </div>
+    {% endif %}
+  {% endfor %}
+</section>

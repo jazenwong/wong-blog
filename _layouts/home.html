@@ -1,0 +1,18 @@
+---
+layout: "wrapper"
+---
+<section class="homefeed">
+  <div class="hometext">
+    <h3>I do sales, branding, and marketing for an international logistics company, and my blog explores concepts and ideas about design & business.</h3>
+    <h3>Feel free to contact me at jazenwong@gmail.com</h3>
+  </div>
+  <div class="homeloop">
+  {% for post in site.posts %}
+    <div class="homeposts">
+      <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+      <p>{{ post.description }}</p>
+      <sub>{{ post.date | date_to_long_string }}</sub>
+    </div>
+  {% endfor %}
+  </div>
+</section>

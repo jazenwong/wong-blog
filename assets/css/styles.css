@@ -1,0 +1,409 @@
+/* CSS RESET */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* Globally */
+
+/* Each state */
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+  color:#333;
+}
+
+a:hover {
+  text-decoration: none;
+  color:#333;
+
+}
+
+a:focus {
+  text-decoration: none;
+  color:#333;
+}
+
+a:hover,
+a:active {
+  text-decoration: none;
+  color:#333
+}
+
+/* Mother Code */
+
+/* Mobile */
+
+html {
+  font-family: 'Libre Baskerville', serif;
+	background-color: #b8d1f2;
+  padding: 0 40px;
+}
+
+h1 {
+  color: #333;
+}
+
+h2 , h3 {
+	opacity: .8;
+}
+
+p {
+	opacity: .7;
+}
+
+sub {
+	opacity: .5;
+}
+
+nav {
+  border-bottom: 1px solid #333;
+  padding: 40px 0;
+}
+
+nav h1 {
+  font-family: 'Almarai', sans-serif;
+  margin-bottom: 40px;
+}
+
+nav h1 a {
+  font-size: 63px;
+  font-weight: 700;
+}
+
+nav h2 {
+	color: gray;
+  font-size: 16px;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+.homefeed {
+  padding: 80px 0;
+}
+
+.hometext {
+  padding-bottom: 80px;
+  border-bottom: 1px solid #333;
+}
+
+.hometext h3 {
+  font-size: 14px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.homeloop {
+	padding: 80px 0;
+}
+
+.homeposts {
+	padding-bottom: 60px;
+}
+
+.homeposts h1 {
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 1.5;
+	margin-bottom: 10px;
+}
+
+.homeposts p {
+	font-size: 14px;
+	line-height: 1.5;
+	margin-bottom: 10px;
+}
+
+.homeposts sub {
+	font-size: 12px;
+	font-style: italic;
+}
+
+.pagelayout {
+	padding: 80px 0;
+}
+
+.pagelayout h2 {
+	font-size: 18px;
+	padding: 40px 0 80px 0;
+}
+
+/* Individual Blog Post CSS */
+.postlayout {
+	padding: 80px 0 40px 0;
+}
+
+.postsummary {
+	border-bottom: 1px solid #a18675;
+	padding-bottom: 40px;
+}
+
+.postsummary h1 {
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 1.4;
+	margin-bottom: 20px;
+}
+
+.postsummary p {
+	font-size: 16px;
+	opacity: 1;
+	line-height: 1.5;
+}
+
+.postbody h2{
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 1.4;
+	margin-bottom: 20px;
+}
+
+.postbody h3 {
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 1.4;
+	margin-bottom: 20px;
+}
+
+.postbody p {
+	font-size: 16px;
+	line-height: 1.5;
+	margin-bottom: 15px;
+}
+
+.postbody ul {
+	margin: 20px 0 20px 20px;
+}
+
+.postbody li {
+	list-style: circle;
+}
+
+.picturelayout {
+	padding: 80px 0;
+}
+
+.picturepost {
+	margin-bottom: 40px;
+}
+
+.picturelayout img {
+	margin-bottom: 5px;
+}
+
+.picturelayout p {
+	font-size: 14px;
+	font-style: italic;
+}
+
+.img-responsive {
+	width: 100%;
+}
+
+footer p {
+	font-size: 14px;
+	font-style: italic;
+}
+
+@media only screen and (min-width: 768px){
+
+body {
+	display: grid;
+	grid-template-columns: repeat(12,1fr);
+	grid-column-gap: 20px;
+}
+
+nav {
+	grid-column: 1/4;
+	grid-row: 1/2;
+	border: none;
+}
+
+.homefeed {
+	padding-top: 60px;
+}
+
+.homefeed ,
+.pagelayout ,
+.postlayout ,
+.picturelayout {
+	grid-column: 5/-1;
+	grid-row: 1/2;
+}
+
+.pagelayout h2 ,
+.postlayout h2 ,
+.picturelayout h2 {
+	padding-top: 60px;
+}
+
+.picturelayout {
+	padding-top: 40px;
+	display: grid;
+	grid-template-columns: repeat(2,1fr);
+	grid-column-gap: 20px;
+}
+
+.postlayout {
+	padding-top: 50px;
+}
+
+.postbody {
+	grid-column: 5/-1;
+	grid-row: 2/3;
+}
+
+footer {
+	grid-column: 1/-1;
+	grid-row: 3/4;
+	grid-column-start: -1;
+}
+
+}
+
+@media only screen and (min-width: 1024px){
+
+html {
+	padding: 40px 60px;
+}
+
+body {
+	max-width: 968px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+}
+
+@media only screen and (min-width: 1400px){
+
+html {
+
+}
+
+body {
+	max-width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+nav {
+	grid-column: 1/4;
+}
+
+.homefeed ,
+.pagelayout ,
+.postlayout {
+	grid-column: 4/11;
+	grid-row: 1/2;
+}
+
+.picturelayout {
+	grid-column: 4/12;
+	grid-column-start: 13;
+	grid-column-end: 4;
+}
+
+.hometext h3 {
+	font-size: 18px;
+}
+
+.homeposts h1 {
+  font-size: 24px;
+	margin-bottom: 15px;
+}
+
+.homeposts p {
+	font-size: 18px;
+	margin-bottom: 15px;
+}
+
+.homeposts sub {
+	font-size: 14px;
+}
+
+.pagelayout h2 {
+	font-size: 24px;
+}
+
+.postlayout {
+	padding-bottom: 0;
+}
+
+.postsummary p {
+	font-size: 18px;
+}
+
+.postbody {
+	grid-column: 4/11;
+}
+
+.postbody h2{
+	font-size: 22px;
+	line-height: 1.5;
+	margin-bottom: 20px;
+}
+
+.postbody h3 {
+	font-size: 18px;
+	line-height: 1.4;
+	margin-bottom: 20px;
+}
+
+.postbody p {
+	font-size: 18px;
+	line-height: 1.6;
+	margin-bottom: 20px;
+}
+
+.postbody ul {
+	margin: 25px 0 25px 25px;
+}
+
+.postbody ul {
+	margin: 20px 0 20px 20px;
+}
+
+}
