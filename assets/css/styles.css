@@ -48,6 +48,7 @@ table {
 /* Each state */
 a {
   text-decoration: none;
+	color: #333;
 }
 
 a:visited {
@@ -130,7 +131,7 @@ nav h2 {
 }
 
 .hometext h3 {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.5;
   margin-bottom: 20px;
 }
@@ -151,13 +152,13 @@ nav h2 {
 }
 
 .homeposts p {
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 1.5;
 	margin-bottom: 10px;
 }
 
 .homeposts sub {
-	font-size: 12px;
+	font-size: 14px;
 	font-style: italic;
 }
 
@@ -240,6 +241,10 @@ nav h2 {
 
 .img-responsive {
 	width: 100%;
+}
+
+footer {
+	padding-bottom: 20px;
 }
 
 footer p {
