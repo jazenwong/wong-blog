@@ -120,21 +120,20 @@ a:visited {
   color:#333;
 }
 
-a:hover {
-  text-decoration: none;
-  color:#333;
-
-}
-
 a:focus {
   text-decoration: none;
   color:#333;
 }
 
-a:hover,
 a:active {
   text-decoration: none;
   color:#333
+}
+
+a:hover {
+	text-decoration: none;
+	color: #a18675;
+	transition: .25s all ease-in-out;
 }
 
 /* Mother Code */
@@ -315,7 +314,6 @@ footer p {
 	font-size: 14px;
 	font-style: italic;
 }
-
 
 
 
