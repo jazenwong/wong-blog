@@ -1,5 +1,5 @@
 <nav>
-  <h1><a href="{{ page.url | prepend: site.baseurl }}">{{ site.title }}</a></h1>
+  <h1><a href="{{ site.url | prepend: site.baseurl }}">{{ site.title }}</a></h1>
   {% for page in site.pages %}
     {% unless page.exclude %}
         <h2><a class="page-link" href="{{ page.url | prepend: site.baseurl }}" aria-label="{{ page.title }}">
