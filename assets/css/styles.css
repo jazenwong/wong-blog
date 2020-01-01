@@ -316,20 +316,8 @@ footer p {
 	font-style: italic;
 }
 
-.pagination a, .pagination span {
-		color: LightGray;
-    display: inline-block;
-  }
 
-.pagination a {
-    &:hover {
-        color: #333;
-    }
- }
 
-.pagination {
-    text-align: center;
- }
 
 @media only screen and (min-width: 768px){
 
