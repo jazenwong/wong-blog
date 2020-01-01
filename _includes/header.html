@@ -2,7 +2,7 @@
   <h1><a href="{{ site.baseurl }}{{ site.url }}">{{ site.title }}</a></h1>
   {% for page in site.pages %}
     {% unless page.exclude %}
-        <h2><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
+        <h2><a class="page-link" href="{{ page.url | prepend: site.baseurl }}" aria-label="{{ post.title }}">
             {{ page.title }}
         </a></h2>
     {% endunless %}
