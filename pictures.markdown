@@ -1,5 +1,5 @@
 ---
 layout: pictures
 title: Pictures with Words
-permalink: /pictures.html
+permalink: /pictures
 ---

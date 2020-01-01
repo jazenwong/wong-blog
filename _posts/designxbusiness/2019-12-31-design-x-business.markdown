@@ -4,6 +4,7 @@ title: What a Brand Consists of, Design and Business.
 date:   2019-12-31
 categories: designxbusiness
 description: The words "brand" and "design" are often thrown around in business. The words, however, have an important distinction that not many people have a good understanding of.
+permalink: what-is-a-brand-design-business
 ---
 
 
