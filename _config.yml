@@ -39,7 +39,7 @@ defaults:
     values:
       image: true
 
-paginate: 5
+paginate: 1
 paginate_path: /page:num/
 
 # Exclude from processing.
