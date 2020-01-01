@@ -1,5 +1,5 @@
 ---
 layout: design
 title: Design
-permalink: /design/
+permalink: /design
 ---
