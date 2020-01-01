@@ -31,12 +31,16 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 defaults:
   - scope:
       path: "assets/img"
     values:
       image: true
+
+paginate: 6
+paginate_path: /page:num/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
