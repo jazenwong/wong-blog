@@ -317,8 +317,12 @@ nav h2 a:hover {
 	width: 100%;
 }
 
+.pagination > * {
+	font-size: 14px;
+}
+
 footer {
-	padding-bottom: 20px;
+	padding: 40px 0 20px 0;
 }
 
 footer p {
@@ -443,7 +447,7 @@ nav {
 }
 
 .homeposts sub {
-	font-size: 10px;
+	font-size: 12px;
 }
 
 .pagelayout h2 {
