@@ -385,11 +385,31 @@ nav {
 	padding-top: 60px;
 }
 
-.picturelayout {
+/* .picturelayout {
 	padding-top: 40px;
 	display: grid;
 	grid-template-columns: repeat(2,1fr);
 	grid-column-gap: 20px;
+} */
+
+.picturelayout {
+	padding-top: 40px;
+	display: flex;
+	flex: 50%;
+	flex-wrap: wrap;
+	max-width: 100%;
+	padding: 0 4px;
+}
+
+.picturepost {
+	flex: 25%;
+  max-width: 50%;
+	padding: 0 4px;
+}
+
+.picturepost img {
+	margin-top: 8px;
+	vertical-align: middle;
 }
 
 .postlayout {
