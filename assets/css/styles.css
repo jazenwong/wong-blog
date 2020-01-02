@@ -211,6 +211,10 @@ nav h2 a:hover {
   border-bottom: 1px solid #333;
 }
 
+.invertedhometext{
+	border-bottom: 1px solid #ffffff;
+}
+
 .hometext h3 {
   font-size: 14px;
   line-height: 1.5;
