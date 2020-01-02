@@ -364,7 +364,6 @@ body {
 nav {
 	grid-column: 1/4;
 	grid-row: 2/4;
-	border: none;
 	padding-top: 60px;
 }
 
