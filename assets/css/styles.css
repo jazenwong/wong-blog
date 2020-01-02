@@ -177,10 +177,13 @@ nav h1 a {
 }
 
 nav h2 {
-	color: SteelBlue;
   font-size: 16px;
   font-style: italic;
   margin-bottom: 20px;
+}
+
+nav h2 a {
+	color: SteelBlue;
 }
 
 .homefeed {
@@ -400,12 +403,12 @@ nav {
 .homefeed ,
 .pagelayout ,
 .postlayout {
-	grid-column: 4/11;
+	grid-column: 5/12;
 	grid-row: 1/2;
 }
 
 .picturelayout {
-	grid-column: 4/12;
+	grid-column: 5/13;
 	grid-column-start: 13;
 	grid-column-end: 4;
 }
@@ -441,7 +444,7 @@ nav {
 }
 
 .postbody {
-	grid-column: 4/11;
+	grid-column: 5/12;
 }
 
 .postbody h2{
