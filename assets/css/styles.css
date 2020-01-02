@@ -188,7 +188,7 @@ nav h2 {
 
 nav h2 a ,
 nav h2 a:visited {
-	color: SteelBlue;
+
 }
 
 nav h2 a:hover {
@@ -309,7 +309,7 @@ nav h2 a:hover {
 }
 
 .picturelayout p {
-	font-size: 14px;
+	font-size: 12px;
 	font-style: italic;
 }
 
