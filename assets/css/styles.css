@@ -165,18 +165,20 @@ sub {
 	color: #4d4d4d;
 }
 
-nav {
-  border-bottom: 1px solid #333;
-  padding: 40px 0;
-}
-
 .name {
 	padding-top: 20px;
+	display: flex;
+	justify-content: space-between;
 }
 
 .name h1 {
   font-family: 'Noto Sans JP', sans-serif;
   margin-bottom: 40px;
+}
+
+nav {
+  border-bottom: 1px solid #333;
+  padding: 40px 0;
 }
 
 nav h2 {
