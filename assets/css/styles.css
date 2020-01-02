@@ -142,7 +142,6 @@ a:hover {
 
 html {
   font-family: 'Libre Baskerville', serif;
-	background-color: #b8d1f2;
   padding: 0 40px;
 }
 
@@ -178,7 +177,7 @@ nav h1 a {
 }
 
 nav h2 {
-	color: gray;
+	color: SteelBlue;
   font-size: 16px;
   font-style: italic;
   margin-bottom: 20px;
