@@ -186,7 +186,7 @@ sub {
 
 nav {
   border-bottom: 1px solid #333;
-  padding: 40px 0;
+  padding: 60px 0 40px 0;
 }
 
 nav h2 {
