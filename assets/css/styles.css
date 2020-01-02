@@ -193,6 +193,7 @@ nav h2 a:visited {
 
 nav h2 a:hover {
 	text-decoration: line-through;
+	transition: .25s all ease-in-out;
 }
 
 .homefeed {
@@ -311,6 +312,7 @@ nav h2 a:hover {
 .picturelayout p {
 	font-size: 12px;
 	font-style: italic;
+	font-family: 'Libre Baskerville', serif;
 }
 
 .img-responsive {
