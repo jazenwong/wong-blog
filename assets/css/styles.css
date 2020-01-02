@@ -184,6 +184,10 @@ sub {
   margin-bottom: 40px;
 }
 
+.nametoggle {
+	cursor: pointer;
+}
+
 nav {
   border-bottom: 1px solid #333;
   padding: 60px 0 40px 0;
