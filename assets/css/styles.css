@@ -155,11 +155,11 @@ h2 , h3 {
 }
 
 p {
-	opacity: .7;
+	color: #2d2d2d;
 }
 
 sub {
-	opacity: .7;
+	color: #4d4d4d;
 }
 
 nav {
@@ -388,11 +388,6 @@ body {
 }
 
 @media only screen and (min-width: 1400px){
-
-html {
-
-}
-
 body {
 	max-width: 1200px;
 	margin-left: auto;
@@ -474,6 +469,14 @@ nav {
 
 .postbody ul {
 	margin: 20px 0 20px 20px;
+}
+
+}
+
+@media only screen and (min-width: 1600px){
+
+body {
+	max-width: 1500px;
 }
 
 }
