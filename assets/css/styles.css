@@ -182,7 +182,8 @@ nav h2 {
   margin-bottom: 20px;
 }
 
-nav h2 a {
+nav h2 a ,
+nav h2 a:visited {
 	color: SteelBlue;
 }
 
