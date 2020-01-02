@@ -411,7 +411,7 @@ nav {
 .picturelayout {
 	grid-column: 5/13;
 	grid-column-start: 13;
-	grid-column-end: 4;
+	grid-column-end: 5;
 }
 
 .hometext h3 {
