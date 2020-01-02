@@ -147,6 +147,7 @@ html {
 
 h1 {
   color: #333;
+	font-weight: 700;
 }
 
 h2 , h3 {
@@ -185,6 +186,10 @@ nav h2 {
 nav h2 a ,
 nav h2 a:visited {
 	color: SteelBlue;
+}
+
+nav h2 a:hover {
+	text-decoration: line-through;
 }
 
 .homefeed {
@@ -328,10 +333,16 @@ body {
 	grid-column-gap: 20px;
 }
 
+.name {
+	grid-column: 1/-1;
+	grid-row: 1/2;
+}
+
 nav {
 	grid-column: 1/4;
-	grid-row: 1/2;
+	grid-row: 2/3;
 	border: none;
+	padding-top: 60px;
 }
 
 .homefeed {
@@ -343,7 +354,7 @@ nav {
 .postlayout ,
 .picturelayout {
 	grid-column: 5/-1;
-	grid-row: 1/2;
+	grid-row: 2/3;
 }
 
 .pagelayout h2 ,
@@ -365,12 +376,12 @@ nav {
 
 .postbody {
 	grid-column: 5/-1;
-	grid-row: 2/3;
+	grid-row: 3/4;
 }
 
 footer {
 	grid-column: 1/-1;
-	grid-row: 3/4;
+	grid-row: 4/5;
 	grid-column-start: -1;
 }
 
@@ -379,7 +390,7 @@ footer {
 @media only screen and (min-width: 1024px){
 
 html {
-	padding: 40px 60px;
+	padding: 40px 60px 0px 60px;
 }
 
 body {
@@ -405,7 +416,7 @@ nav {
 .pagelayout ,
 .postlayout {
 	grid-column: 5/12;
-	grid-row: 1/2;
+	grid-row: 2/3;
 }
 
 .picturelayout {
