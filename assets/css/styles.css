@@ -170,13 +170,17 @@ nav {
   padding: 40px 0;
 }
 
+.name {
+	padding-top: 20px;
+}
+
 .name h1 {
   font-family: 'Noto Sans JP', sans-serif;
   margin-bottom: 40px;
 }
 
 nav h2 {
-  font-size: 16px;
+  font-size: 14px;
   font-style: italic;
 	font-family: 'Libre Baskerville', serif;
   margin-bottom: 20px;
@@ -201,7 +205,7 @@ nav h2 a:hover {
 }
 
 .hometext h3 {
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.5;
   margin-bottom: 20px;
 }
@@ -215,14 +219,14 @@ nav h2 a:hover {
 }
 
 .homeposts h1 {
-	font-size: 20px;
+	font-size: 18px;
 	font-weight: 700;
 	line-height: 1.5;
 	margin-bottom: 10px;
 }
 
 .homeposts p {
-	font-size: 16px;
+	font-size: 14px;
 	line-height: 1.5;
 	margin-bottom: 10px;
 }
@@ -237,7 +241,7 @@ nav h2 a:hover {
 }
 
 .pagelayout h2 {
-	font-size: 18px;
+	font-size: 16px;
 	padding: 40px 0 80px 0;
 }
 
@@ -252,34 +256,34 @@ nav h2 a:hover {
 }
 
 .postsummary h1 {
-	font-size: 24px;
+	font-size: 22px;
 	font-weight: 700;
 	line-height: 1.4;
 	margin-bottom: 20px;
 }
 
 .postsummary p {
-	font-size: 16px;
+	font-size: 14px;
 	opacity: 1;
 	line-height: 1.5;
 }
 
 .postbody h2{
-	font-size: 18px;
+	font-size: 16px;
 	font-weight: 700;
 	line-height: 1.4;
 	margin-bottom: 20px;
 }
 
 .postbody h3 {
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: 700;
 	line-height: 1.4;
 	margin-bottom: 20px;
 }
 
 .postbody p {
-	font-size: 16px;
+	font-size: 14px;
 	line-height: 1.5;
 	margin-bottom: 15px;
 }
@@ -318,7 +322,7 @@ footer {
 }
 
 footer p {
-	font-size: 14px;
+	font-size: 12px;
 	font-style: italic;
 }
 
@@ -425,25 +429,25 @@ nav {
 }
 
 .hometext h3 {
-	font-size: 18px;
+	font-size: 14px;
 }
 
 .homeposts h1 {
-  font-size: 24px;
+  font-size: 20px;
 	margin-bottom: 15px;
 }
 
 .homeposts p {
-	font-size: 18px;
+	font-size: 14px;
 	margin-bottom: 15px;
 }
 
 .homeposts sub {
-	font-size: 14px;
+	font-size: 10px;
 }
 
 .pagelayout h2 {
-	font-size: 24px;
+	font-size: 20px;
 }
 
 .postlayout {
@@ -451,7 +455,7 @@ nav {
 }
 
 .postsummary p {
-	font-size: 18px;
+	font-size: 14px;
 }
 
 .postbody {
@@ -459,19 +463,19 @@ nav {
 }
 
 .postbody h2{
-	font-size: 22px;
+	font-size: 18px;
 	line-height: 1.5;
 	margin-bottom: 20px;
 }
 
 .postbody h3 {
-	font-size: 18px;
+	font-size: 14px;
 	line-height: 1.4;
 	margin-bottom: 20px;
 }
 
 .postbody p {
-	font-size: 18px;
+	font-size: 14px;
 	line-height: 1.6;
 	margin-bottom: 20px;
 }
@@ -482,6 +486,10 @@ nav {
 
 .postbody ul {
 	margin: 20px 0 20px 20px;
+}
+
+footer p {
+	font-size: 14px;
 }
 
 }
