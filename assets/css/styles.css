@@ -139,6 +139,10 @@ a:hover {
 	transition: .25s all ease-in-out;
 }
 
+img {
+	image-orientation: from-image;
+}
+
 /* Mother Code */
 
 /* Mobile */
