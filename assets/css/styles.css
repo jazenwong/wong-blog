@@ -224,7 +224,7 @@ nav h2 a:hover {
 }
 
 .invertedhometext{
-	border-bottom: 1px solid #ffffff;
+	border-bottom: 1px solid #ffffff !important;
 }
 
 .hometext h3 {
