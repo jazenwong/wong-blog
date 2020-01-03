@@ -166,7 +166,7 @@ p {
 }
 
 .invertedp {
-	color: #ffffff;
+	color: #ffffff !important;
 }
 
 sub {
