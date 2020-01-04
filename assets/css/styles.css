@@ -373,6 +373,7 @@ nav {
 	grid-column: 1/4;
 	grid-row: 2/4;
 	padding-top: 60px;
+	border-bottom: none;
 }
 
 .homefeed {
@@ -385,10 +386,6 @@ nav {
 .picturelayout {
 	grid-column: 5/-1;
 	grid-row: 2/3;
-}
-
-.hometext {
-	border-bottom: none;
 }
 
 .pagelayout h2 ,
