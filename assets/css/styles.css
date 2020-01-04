@@ -331,6 +331,10 @@ nav h2 a:hover {
 	margin-bottom: 5px;
 }
 
+.picturelayout img:hover {
+	cursor: pointer;
+}
+
 .picturelayout p {
 	font-size: 12px;
 	font-style: italic;
