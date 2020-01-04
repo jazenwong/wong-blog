@@ -377,7 +377,7 @@ nav {
 	grid-column: 1/4;
 	grid-row: 2/4;
 	padding-top: 60px;
-	border-bottom: none;
+	border-bottom: none !important;
 }
 
 .homefeed {
