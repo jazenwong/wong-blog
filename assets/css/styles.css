@@ -387,6 +387,10 @@ nav {
 	grid-row: 2/3;
 }
 
+.hometext {
+	border-bottom: none;
+}
+
 .pagelayout h2 ,
 .postlayout h2 ,
 .picturelayout h2 {
