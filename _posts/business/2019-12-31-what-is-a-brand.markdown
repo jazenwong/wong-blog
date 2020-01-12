@@ -9,7 +9,7 @@ permalink: what-is-a-brand
 
 The concept of a brand is very ethereal — it's hard to define what a brand is, let alone to define what makes a brand "good." When a colleague says, "wow, that company has great branding!", what does that really mean? To a designer, a brand may be analogous to a cohesive and meaningful graphical identity. To a business person, a brand may be the products and services the company sells.
 
-But we all know that a brand is neither /just/ graphic design or product. It's also the story of a company, what it stands for, the culture, etc., the list goes on. The concept of a "brand" exists in a gray area that can't be exactly defined (maybe that's the way it should be.)
+But we all know that a brand is neither *just* graphic design or product. It's also the story of a company, what it stands for, the culture, etc., the list goes on. The concept of a "brand" exists in a gray area that can't be exactly defined (maybe that's the way it should be.)
 
 This gray area is the reason why businesses hire "branding agencies" to help them create a brand, which agencies are more than happy to do (and many of them do it successfully.) But the ultimate irony is that a company or agency can't internally determine if a brand exists, only outsiders can determine that.
 
