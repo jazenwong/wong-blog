@@ -148,7 +148,7 @@ img {
 
 html {
   font-family: 'Roboto', sans-serif;
-  padding: 0 40px;
+  padding: 0 20px;
 }
 
 .bodyinverted {
@@ -270,7 +270,7 @@ nav h2 a:hover {
 
 /* Individual Blog Post CSS */
 .postlayout {
-	padding: 80px 0 40px 0;
+	padding: 40px 0;
 }
 
 .postsummary {
