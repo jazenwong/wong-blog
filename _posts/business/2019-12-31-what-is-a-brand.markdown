@@ -15,7 +15,7 @@ This gray area is the reason why businesses hire "branding agencies" to help the
 
 All a company or person can do is to try checking as many boxes as possible, as well as possible, in hopes that creates them a brand. For the deterministic-minded people, typically businesspeople, this is probably an unsettling opinion (I very much empathize with this feeling, as I'm the type of person who finds comfort in following a process in pursuit of a guaranteed result.) Conversely, for the indeterministic, there may be comfort in not having to follow a ten-step recipe to success.
 
-## The Logical and Psycho-Logical
+## The Logical and the Psycho-Logical
 Although we can't list out everything that goes into making a brand, we can categorize the things we do know into either being logical or psycho-logical.
 
 Logical components are the more deterministic decisions that an economist or engineer may make. For example, the setting up of legal and accounting structures in an organization or the managing of a company's supply-chain. Another example is the marketer who only relies on data found in their market research to make decisions.
