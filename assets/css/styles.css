@@ -282,12 +282,14 @@ nav h2 a:hover {
 	font-weight: 700;
 	line-height: 1.4;
 	margin-bottom: 20px;
+	display: inline-block;
 }
 
 .postsummary p {
 	font-size: 14px;
 	opacity: 1;
 	line-height: 1.5;
+	display: inline-block;
 }
 
 .postbody h2{
@@ -296,6 +298,7 @@ nav h2 a:hover {
 	line-height: 1.4;
 	margin-top: 5px;
 	margin-bottom: 20px;
+	display: inline-block;
 }
 
 .postbody h3 {
@@ -304,20 +307,24 @@ nav h2 a:hover {
 	line-height: 1.4;
 	margin-top: 5px;
 	margin-bottom: 20px;
+	display: inline-block;
 }
 
 .postbody p {
 	font-size: 14px;
 	line-height: 1.5;
 	margin-bottom: 15px;
+	display: inline-block;
 }
 
 .postbody ul {
 	margin: 20px 0 20px 20px;
+	display: inline-block;
 }
 
 .postbody li {
 	list-style: circle;
+	display: inline-block;
 }
 
 .picturelayout {
