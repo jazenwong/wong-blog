@@ -3,15 +3,15 @@ layout: "post"
 title: What is a Brand and What Does it Consist of?
 date:   2019-12-31
 categories: business
-description: A brand doesn't stem from just a company's product or its design. In some ways, a company's product and design can be seen as an expression of a company's "brand." In this post we'll explore what makes a brand, a brand. 
+description: A brand doesn't stem from just a company's product or its design. In some ways, a company's product and design can be seen as an expression of a company's "brand." In this post we'll explore what makes a brand, a brand.
 permalink: what-is-a-brand
 ---
 
 The concept of a brand is very ethereal — it's hard to define what a brand is, let alone to define what makes a brand "good." When a colleague says, "wow, that company has great branding!", what does that really mean? To a designer, a brand may be analogous to a cohesive and meaningful graphical identity. To a business person, a brand may be the products and services the company sells.
 
-But we all know that a brand is neither _just_ graphic design or product. It's also the story of a company, what it stands for, the culture, etc., the list goes on. The concept of a "brand" exists in a gray area that can't be exactly defined (maybe that's the way it should be.)
+A brand, however, is neither _just_ graphic design or product. It's also the story of a company, what it stands for, the culture, etc., the list goes on. A brand exists in a grey area where a list of all its components can't be exactly defined (maybe that's the way it should be.)
 
-This gray area is the reason why businesses hire "branding agencies" to help them create a brand, which agencies are more than happy to do (and many of them do it successfully.) But the ultimate irony is that a company or agency can't internally determine if a brand exists, only outsiders can determine that.
+This grey area is the reason why businesses hire "branding agencies" to help them create a brand, which agencies are more than happy to do (and many of them do it successfully.) The irony, however, is that a company or agency can't internally determine if a brand exists, only outsiders can determine that.
 
 All a company or person can do is to try checking as many boxes as possible, as well as possible, in hopes that creates them a brand. For the deterministic-minded people, typically businesspeople, this is probably an unsettling opinion (I very much empathize with this feeling, as I'm the type of person who finds comfort in following a process in pursuit of a guaranteed result.) Conversely, for the indeterministic, there may be comfort in not having to follow a ten-step recipe to success.
 
