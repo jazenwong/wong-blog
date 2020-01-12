@@ -3,7 +3,7 @@ layout: "post"
 title: What is a Brand and What Does it Consist of?
 date:   2019-12-31
 categories: business
-description: A brand doesn't stem from just product or just its design. It consists of logical and psycho-logical reasons.
+description: A brand doesn't stem from just a company's product or its design. In some ways, a company's product and design can be seen as an expression of a company's "brand." In this post we'll explore what makes a brand, a brand. 
 permalink: what-is-a-brand
 ---
 
