@@ -318,6 +318,15 @@ nav h2 a:hover {
 	display: inline-block;
 }
 
+.postbody a {
+	color: #007bff;
+}
+
+.postbody blockquote p {
+	border-left: 2px solid #333;
+	padding-left: 10px;
+}
+
 .postbody ul {
 	margin: 20px 0 20px 20px;
 	display: inline-block;
