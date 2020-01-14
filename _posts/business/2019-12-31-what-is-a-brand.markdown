@@ -30,14 +30,16 @@ This irrationality is not welcomed by most businesspeople, because it's not some
 
 ## The Case for Irrationality
 
-Steve Jobs was famous for his obsession for getting just the right white for Apple's products. This neuroticism, however, was not understood by the "rational" people around him. At the time, that was Mike Scott (newly brought in president of Apple for the purpose of "reigning in" Jobs) and even his co-founder, Steve Wozniak.
+Steve Jobs was famous for his obsession for getting just the right shade of white for Apple's products. This neuroticism, however, was not understood by the "rational" people around him. At the time, that was Mike Scott (newly brought in president of Apple for the purpose of "reigning in" Jobs) and even his co-founder, Steve Wozniak.
 
 Although many could argue that the shade of white or even the color wouldn't have really mattered, that's only easy to say in hindsight. Let's imagine a world where Apple hired a market research firm to look into which colors would be most popular using surveys, focus groups, etc. Now imagine they came back with any color **but** white...
 
-> That's not to say that market research doesn't have its place — because it certainly does, it's just that it's not _always_ correct or even safe to listen to. To be fair, the irrationality that Sutherland describes is more about using psycho-logic (heuristics, behavioral economics, etc.) to come up with unconventional solutions, instead of simple reductionist logic (like raw market research).
+> That's not to say that market research doesn't have its place — because it certainly does, it's just that it's not _always_ correct or even safe to listen to. To be fair, the irrationality that Sutherland describes is more about using psycho-logic (heuristics, behavioral economics, etc.) to come up with unconventional solutions, instead of using simple reductionist logic (raw market research). I want to take this one step further and discuss the concept of irrationality in perspective of a brand's grey area.
 
-So, if we can't just use market research, where does the essence of a brand come from?
+## Designers
 
-I think, like Steve Jobs, it comes from a mixture of vision, creativeness, and instinct (which often times may seem irrational). The designers job (whether internally or externally) is extremely difficult because they have to take this whirlwind of product, culture, vision, rationality, irrationality and create something that represents or fairly expresses that.
+The creatives that are usually tasked with manifesting a brand whether visually or in text, are designers. The designers job (whether internally or externally) is extremely difficult because they have to take a whirlwind of product, culture, vision, rationality, irrationality and create something that represents or fairly expresses that. To make it even more difficult, they also have to deal with the backlash of not being able to sufficiently explain their work to their constituents in reductionist logic.
 
-Nowadays, good designers are expected to ask thoughtful questions about their client's company, mission, their market, their competitors, etc. But the best designers take that one step further and either consciously or subconsciously try to understand the true desire or feelings of their clients (which is typically unexplainable).
+> Going back to Steve Jobs, arguably the most celebrated designer in our time, he understood that a brand consisted of a mixture of the measurable, logical components, but also the immeasurable, irrational components like vision, creativeness, and instinct.
+
+Nowadays, good designers are expected to ask thoughtful questions about their client's company, mission, their market, their competitors, etc. But the best designers take that one step further and either consciously or subconsciously try to understand the true desire or feelings of their clients (which is typically the unexplainable part of a brand's grey area). Because of this, designers should be a good salesperson (not the stereotypical, always be closing, sleazy one), that can empathize and instinctively understand the client.
