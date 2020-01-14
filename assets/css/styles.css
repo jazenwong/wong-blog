@@ -328,8 +328,7 @@ nav h2 a:hover {
 }
 
 .blockquoteinverted {
-	border-left: 2px solid #fff;
-	padding-left: 10px;
+	border-left: 2px solid #fff !important;
 }
 
 .postbody ul {
