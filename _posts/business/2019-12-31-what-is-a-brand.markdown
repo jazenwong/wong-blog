@@ -1,4 +1,4 @@
-subconsciously---
+---
 layout: "post"
 title: What is the Essence of a Brand?
 date:   2019-12-31
