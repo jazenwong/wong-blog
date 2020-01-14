@@ -1,4 +1,4 @@
----
+subconsciously---
 layout: "post"
 title: What is the Essence of a Brand?
 date:   2019-12-31
@@ -23,15 +23,21 @@ In the business world, decisions are typically made by using "logic," and anythi
 
 > "Unfortunately, because reductionist logic has proved so reliable in the physical sciences, we now believe it must be applicable everywhere — even in the much messier field of human affairs. The models that dominate all human decision-making today are duly heavy on simplistic logic, and light on magic... what if, in our quest to recreate the certainty of the laws of physics, we are now too eager to impose the same consistency and certainty in fields where it has no place?"
 
-There are some that don't obey this dogma — let's call them "creatives" because we typically find these kind of people in the creative field — that instinctively seem to understand that there's an "irrational" component to the branding process.
+There are some that don't obey this dogma — let's call them "creatives" because we typically find these kind of people in the creative field — that instinctively seem to understand that there's an "irrational" component to the branding process. (In my opinion, the difference in philosophy between the businessperson and creative is the reason for most disconnects between the two parties.)
 
-This irrationality is not welcomed by most businesspeople, because it's not something they can back-up with reductionist logic when speaking to their superiors or boardroom. (In my opinion, this difference in philosophy is the reason for most disconnects between creatives and their clients.) This makes it very difficult for irrationality or "magic" as Sutherland calls it to do its part in a brand.
+This irrationality is not welcomed by most businesspeople, because it's not something they can back-up with reductionist logic when speaking to their superiors or boardroom. This makes it very difficult for irrationality or "magic" as Sutherland calls it to do its part in a brand.
 
 
 ## The Case for Irrationality
 
-Steve Jobs was famous for his neurotic obsession for getting just the right white for Apple's products and he was not understood by the more rational people around him. At the time, that was Mike Scott (newly brought in president of Apple for the purpose of "reigning in" Jobs) and even his co-founder, Steve Wozniak.
+Steve Jobs was famous for his obsession for getting just the right white for Apple's products. This neuroticism, however, was not understood by the "rational" people around him. At the time, that was Mike Scott (newly brought in president of Apple for the purpose of "reigning in" Jobs) and even his co-founder, Steve Wozniak.
 
-Although many could argue that the shade of white or even the color wouldn't have really mattered, that's only easy to say in hindsight. Let's imagine a world where Jobs hired a market research firm to look into which colors would be most popular with their target market using surveys, focus groups, etc. Now imagine they came back with any color **but** white...
+Although many could argue that the shade of white or even the color wouldn't have really mattered, that's only easy to say in hindsight. Let's imagine a world where Apple hired a market research firm to look into which colors would be most popular using surveys, focus groups, etc. Now imagine they came back with any color **but** white...
 
-That's not to say that market research doesn't have its place — because it certainly does, it's just that it's not _always_ correct or even safe to listen to.
+> That's not to say that market research doesn't have its place — because it certainly does, it's just that it's not _always_ correct or even safe to listen to. To be fair, the irrationality that Sutherland describes is more about using psycho-logic (heuristics, behavioral economics, etc.) to come up with unconventional solutions, instead of simple reductionist logic (like raw market research).
+
+So, if we can't just use market research, where does the essence of a brand come from?
+
+I think, like Steve Jobs, it comes from a mixture of vision, creativeness, and instinct (which often times may seem irrational). The designers job (whether internally or externally) is extremely difficult because they have to take this whirlwind of product, culture, vision, rationality, irrationality and create something that represents or fairly expresses that.
+
+Nowadays, good designers are expected to ask thoughtful questions about their client's company, mission, their market, their competitors, etc. But the best designers take that one step further and either consciously or subconsciously try to understand the true desire or feelings of their clients (which is typically unexplainable).
