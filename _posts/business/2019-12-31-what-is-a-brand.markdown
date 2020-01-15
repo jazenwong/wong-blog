@@ -23,7 +23,7 @@ In the business world, decisions are typically made by using "logic," and anythi
 
 > "Unfortunately, because reductionist logic has proved so reliable in the physical sciences, we now believe it must be applicable everywhere — even in the much messier field of human affairs. The models that dominate all human decision-making today are duly heavy on simplistic logic, and light on magic... what if, in our quest to recreate the certainty of the laws of physics, we are now too eager to impose the same consistency and certainty in fields where it has no place?"
 
-There are some that don't obey this dogma — let's call them "creatives" because we typically find these kind of people in the creative field — that instinctively seem to understand that there's an "irrational" component to the branding process. (In my opinion, the difference in philosophy between the businessperson and creative is the reason for most disconnects between the two parties.)
+There are some that don't obey this dogma — let's call them "creatives" because we typically find these kind of people in the creative field — that instinctively seem to understand that there's an "irrational" component to the branding process. (In my opinion, this difference in philosophy between the businessperson and creative is the reason for most disconnects between the two parties.)
 
 This irrationality is not welcomed by most businesspeople, because it's not something they can back-up with reductionist logic when speaking to their superiors or boardroom. This makes it very difficult for irrationality or "magic" as Sutherland calls it to do its part in a brand.
 
@@ -36,10 +36,12 @@ Although many could argue that the shade of white or even the color wouldn't hav
 
 > That's not to say that market research doesn't have its place — because it certainly does, it's just that it's not _always_ correct or even safe to listen to. To be fair, the irrationality that Sutherland describes is more about using psycho-logic (heuristics, behavioral economics, etc.) to come up with unconventional solutions, instead of using simple reductionist logic (raw market research). I want to take this one step further and discuss the concept of irrationality in perspective of a brand's grey area.
 
-## Designers
+## Designers (Graphic Designers & Copywriters)
 
-The creatives that are usually tasked with manifesting a brand whether visually or in text, are designers. The designers job (whether internally or externally) is extremely difficult because they have to take a whirlwind of product, culture, vision, rationality, irrationality and create something that represents or fairly expresses that. To make it even more difficult, they also have to deal with the backlash of not being able to sufficiently explain their work to their constituents in reductionist logic.
+The creatives that are usually tasked with manifesting a brand whether visually or in text, are usually designers or copywriters. Their job (whether internally or externally) is extremely difficult because they have to take a whirlwind of product, culture, vision, rationality, irrationality and create something that represents or fairly expresses that. To make it even more difficult, they also have to deal with the backlash of not being able to sufficiently explain their work to their constituents in reductionist logic.
 
-> Going back to Steve Jobs, arguably the most celebrated designer in our time, he understood that a brand consisted of a mixture of the measurable, logical components, but also the immeasurable, irrational components like vision, creativeness, and instinct.
+> Going back to Steve Jobs, arguably the most celebrated designer in our time, he understood that a brand consisted of a mixture of the measurable, logical components, but also the immeasurable, more irrational components like vision, creativeness, and instinct.
 
-Nowadays, good designers are expected to ask thoughtful questions about their client's company, mission, their market, their competitors, etc. But the best designers take that one step further and either consciously or subconsciously try to understand the true desire or feelings of their clients (which is typically the unexplainable part of a brand's grey area). Because of this, designers should be a good salesperson (not the stereotypical, always be closing, sleazy one), that can empathize and instinctively understand the client.
+Nowadays, good designers are expected to ask thoughtful questions about their client's company, mission, their market, their competitors, etc.
+
+But the best designers either consciously or subconsciously try to understand the true desire or feelings of their clients (which is typically the unexplainable part of a brand's grey area). Because of this, designers should be a good salesperson (not the stereotypical, always be closing, sleazy one), that can empathize and instinctively understand the client. More on being a good salesperson to come soon (if you're interested, you can subscribe to my blog to know when it comes out).
