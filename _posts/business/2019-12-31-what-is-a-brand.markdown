@@ -9,13 +9,13 @@ permalink: what-is-a-brand
 
 The concept of a brand is very ethereal — it's hard to define what a brand is, let alone to define what makes a brand "good." When a colleague says, "wow, that company has great branding!", what does that really mean? To a designer, a brand may be analogous to cohesive and meaningful visual identity. But to a business person, a brand may be the products and services the company sells.
 
-A brand, however, is neither just a company's visual identity or their product & services. It's also the story of a company, what it stands for, the culture, etc., the list goes on. The things that make-up a "brand" are just as much an art as it is a science — they exist in a grey area.
+A brand, however, is neither just a company's visual identity or their products and services. It's also the story of a company, what it stands for, the culture, etc., the list goes on. The things that make-up a "brand" are just as much an art as it is a science — a brand's components exists in a grey area.
 
 This grey area is the reason why businesses — the ones who are _supposed_ to know themselves best — hire branding experts and agencies to help them create a brand. The brander's job is to help their clients create order out of chaos and to create meaningful form from function. But as hard as the company or brander tries, they themselves can't determine if their brand "exists", or if their brand is "good", they need validation from outsiders and their users.
 
-All one can do is to try checking as many boxes as possible, as well as possible, in hopes that it results in their market recognizing them as a brand. For the deterministic-minded people, typically businesspeople, this is probably an unsettling opinion (I very much empathize with this feeling, as I myself am the type of person who finds comfort in following a process in pursuit of a guaranteed result.) Conversely, for the indeterministic, there may be relief in not having to follow a ten-step recipe to success.
+All one can do is to try checking as many boxes as possible, as well as possible, in hopes that it results in their market recognizing their brand as "good". For the deterministic-minded people, typically businesspeople, this is probably an unsettling opinion (I very much empathize with this feeling, as I myself am the type of person who finds comfort in following a process in pursuit of a guaranteed result.) Conversely, for the indeterministic, there may be relief in not having to follow a ten-step recipe to success.
 
-> There's a great post by [Felicia Sullivan](https://medium.com/s/how-to-build-a-brand/lets-talk-about-how-to-build-a-brand-543b2dfbc4f5) that lists the many components of what she rightfully believes goes into creating a brand. One can certainly follow it achieve branding success, but the purpose of this thought-piece is not to talk about the exact mechanics of brand creation, but to reflect on the essence of a brand's components.
+> There's a great post by [Felicia Sullivan](https://medium.com/s/how-to-build-a-brand/lets-talk-about-how-to-build-a-brand-543b2dfbc4f5) that lists the many components of what she rightfully believes goes into creating a brand. One can certainly follow it achieve branding success, but the purpose of this thought-piece is not to talk about the exact mechanics of brand creation, but to reflect on the grey area of a brand's components.
 
 ## The Nature of a Brand's Components
 
@@ -25,23 +25,33 @@ In the business world, decisions are typically made by using "logic," and anythi
 
 There are some that don't obey this dogma — let's call them "creatives" because we typically find these kind of people in the creative field — that instinctively seem to understand that there's an "irrational" component to the branding process. (In my opinion, this difference in philosophy between the businessperson and creative is the reason for most disconnects between the two parties.)
 
-This irrationality is not welcomed by most businesspeople, because it's not something they can back-up with reductionist logic when speaking to their superiors or boardroom. This makes it very difficult for irrationality or "magic" as Sutherland calls it to do its part in a brand.
+This irrationality, although necessary to creating a brand, is not welcomed by most businesspeople, because it's not something they can back-up with reductionist logic when speaking to their superiors or boardroom. This makes it very difficult for irrationality or "magic" as Sutherland calls it to do its part in a brand. (This isn't to say, however, that there isn't logic or a process for developing the more creative / "irrational" aspects of a brand, because there are, and plenty of creatives have their own methodologies.)
 
 
 ## The Case for Irrationality
 
-Steve Jobs was famous for his obsession for getting just the right shade of white for Apple's products. This neuroticism, however, was not understood by the "rational" people around him. At the time, that was Mike Scott (newly brought in president of Apple for the purpose of "reigning in" Jobs) and even his co-founder, Steve Wozniak.
+Steve Jobs was famous for his obsession for wanting just the right shade of white for Apple's products. This neuroticism, however, was not understood by the "rational" people around him. At the time, that was Mike Scott (newly brought in president of Apple for the purpose of "reigning in" Jobs) and even his co-founder, Steve Wozniak.
 
 Although many could argue that the shade of white or even the color wouldn't have really mattered, that's only easy to say in hindsight. Let's imagine a world where Apple hired a market research firm to look into which colors would be most popular using surveys, focus groups, etc. Now imagine they came back with any color **but** white...
 
 > That's not to say that market research doesn't have its place — because it certainly does, it's just that it's not _always_ correct or even safe to listen to. To be fair, the irrationality that Sutherland describes is more about using psycho-logic (heuristics, behavioral economics, etc.) to come up with unconventional solutions, instead of using simple reductionist logic (raw market research). I want to take this one step further and discuss the concept of irrationality in perspective of a brand's grey area.
 
-## Designers (Graphic Designers & Copywriters)
+The frustrating part about irrationality is that... well, it's irrational and hard to explain. And even when explained, like when Jobs told his team that the search for pure white was important because it made the products feel high-tech, it's still was hard to accept, because it's not an objective opinion.
 
-The creatives that are usually tasked with manifesting a brand whether visually or in text, are usually designers or copywriters. Their job (whether internally or externally) is extremely difficult because they have to take a whirlwind of product, culture, vision, rationality, irrationality and create something that represents or fairly expresses that. To make it even more difficult, they also have to deal with the backlash of not being able to sufficiently explain their work to their constituents in reductionist logic.
+There's no guaranteed answer for the how and when to apply irrationality to brand building, but I am a firm believer of creating the products one would use themselves, when applicable, especially when one feels strongly about something. Because if one ends up creating a product or design they don't like themselves, they may end up detesting the product (and not being able to genuinely sell or market it).
+
+## Branders & Designers (Graphic Designers & Copywriters)
+
+The creatives that are usually tasked with manifesting a brand whether visually or in text, are usually branders, designers, or copywriters. Their job (whether internally or externally) is extremely difficult because they have to take a whirlwind of product, culture, vision, rationality, irrationality and create something that represents or fairly expresses that. To make it even more difficult, they also have to deal with the backlash of not being able to sufficiently explain their work to their constituents because of the need for reductionist logic.
 
 > Going back to Steve Jobs, arguably the most celebrated designer in our time, he understood that a brand consisted of a mixture of the measurable, logical components, but also the immeasurable, more irrational components like vision, creativeness, and instinct.
 
-Nowadays, good designers are expected to ask thoughtful questions about their client's company, mission, their market, their competitors, etc.
+Nowadays, good designers are expected to ask thoughtful questions about their client's company, mission, their market, their competitors, etc. But the best designers either consciously or subconsciously try to understand the true desire or feelings of their clients (which is typically the unexplainable part of a brand's grey area).
 
-But the best designers either consciously or subconsciously try to understand the true desire or feelings of their clients (which is typically the unexplainable part of a brand's grey area). Because of this, designers should be a good salesperson (not the stereotypical, always be closing, sleazy one), that can empathize and instinctively understand the client. More on being a good salesperson to come soon (if you're interested, you can subscribe to my blog to know when it comes out).
+Because of this, designers should be good at sales (not the stereotypical, always be closing, sleazy type of sales), and be able to empathize and instinctively understand the client and their irrationality. (More on being a good salesperson to come soon — if you're interested, you can subscribe to my blog to know when it comes out).
+
+
+
+// Taking into consideration the company's
+
+// My point isn't to say that there isn't a process to creating a brand,
