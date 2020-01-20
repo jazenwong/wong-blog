@@ -2,7 +2,7 @@
 layout: "post"
 title: What is the Essence of a Brand?
 date:   2019-12-31
-categories: business
+categories: business , designxbusiness
 description: A brand is composed of the rational and logical components, but also the irrational and emotive.
 permalink: what-is-a-brand
 ---
