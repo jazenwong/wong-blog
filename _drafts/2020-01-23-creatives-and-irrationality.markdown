@@ -24,3 +24,8 @@ The feelings or desires that are unexplainable by the client are almost impossib
 Sales at its core is about empathizing and understanding the client and their desires, whether rational or irrational. Different type of salespeople do this differently — some prefer to meet with the client face to face because they're better at disseminating information in that way, some prefer communication over email, etc.
 
 Through the process of trust building, empathizing, and asking good questions, irrationality becomes easier to manage.
+
+Being able to genuinely sell or market something is just as, if not more valuable, than having a product or design that may be "good" but not agreeable to the client.
+
+
+The problem with surveying, statistics, etc. is that people often don't know how they would react to something until put into the real-life situation. Like Henry Ford famously said, ""
