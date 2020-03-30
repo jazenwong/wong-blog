@@ -3,13 +3,13 @@ layout: "post"
 title: Branding and Irrationality
 date:   2019-12-31
 categories: business , designxbusiness
-description: A brand is as much rational and logical as it is "irrational" and emotional. In this post we'll discuss the role of irrationality in branding.
+description: A brand is as much rational and logical as it is "irrational". In this post we'll discuss the role of irrationality in branding.
 permalink: brand-irrationality
 ---
 
 The concept of a brand is very ethereal — it's hard to define what a brand is, let alone to define what makes a brand "good." When someone says, "wow, that company has great branding!", what does that really mean? To a designer, a brand may be analogous to cohesive and meaningful visual identity. But to a business person, a brand may be the products and services the company sells.
 
-A brand, however, is neither just a company's visual identity or their products and services. It's also the a company's story, design, culture, etc., the list goes on. The things that make-up a "brand" are just as much an art as it is a science — a brand's components exists in a grey area.
+A brand, however, is neither just a company's visual identity or their products and services. It's also the a company's story, design, culture, etc., the list goes on. The things that make-up a brand are just as much an art as it is a science — a brand's components exists in a grey area.
 
 This grey area is the reason why businesses — the ones who are _supposed_ to know themselves best — hire branding or design experts and agencies to help them create a brand. The brander's job is to help their clients create order out of chaos and to create meaningful form from function. But as hard as the company or brander tries, they themselves can't determine if their brand "exists", or if their brand is "good", they need validation from outsiders and their users.
 
@@ -25,14 +25,13 @@ Reductionist logic is the sort of logic that a traditional economist would apply
 
 > "Unfortunately, because reductionist logic has proved so reliable in the physical sciences, we now believe it must be applicable everywhere — even in the much messier field of human affairs. The models that dominate all human decision-making today are duly heavy on simplistic logic, and light on magic... what if, in our quest to recreate the certainty of the laws of physics, we are now too eager to impose the same consistency and certainty in fields where it has no place?"
 
-There are some that don't obey this dogma — let's call them "creatives" because we typically find these kind of people in the creative field — that instinctively seem to understand that there's an "irrational," less straight-forward and logical component to a brand. (In my opinion, this difference in philosophy between strict adherence to reductive logic and not is the reason for most disconnects between businesspeople and creatives.)
+There are some that don't obey this dogma — let's call them "creatives" because we typically find these kind of people in the creative field — that instinctively seem to understand that there's an "irrational," less straight-forward and less-logical component to a brand. (In my opinion, this difference in philosophy between strict adherence to reductive logic and not is the reason for most disconnects between businesspeople and creatives.)
 
-Irrationality expresses itself in a brand typically through its creative aspects, whether visual, verbally, or written. Due to its nature, the process of building or incorporating irrationality into a brand is usually not straightforward and logical.
+> This isn't to say that there isn't a logical process for developing the more creative / "irrational" aspects of a brand, because there are, and plenty of creatives have their own methodologies.
 
-This irrationality, although hard to rationalize, understand, or express, is crucial to a brand. Its place in the brand building process is typically not welcomed by most businesspeople, because it's not something they can back-up with reductionist logic when speaking to their superiors or boardroom. Another reason why irrationality is hard for people to accept is because often times there are no definite success metrics that can be directly attributed to it.
+Irrationality expresses itself in a brand typically through its creative aspects, e.g. visual identity, design, copy-writing, etc. Due to the subjective nature of creativity, there's no "one-size fits all" solution that can guarantee success. Although irrationality is hard to understand, measure, or express, it's crucial to building a successful brand.
 
-This makes it very difficult for irrationality or "magic" as Sutherland calls it to take part in a brand. (This isn't to say that there isn't a logical process for developing the more creative / "irrational" aspects of a brand, because there are, and plenty of creatives have their own methodologies.)
-
+There isn't a brand in existence that can get away with not having irrational components to its brand.
 
 ## The Case for Irrationality
 
@@ -42,11 +41,15 @@ Although many could argue that the shade of white or the roundness of corners wo
 
 > That's not to say that market research doesn't have its place — because it certainly does, it's just that it's not _always_ correct or even safe to listen to. To be fair, the irrationality that Sutherland describes is more about using psycho-logic (heuristics, behavioral economics, etc.) to come up with unconventional solutions, instead of using simple reductionist logic (e.g. raw market research).
 
-The frustrating part about irrationality is that... well, it's "irrational" and hard to explain. And even when explained, like when Jobs told his team that the search for pure white was important because it made the products feel high-tech, is still was hard to accept.
+The frustrating part about irrationality is that... well, it's "irrational" and hard to explain and quantify. And even when explained, like when Jobs told his team that the search for pure white was important because it made the products feel high-tech, is still hard to accept.
 
 Although the color white isn't objectively connected to the feeling of something being high-tech, it's the color that's often used to express it, for one reason or another. So, it's not that irrationality doesn't make sense, it's just that it isn't explainable with reductive logic or scientific facts and research — it's "seemingly subjective."
 
-But, if this seemingly subject irrationality has an important role to play in a brand, how can we use it without it becoming a pure battle of subjectivity?
+## The Role of Irrationality
+
+
+
+But, if irrationality has an important role to play in a brand, how can we use it without it becoming a pure battle of subjectivity?
 
 There isn't a definitive answer for how and when to accept irrationality in the brand building process, but I am a firm believer that one should create the products one would use themselves, especially when one feels strongly about something. Because if one ends up creating a product or design they don't resonate with themselves, they may end up detesting the product, and thus not being able to genuinely sell or market it. (Some could also argue that being able to genuinely sell or market something is the most important thing in brand building.)
 
