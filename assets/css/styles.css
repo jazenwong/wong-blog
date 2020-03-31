@@ -463,6 +463,10 @@ nav {
 	padding-top: 40px;
 }
 
+.jamespicturelayout h1 {
+	grid-column: 1/-1;
+}
+
 .postlayout {
 	padding-top: 50px;
 }
