@@ -364,6 +364,10 @@ nav h2 a:hover {
 	font-family: 'Libre Baskerville', serif;
 }
 
+.jamespicturelayout > * {
+	margin-bottom: 40px;
+}
+
 .img-responsive {
 	width: 100%;
 }
@@ -452,6 +456,13 @@ nav {
 	vertical-align: middle;
 }
 
+.jamespicturelayout {
+	display: grid;
+	grid-template-columns: repeat(2,1fr);
+	grid-column-gap: 20px;
+	padding-top: 40px;
+}
+
 .postlayout {
 	padding-top: 50px;
 }
@@ -503,6 +514,12 @@ nav {
 }
 
 .picturelayout {
+	grid-column: 5/13;
+	grid-column-start: 13;
+	grid-column-end: 5;
+}
+
+.jamespicturelayout {
 	grid-column: 5/13;
 	grid-column-start: 13;
 	grid-column-end: 5;
