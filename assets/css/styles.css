@@ -140,6 +140,7 @@ a:hover {
 
 img {
 	image-orientation: from-image;
+	width: 100%;
 }
 
 /* Mother Code */
