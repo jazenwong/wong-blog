@@ -1,6 +1,6 @@
 ---
 layout: alchemy
-title: ALCHEMY
+title: ALCHEMY BY RORY SUTHERLAND
 exclude: true
 permalink: /alchemy
 ---
