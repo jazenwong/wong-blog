@@ -339,7 +339,7 @@ nav h2 a:hover {
 
 .postbody ul ,
 .postbody ol {
-	margin: 20px 0 20px 20px;
+	margin: 20px 0 20px 40px;
 	display: inline-block;
 }
 
@@ -385,6 +385,20 @@ nav h2 a:hover {
 .pagination > * {
 	font-size: 14px;
 }
+
+.zibaldone h2 {
+	padding-bottom: 15px;
+}
+
+.zibaldone p {
+	margin-bottom: 80px;
+	line-height: 1.4;
+}
+
+.zibaldone a:visited {
+	text-decoration: underline;
+}
+
 
 footer {
 	padding: 40px 0 20px 0;
@@ -598,14 +612,6 @@ nav {
 
 .postbody ul {
 	margin: 20px 0 20px 20px;
-}
-
-.zibaldone h2 {
-	padding-bottom: 15px;
-}
-
-.zibaldone p {
-	margin-bottom: 80px;
 }
 
 footer p {
