@@ -337,7 +337,8 @@ nav h2 a:hover {
 	border-left: 2px solid #fff !important;
 }
 
-.postbody ul {
+.postbody ul ,
+.postbody ol {
 	margin: 20px 0 20px 20px;
 	display: inline-block;
 }
@@ -345,7 +346,6 @@ nav h2 a:hover {
 .postbody li {
 	/* list-style: circle;
 	display: inline-block; */
-	padding-left: 20px;
 }
 
 .picturelayout {
