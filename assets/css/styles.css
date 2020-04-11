@@ -344,6 +344,7 @@ nav h2 a:hover {
 }
 
 .postbody li {
+	font-size: 14px;
 	/* list-style: circle;
 	display: inline-block; */
 }
@@ -393,6 +394,10 @@ nav h2 a:hover {
 .zibaldone p {
 	margin-bottom: 80px;
 	line-height: 1.4;
+}
+
+.zibaldone a {
+	color: #005450;
 }
 
 .zibaldone a:visited {
