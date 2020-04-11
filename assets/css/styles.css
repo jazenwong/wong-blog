@@ -169,6 +169,11 @@ p {
 	color: #2d2d2d;
 }
 
+.alchemy a {
+	text-decoration: underline;
+	opacity: .9;
+}
+
 .invertedp {
 	color: #ffffff !important;
 }
