@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: Prologue - Rory's Rules of Alchemy
-date:
+date: 2020-04-11
 categories: alchemy
 description:
 permalink: rorys-rules
