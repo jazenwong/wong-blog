@@ -1,6 +1,6 @@
 ---
 layout: alchemy
-title: Alchemy
+title: ALCHEMY
 exclude: true
 permalink: /alchemy
 ---
