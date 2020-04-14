@@ -36,7 +36,7 @@ Market research can help put us in the shoes of the consumer, but how much can i
 
 The second kind of market research that Bob describes is when you get customer feedback after showing them the product you've designed. This is helpful in evaluating both the functional and subjective design choices that were made. If there's valid criticism on the functional design of the product, that's probably worth taking a look at. For example, if test consumers said that the Red Bull's can was painful to hold, that's probably worth taking a look at.
 
-But when it comes to criticism on the subjective design of the product, we should show caution. Just like how Red Bull taste wasn't well received, it doesn't mean the taste should be changed.
+But when it comes to criticism on the subjective design of the product, we should show caution. Just like how Red Bull's flavor wasn't well received, it doesn't mean the taste should be changed.
 
 ## The Role of the Designer
 
@@ -44,8 +44,8 @@ If we believe that the subjective expression of a brand should come from a deep 
 
 It makes me wonder, how much of the designer's ego should be imposed on the client? Because there's no question that the designer will impose their own thoughts and experiences onto the brand — it's what they're paid to do. But it's also in the client's best interests to put down their ego and be open-minded to the designer's suggestions.
 
-When a designer and client have to work together, the best solutions come about when both sides can put down their egos. If that's impossible, then it may be better for the two to not work together at all. The designer won't be able to design with the client's best intent in mind and the client won't be able to genuinely sell the brand. 
+When a designer and client have to work together, the best solutions come about when both sides can put down their egos. If that's impossible, then it may be better for the two to not work together at all. The designer won't be able to design with the client's best intent in mind and the client won't be able to genuinely sell the brand.
 
 So, designers should carefully choose their clients and shouldn't be afraid to turn down jobs. Clients should look for and treasure designers / creative partners who are empathetic.
 
-Side Note: Designers should learn sales. Not the "car salesman" kind of sales, but the educational, question asking, problem uncovering sales. A lot of the times, the client isn't willing to accept a "better idea" because they can't or don't want to understand the concept. A good designer might give them an alternate solution. But the best designers who have the experience, will ensure that any misunderstandings are equalized before proposing alternatives.
+Side Note: Designers should learn sales. Not the "car salesman" kind of sales, but the educational, question asking, problem uncovering sales. A lot of the times, the client isn't willing to accept a "better idea" because they can't or don't want to understand the concept. A good designer might give them an alternate solution. But the best designers who have the experience, will ensure that any misunderstandings are equalized before proposing alternatives. I'll write a piece on how designers can do this in the future.
