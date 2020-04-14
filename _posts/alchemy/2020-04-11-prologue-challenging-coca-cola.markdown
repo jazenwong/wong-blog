@@ -38,7 +38,7 @@ The second kind of market research that Bob describes is when you get customer f
 
 But when it comes to criticism on the subjective design of the product, we should show caution. Just like how Red Bull's flavor wasn't well received, it doesn't mean the taste should be changed.
 
-## The Role of the Designer
+## The Role of the Designer / Agency
 
 If we believe that the subjective expression of a brand should come from a deep understanding of why the brand exists, its story, etc., then the role of the designer (whether internal or external,) is to help bring that to life (whether visually or textually.)
 
@@ -46,7 +46,7 @@ It makes me wonder, how much of the designer's ego should be imposed on the clie
 
 When a designer and client have to work together, the best solutions come about when both sides can put down their egos. If that's impossible, then it may be better for the two to not work together at all. The designer won't be able to design with the client's best intent in mind and the client won't be able to genuinely sell the brand.
 
-So, designers should carefully choose their clients and shouldn't be afraid to turn down jobs. Clients should look for and treasure designers / creative partners who are empathetic.
+So, designers, marketers, and agencies should carefully choose their clients and shouldn't be afraid to turn down jobs. Clients should look for and treasure designers / creative partners who are empathetic.
 
 **Side Note:** <strong class="strong">Turning away business for the right reasons is good for your brand.</strong> Turning away business might seem "bad" in the short-run because you turn away that revenue. But if done in-line with the company's values and properly communicated, it can positively influence the company's brand, resulting in more revenue in the long-run. At the company I work at, we turn away a lot of "low-value" business that would be relatively easy for us to execute but isn't in line with our brand and what we aim to do (to be the best at executing high-value deployments.) We may have lost revenue in the short-term, but we've been able to build a reputation for being the "high-value" player in the market. In our client's minds, we own the word word "high-value," and whenever there's a high-value project, we'll have a better chance at being considered for it — which is priceless.
 
