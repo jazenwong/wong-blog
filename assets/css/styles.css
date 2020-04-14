@@ -188,7 +188,7 @@ sub {
 	justify-content: space-between;
 }
 
-.name h1 {
+.name title {
   font-family: 'Noto Sans JP', sans-serif;
   margin-bottom: 40px;
 }
@@ -203,6 +203,7 @@ nav {
 }
 
 nav .page-link {
+	display: block;
   font-size: 14px;
   font-style: italic;
 	font-family: 'Libre Baskerville', serif;
