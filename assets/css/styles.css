@@ -169,6 +169,11 @@ p {
 	color: #2d2d2d;
 }
 
+hr {
+	color: #e8e8e8;
+	margin-bottom: 20px;
+}
+
 .alchemy a {
 	text-decoration: underline;
 	opacity: .9;
@@ -331,6 +336,7 @@ nav h2 a:hover {
 }
 
 .postbody blockquote p {
+	font-style: italic;
 	border-left: 2px solid #333;
 	padding-left: 10px;
 }

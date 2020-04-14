@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: Prologue - Challenging Coca-Cola
+title: Prologue - Challenging Coca-Cola - What is the role of market research?
 date: 2020-04-11
 categories: alchemy
 description: What can Coke and Red Bull teach us about market research and product design?
