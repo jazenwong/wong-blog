@@ -38,7 +38,7 @@ The second kind of market research that Bob describes is when you get customer f
 
 But when it comes to criticism on the subjective design of the product, we should show caution. Just like how Red Bull's flavor wasn't well received, it doesn't mean the taste should be changed.
 
-## The Role of the Designer / Agency
+## The Role of the Designer / Agency / Freelancer
 
 If we believe that the subjective expression of a brand should come from a deep understanding of why the brand exists, its story, etc., then the role of the designer (whether internal or external,) is to help bring that to life (whether visually or textually.)
 
