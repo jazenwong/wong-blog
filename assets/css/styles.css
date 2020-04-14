@@ -202,7 +202,7 @@ nav {
   padding: 60px 0 40px 0;
 }
 
-nav h2 {
+nav .page-link {
   font-size: 14px;
   font-style: italic;
 	font-family: 'Libre Baskerville', serif;
