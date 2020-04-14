@@ -333,6 +333,11 @@ nav h2 a:hover {
 	padding-left: 10px;
 }
 
+.postbody strong {
+	font-weight: 400;
+	color: #005450;
+}
+
 .blockquoteinverted {
 	border-left: 2px solid #fff !important;
 }
