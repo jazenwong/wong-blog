@@ -179,6 +179,10 @@ hr {
 	opacity: .9;
 }
 
+.strong {
+	font-weight: 700;
+}
+
 .invertedp {
 	color: #ffffff !important;
 }
