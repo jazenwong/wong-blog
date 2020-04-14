@@ -11,10 +11,11 @@ permalink: challenging-coca-cola
 
 "Logical" thinking often isn't applicable in reality. For example, if you were tasked with making a competitor to Coke, a logical thinker may think something like:
 
-<strong>"We need to produce a drink that tastes nicer than Coke, that costs less than Coke, and that comes in a really big bottle so people get value for money." (page ix)</strong>
+> <strong>"We need to produce a drink that tastes nicer than Coke, that costs less than Coke, and that comes in a really big bottle so people get value for money." (page ix)</strong>
 
 Makes sense right? But there's one beverage that is worse tasting than Coke, more expensive, and comes in a small bottle that rivals Coke — Red Bull. It doesn't pay to always be logical.
 
+<br>
 
 ## My Comments:
 
