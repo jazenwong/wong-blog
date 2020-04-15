@@ -15,7 +15,9 @@ permalink: challenging-coca-cola
 
 Makes sense right? If we market a product that's in every way "better" than Coke, we'll succeed in competing with Coke.
 
-But what if we marketed a product that's "worse tasting" than Coke, more expensive, and comes in a small bottle? Could that succeed? Turns out, it can, enter Red Bull. When a research agency did a study on what the international consumer reaction to the flavor of Red Bull would be, turns out people really hated the taste. Yet, they went with the flavor, and to this day, Red Bull is one of the most successful beverages in the market.
+But what if we marketed a product that's "worse tasting" than Coke, more expensive, and comes in a small bottle? Could that succeed? Turns out, it can — enter Red Bull.
+
+After a research agency conducted a study on consumer reaction to the flavor of Red Bull, it reported that people hated the taste. Yet, Red Bull disregarded it and went with the flavor that they still use to this day, and to this day, Red Bull is one of the most successful beverages in the market.
 
 
 ## My Thoughts:
