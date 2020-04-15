@@ -13,18 +13,22 @@ permalink: challenging-coca-cola
 
 > <strong>"We need to produce a drink that tastes nicer than Coke, that costs less than Coke, and that comes in a really big bottle so people get value for money." (page ix)</strong>
 
-Makes sense right? But there's a beverage that is "worse tasting" than Coke, more expensive, and comes in a small bottle that rivals Coke — Red Bull. It doesn't pay to always be logical.
+Makes sense right? If we market a product that's in every way "better" than Coke, we'll succeed in competing with Coke.
+
+But what if we marketed a product that's "worse tasting" than Coke, more expensive, and comes in a small bottle? Could that succeed? Turns out, it can, enter Red Bull. When a research agency did a study on what the international consumer reaction to the flavor of Red Bull would be, turns out people really hated the taste. Yet, they went with the flavor, and to this day, Red Bull is one of the most successful beverages in the market.
 
 
 ## My Thoughts:
 
-This reminds me of Steve Job's obsession with getting just the right shade of white for his products. What if instead a market research team was tasked with choosing the iPod's color? What if the iPod was initially released in blue... how would that have affected the success of the iPod?
+Deciding to keep Red Bull's flavor despite the negative feedback from market research reminds me of Steve Job's obsession with getting just the right shade of white for Apple's products. He didn't ask a market research team to choose the color for the iPod, he took that creative decision into his own hands.
+
+For fun, let's imagine it was instead a market research team was tasked with choosing the iPod's color? What if the results came back choosing blue as the winner? Imagine if the iPod was initially released in blue... how would that have affected the success of the iPod?
 
 This raises the question, when should we use market research and when shouldn't we? What role does market research play in design and marketing?
 
-Steve Jobs was famous for saying, "customers don’t know what they want until we’ve shown them."
+Steve Jobs famously said, "customers don’t know what they want until we’ve shown them."
 
-Henry Ford was famous for saying, "If I'd asked customers what they wanted, they would have told me, “A faster horse!”
+Henry Ford famously said, "If I'd asked customers what they wanted, they would have told me, “A faster horse!”
 
 What's the balance? I came across this article written by Bob Gilbreath, called [That Steve Jobs Research Quote Should RIP](https://medium.com/@mktgwithmeaning/that-steve-jobs-research-quote-should-rip-e8f3335ec66), that argued that market research does have a specific place in designing products and experiences:
 
@@ -42,15 +46,15 @@ But when it comes to criticism on the subjective design of the product, we shoul
 
 If we believe that the expression of a brand should come from a deep understanding of why the brand exists, its story, etc., then the role of the designer (whether internal or external,) is to help manifest that (whether visually or textually.)
 
-This isn't a secret, as the best agencies already have extensive discovery phases.
+This isn't a secret. The best agencies already have extensive discovery phases to learn the brand's story, principles, etc.
 
 But, it makes me wonder, how much of the designer's ego or opinion should be imposed on the client? Because there's no question that the designer will impose their own thoughts and experiences onto the brand — it's what they're paid to do. They're paid to advise and create based on their design experience and education. But, they have to balance that with helping the client bring what they want to life.
 
 Although it's in the client's best interests to put down their ego and be open-minded to the designer's suggestions, that doesn't always happen.
 
-When a designer and client have to work together, the best solutions come about when both sides can put down their egos. If that's impossible, then it may be better for the two to not work together at all. The designer won't be able to design with the client's best intent in mind and the client won't be able to genuinely sell the brand.
+When a designer and client have to work together, the best solutions come about when both sides can put down their egos. If that's impossible, then it's better for the two to not work together at all. The designer won't be able to design with the client's best intent in mind and the client won't be able to genuinely sell the finished product.
 
-So, designers, marketers, and agencies should carefully choose their clients and shouldn't be afraid to turn down jobs. Clients should look for and treasure designers / creative partners who are empathetic. Clients should also be looking at it as a learning experience where they can gain new story telling tools.
+So, designers, marketers, and agencies should carefully choose their clients and shouldn't be afraid to turn down jobs. Clients should look for and treasure designers / creative partners who are empathetic. Clients should also be looking at the engagement as a learning experience where they can gain new story telling tools.
 
 **Side Note:** <strong class="strong">Turning away business for the right reasons is good for your brand.</strong> Turning away business might seem "bad" in the short-run because you turn away that revenue. But if done in-line with the company's values and properly communicated, it can positively influence the company's brand, resulting in more revenue in the long-run. At the company I work at, we turn away a lot of "low-value" business that would be relatively easy for us to execute but isn't in line with our brand and what we aim to do (to be the best at executing high-value deployments.) We may have lost revenue in the short-term, but we've been able to build a reputation for being the "high-value" player in the market. For example, every time a client brings us a project that is lower in value, we'll explain that it's not something we'll be cost effective at doing, and that we're built for high-value, complex deals (this is, of course, an abridged version.) In our client's minds, they start to relate our brand with "high-value," and whenever there's a high-value project, we'll have a better chance at being considered for it (they might even give us more weight in the consideration) — which is priceless.
 
@@ -58,4 +62,4 @@ So, designers, marketers, and agencies should carefully choose their clients and
 
 *From "The 22 Immutable Laws of Marketing" - The Law of Focus*
 
-**Side Note:** Designers should learn sales. Not the "car salesman" kind of sales, but the educational, question asking, problem uncovering sales. A lot of the times, the client isn't willing to accept a "better idea" because they can't or don't want to understand the concept. A good designer might give them an alternate solution. But the best designers who have the experience, will ensure that any misunderstandings are equalized before proposing alternatives. I'll write a piece on how designers can do this in the future.
+**Side Note:** All designers should think about learning sales (and not just the salespeople at a firm.) Not the "car salesman" kind of sales, but the educational, question asking, problem uncovering sales. A lot of the times, the client isn't willing to accept a "better idea" because they can't or don't want to understand the concept. A good designer might give them an alternate solution. But the best designers who have the experience, will ensure that any misunderstandings are equalized before proposing alternatives. I'll write a piece on how designers can do this in the future.
