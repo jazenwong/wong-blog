@@ -18,7 +18,7 @@ Makes sense right? But there's a beverage that is "worse tasting" than Coke, mor
 
 ## My Thoughts:
 
-This reminds me of Steve Job's obsession with getting just the right white for his products. What if a market research team was tasked with choosing the iPod's color? What if the iPod was initially released in blue... how would that have affected the success of the iPod?
+This reminds me of Steve Job's obsession with getting just the right shade of white for his products. What if instead a market research team was tasked with choosing the iPod's color? What if the iPod was initially released in blue... how would that have affected the success of the iPod?
 
 This raises the question, when should we use market research and when shouldn't we? What role does market research play in design and marketing?
 
