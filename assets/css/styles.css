@@ -649,4 +649,44 @@ body {
 	max-width: 1500px;
 }
 
+.hometext h3 {
+	font-size: 16px;
+}
+
+.homeposts h1 {
+  font-size: 22px;
+}
+
+.homeposts p {
+	font-size: 16px;
+}
+
+.homeposts sub {
+	font-size: 14px;
+}
+
+.pagelayout h2 {
+	font-size: 22px;
+}
+
+.postsummary p {
+	font-size: 16px;
+}
+
+
+.postbody h2{
+	font-size: 20px;
+	line-height: 1.5;
+}
+
+.postbody h3 {
+	font-size: 16px;
+	line-height: 1.5;
+}
+
+.postbody p {
+	font-size: 16px;
+	line-height: 1.7;
+}
+
 }
