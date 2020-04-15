@@ -52,6 +52,6 @@ So, designers, marketers, and agencies should carefully choose their clients and
 
 ![The Law of Focus from the 22 Immutable Laws of Marketing](/assets/blogimages/the_law_of_focus.png "The Law of Focus")
 
-From "The 22 Immutable Laws of Marketing" - The Law of Focus
+*From "The 22 Immutable Laws of Marketing" - The Law of Focus*
 
 **Side Note:** Designers should learn sales. Not the "car salesman" kind of sales, but the educational, question asking, problem uncovering sales. A lot of the times, the client isn't willing to accept a "better idea" because they can't or don't want to understand the concept. A good designer might give them an alternate solution. But the best designers who have the experience, will ensure that any misunderstandings are equalized before proposing alternatives. I'll write a piece on how designers can do this in the future.
