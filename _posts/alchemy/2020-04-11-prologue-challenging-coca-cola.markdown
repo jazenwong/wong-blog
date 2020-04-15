@@ -24,7 +24,7 @@ After a research agency conducted a study on consumer reaction to the flavor of 
 
 Deciding to keep Red Bull's flavor despite the negative feedback from market research reminds me of Steve Job's obsession with getting just the right shade of white for Apple's products. He didn't ask a market research team to choose the color for the iPod, he took that creative decision into his own hands.
 
-For fun, let's imagine it was instead a market research team was tasked with choosing the iPod's color? What if the results came back choosing blue as the winner? Imagine if the iPod was initially released in blue... how would that have affected the success of the iPod?
+For fun, let's imagine it was instead a market research team that was tasked with choosing the iPod's color. What if the results came back choosing blue as the winner? Imagine if the iPod was initially released in blue... how would that have affected the success of the iPod?
 
 This raises the question, when should we use market research and when shouldn't we? What role does market research play in design and marketing?
 
