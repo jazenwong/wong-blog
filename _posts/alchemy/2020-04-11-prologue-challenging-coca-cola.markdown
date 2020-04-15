@@ -13,7 +13,7 @@ permalink: challenging-coca-cola
 
 > <strong>"We need to produce a drink that tastes nicer than Coke, that costs less than Coke, and that comes in a really big bottle so people get value for money." (page ix)</strong>
 
-Makes sense right? But there's one beverage that is worse tasting than Coke, more expensive, and comes in a small bottle that rivals Coke — Red Bull. It doesn't pay to always be logical.
+Makes sense right? But there's a beverage that is "worse tasting" than Coke, more expensive, and comes in a small bottle that rivals Coke — Red Bull. It doesn't pay to always be logical.
 
 
 ## My Thoughts:
