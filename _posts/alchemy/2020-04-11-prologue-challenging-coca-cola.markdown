@@ -16,7 +16,7 @@ permalink: challenging-coca-cola
 Makes sense right? But there's one beverage that is worse tasting than Coke, more expensive, and comes in a small bottle that rivals Coke — Red Bull. It doesn't pay to always be logical.
 
 
-## My Comments:
+## My Thoughts:
 
 This reminds me of Steve Job's obsession with getting just the right white for his products. What if a market research team was tasked with choosing the iPod's color? What if the iPod was initially released in blue... how would that have affected the success of the iPod?
 
@@ -32,21 +32,25 @@ What's the balance? I came across this article written by Bob Gilbreath, called 
 
 And I agree — market research can be used to help you identify the pain points of the consumer so you can design and improve the functionality of a product. This sort of market research is known as ["observation."](https://www.thebalancesmb.com/everything-you-need-to-know-about-market-observation-4043445)
 
-Market research can help put us in the shoes of the consumer, but how much can it help when it comes to making subjective design choices, like helping us choose color? Perhaps the later chapters of Alchemy will give us more insight into this. At the time of writing, I believe that these subjective choices should come from a deep sense of what you or the founders of the brand believe. You can find things that represent the ideas you want to present, and go with your "gut," test, and constantly look for ways to that represent your brand more "truthfully."
+Market research can help put us in the shoes of the consumer, but how much can it help when it comes to making subjective design choices, like helping us choose color? Perhaps the later chapters of Alchemy will give us more insight into this. At the time of writing, I believe that these subjective choices should come from a deep sense of what you or the founders of the brand believe. You can find things that represent the ideas you want to present, and go with your "gut," test, and constantly look for ways that represent your brand more "truthfully."
 
 The second kind of market research that Bob describes is when you get customer feedback after showing them the product you've designed. This is helpful in evaluating both the functional and subjective design choices that were made. If there's valid criticism on the functional design of the product, that's probably worth taking a look at. For example, if test consumers said that the Red Bull's can was painful to hold, that's probably worth taking a look at.
 
-But when it comes to criticism on the subjective design of the product, we should show caution. Just like how Red Bull's flavor wasn't well received, it doesn't mean the taste should be changed.
+But when it comes to criticism on the subjective design of the product, we should show caution. Just like in the Red Bull example, just because the flavor wasn't well received, it doesn't mean that it should be changed.
 
 ## The Role of the Designer / Agency / Freelancer
 
-If we believe that the subjective expression of a brand should come from a deep understanding of why the brand exists, its story, etc., then the role of the designer (whether internal or external,) is to help bring that to life (whether visually or textually.)
+If we believe that the expression of a brand should come from a deep understanding of why the brand exists, its story, etc., then the role of the designer (whether internal or external,) is to help manifest that (whether visually or textually.)
 
-It makes me wonder, how much of the designer's ego should be imposed on the client? Because there's no question that the designer will impose their own thoughts and experiences onto the brand — it's what they're paid to do. They're paid to advise and create based on their design experience and education. It's also in the client's best interests to put down their ego and be open-minded to the designer's suggestions. For the client, it's a learning experience where they can gain new story telling tools.
+This isn't a secret, as the best agencies already have extensive discovery phases.
+
+But, it makes me wonder, how much of the designer's ego or opinion should be imposed on the client? Because there's no question that the designer will impose their own thoughts and experiences onto the brand — it's what they're paid to do. They're paid to advise and create based on their design experience and education. But, they have to balance that with helping the client bring what they want to life.
+
+Although it's in the client's best interests to put down their ego and be open-minded to the designer's suggestions, that doesn't always happen.
 
 When a designer and client have to work together, the best solutions come about when both sides can put down their egos. If that's impossible, then it may be better for the two to not work together at all. The designer won't be able to design with the client's best intent in mind and the client won't be able to genuinely sell the brand.
 
-So, designers, marketers, and agencies should carefully choose their clients and shouldn't be afraid to turn down jobs. Clients should look for and treasure designers / creative partners who are empathetic.
+So, designers, marketers, and agencies should carefully choose their clients and shouldn't be afraid to turn down jobs. Clients should look for and treasure designers / creative partners who are empathetic. Clients should also be looking at it as a learning experience where they can gain new story telling tools.
 
 **Side Note:** <strong class="strong">Turning away business for the right reasons is good for your brand.</strong> Turning away business might seem "bad" in the short-run because you turn away that revenue. But if done in-line with the company's values and properly communicated, it can positively influence the company's brand, resulting in more revenue in the long-run. At the company I work at, we turn away a lot of "low-value" business that would be relatively easy for us to execute but isn't in line with our brand and what we aim to do (to be the best at executing high-value deployments.) We may have lost revenue in the short-term, but we've been able to build a reputation for being the "high-value" player in the market. For example, every time a client brings us a project that is lower in value, we'll explain that it's not something we'll be cost effective at doing, and that we're built for high-value, complex deals (this is, of course, an abridged version.) In our client's minds, they start to relate our brand with "high-value," and whenever there's a high-value project, we'll have a better chance at being considered for it (they might even give us more weight in the consideration) — which is priceless.
 
