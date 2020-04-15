@@ -44,13 +44,19 @@ The second kind of market research that Bob describes is when you get customer f
 
 But when it comes to criticism on the subjective design of the product, we should show caution. Just like in the Red Bull example, just because the flavor wasn't well received, it doesn't mean that it should be changed.
 
+Red Bull has shown us that we are allowed to go against conventional wisdom and trust our gut. But where does the "gut feeling" come from?
+
+One place comes from a deep sense of what the brand stands for. Designers, agencies, and branders are often tasked with manifesting the "deep sense" of a brand into something visual / textual.
+
 ## The Role of the Designer / Agency / Freelancer
 
-If we believe that the expression of a brand should come from a deep understanding of why the brand exists, its story, etc., then the role of the designer (whether internal or external,) is to help manifest that (whether visually or textually.)
+In order for designers / branders (whether internal of external) to do their job well, they have to understand the client in and out (their story, mission, people, principles, etc.)
 
-This isn't a secret. The best agencies already have extensive discovery phases to learn the brand's story, principles, etc.
+This isn't a secret. The best agencies have extensive discovery processes to learn about their client's story, principles, etc.
 
-But, it makes me wonder, how much of the designer's ego or opinion should be imposed on the client? Because there's no question that the designer will impose their own thoughts and experiences onto the brand — it's what they're paid to do. They're paid to advise and create based on their design experience and education. But, they have to balance that with helping the client bring what they want to life.
+But, it makes me wonder, if there's a brander / designer tasked with helping manifest the brand, how much of the designer's ego or opinion should be imposed on the brand?
+
+There's no question that the designer will impose their own thoughts and experiences onto the brand — it's what they're paid to do. They're paid to advise and create based on their design experience and education. But, they have to balance that with helping the client bring what they want to life.
 
 Although it's in the client's best interests to put down their ego and be open-minded to the designer's suggestions, that doesn't always happen.
 
