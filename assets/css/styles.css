@@ -425,7 +425,9 @@ nav h2 a:hover {
 }
 
 .zibaldone-explanation {
-	margin-bottom: 60px;
+	margin-bottom: 40px;
+	padding-bottom: 40px;
+	border-bottom: 1px solid #333;
 }
 
 .zibaldone-explanation p {
@@ -449,7 +451,8 @@ nav h2 a:hover {
 
 .zibaldone-layout h3 {
 	font-size: 16px;
-	text-decoration: underline;
+	font-weight: 400;
+	font-style: italic;
 	margin-bottom: 40px;
 }
 
