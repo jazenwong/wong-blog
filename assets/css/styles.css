@@ -367,6 +367,21 @@ nav h2 a:hover {
 	display: inline-block; */
 }
 
+.brand-note {
+	font-weight: 700 !important;
+	color: #fed100 !important;
+}
+
+.sales-note {
+	font-weight: 700 !important;
+	color: #EA3F60 !important;
+}
+
+.design-note {
+	font-weight: 700 !important;
+	color: #2cb696 !important;
+}
+
 .picturelayout {
 	padding: 80px 0;
 }
