@@ -367,17 +367,20 @@ nav h2 a:hover {
 	display: inline-block; */
 }
 
-.postbody .brand-note a {
+.postbody .brand-note a ,
+.zibaldone .brand-note a {
 	font-weight: 700 !important;
 	color: #fed100 !important;
 }
 
-.postbody .sales-note a {
+.postbody .sales-note a ,
+.zibaldone .sales-note a {
 	font-weight: 700 !important;
 	color: #EA3F60 !important;
 }
 
-.postbody .design-note a {
+.postbody .design-note a ,
+.zibaldone .design-note a {
 	font-weight: 700 !important;
 	color: #2cb696 !important;
 }
