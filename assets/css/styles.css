@@ -391,8 +391,7 @@ nav h2 a:hover {
 .zibaldone .brand-note a:hover ,
 .postbody .design-note a:hover ,
 .zibaldone .design-note a:hover {
-	opacity: .9;
-	transition: .2 all ease-in-out;
+	font-style: italic;
 }
 
 
