@@ -385,6 +385,17 @@ nav h2 a:hover {
 	color: #2cb696 !important;
 }
 
+.postbody .sales-note a:hover ,
+.zibaldone .sales-note a:hover ,
+.postbody .brand-note a:hover ,
+.zibaldone .brand-note a:hover ,
+.postbody .design-note a:hover ,
+.zibaldone .design-note a:hover {
+	opacity: .9;
+	transition: .2 all ease-in-out;
+}
+
+
 .picturelayout {
 	padding: 80px 0;
 }

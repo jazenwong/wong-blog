@@ -9,7 +9,7 @@ permalink: challenging-coca-cola
 
 ## Summary:
 
-"Logical" thinking often isn't applicable in marketing and design. For example, if you were tasked with making a competitor to Coke, strict "logical" may sound something like:
+"Logical" thinking often isn't applicable in marketing and design. For example, if you were tasked with making a competitor to Coke, strict "logical" thinking may sound something like:
 
 > <strong>"We need to produce a drink that tastes nicer than Coke, that costs less than Coke, and that comes in a really big bottle so people get value for money." (page ix)</strong>
 
