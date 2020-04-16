@@ -424,7 +424,7 @@ nav h2 a:hover {
 	padding-bottom: 15px;
 }
 
-.zibaldone p {
+.zibaldone-explanation {
 	margin-bottom: 80px;
 	line-height: 1.4;
 }
@@ -435,6 +435,16 @@ nav h2 a:hover {
 
 .zibaldone a:visited {
 	text-decoration: underline;
+}
+
+.zibaldone-layout > div {
+	margin-bottom: 40px;
+}
+
+.zibaldone-layout h3 {
+	font-size: 16px;
+	text-decoration: underline;
+	margin-bottom: 40px;
 }
 
 
@@ -538,6 +548,22 @@ nav {
 	grid-column: 5/-1;
 	grid-row: 3/4;
 	padding-top: 50px;
+}
+
+.zibaldone-layout {
+	display: grid;
+	grid-template-columns: repeat(12, 1fr);
+	grid-column-gap: 20px;
+}
+
+.reflections {
+	grid-column: 1/8;
+	grid-row: 1/2;
+}
+
+.snippets {
+	grid-column: 8/-1;
+	grid-row: 1/2;
 }
 
 footer {
