@@ -425,12 +425,18 @@ nav h2 a:hover {
 }
 
 .zibaldone-explanation {
-	margin-bottom: 80px;
+	margin-bottom: 60px;
+}
+
+.zibaldone-explanation p {
 	line-height: 1.4;
+	margin-bottom: 20px;
 }
 
 .zibaldone a {
 	color: #005450;
+	display: block;
+	margin-bottom: 20px;
 }
 
 .zibaldone a:visited {
