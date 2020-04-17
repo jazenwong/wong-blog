@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: Prologue / Challenging Coca-Cola / Market Research vs. Intuition
+title: Prologue / Challenging Coca-Cola
 date: 2020-04-11
 categories: alchemy
 description: What can Coke and Red Bull teach us about market research and design?
