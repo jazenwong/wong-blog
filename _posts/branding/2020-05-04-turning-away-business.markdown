@@ -2,7 +2,7 @@
 layout: "post"
 title: How Turning Away Business Can be Good for Your Brand. Scarcity Marketing & Luxury Brands.
 date: 2020-05-04
-categories: brand
+categories: branding
 description: This post explores the different ways turning business down can be beneficial to a brand. We'll discuss luxury branding, limited release / scarcity branding.
 permalink: turning-away-business-good-for-brand
 ---
@@ -83,7 +83,7 @@ This is the power of scarcity marketing.
 ### Bah Kuh Teh
 In Malaysia, there's a dish called, "Bah Kuh Teh." It's pork bone soup, and it's delicious.
 
-![Bah Kuh Teh](/assets/blogimages/SNKRS.jpeg "Bah Kuh Teh")
+![Bah Kuh Teh](/assets/blogimages/BahKuhTeh.jpeg "Bah Kuh Teh")
 
 There is a district that's famous for this dish, called Klang. If you want to eat Bah Kuh Teh at Klang, you must get there before 10 am, and ideally before 8 am. Why? Because they open at 4 am, sell out by 10 am and don't make any more.
 
