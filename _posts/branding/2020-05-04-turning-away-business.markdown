@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: How Turning Away Business Can be Good for Your Brand. Scarcity Marketing & Luxury Brands.
+title: How Turning Away Business Can be Good for Your Brand. Scarcity Marketing & Better Brands.
 date: 2020-05-04
 categories: branding
 description: This post explores the different ways turning business down can be beneficial to a brand. We'll discuss consulting and scarcity branding.
@@ -101,3 +101,6 @@ Usually, the one with less slices. We think to ourselves, "that cake must be goo
 The whole cake might be a fresh one that's replacing the one that sold out. But yet, the cake with less slices stands out to us.
 
 I bet it'll benefit bakeries to leave only 2 - 3 slices on a tray, instead of the whole cake.
+
+![ParisBakery](/assets/blogimages/ParisBakery.png "A Bakery in Paris")
+*A Bakery in Paris*
