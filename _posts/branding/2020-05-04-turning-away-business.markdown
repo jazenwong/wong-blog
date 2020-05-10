@@ -3,7 +3,7 @@ layout: "post"
 title: How Turning Away Business Can be Good for Your Brand. Scarcity Marketing & Luxury Brands.
 date: 2020-05-04
 categories: branding
-description: This post explores the different ways turning business down can be beneficial to a brand. We'll discuss luxury branding, limited release / scarcity branding.
+description: This post explores the different ways turning business down can be beneficial to a brand. We'll discuss consulting and scarcity branding.
 permalink: turning-away-business-good-for-brand
 ---
 
@@ -11,7 +11,7 @@ There are many examples of where "turning away business" is good for a company's
 
 Think of all the times you wanted something but couldn't get it, how did it affect your feeling towards it? It made you want it even more. This applies to everything from wanting toys, brands, and of course, people.
 
-An example of turning away business could be a company saying, "Sorry, we aren't a good fit for this project." Another example is scarcity marketing and pricing-out markets.
+An example of turning away business could be a company saying, "Sorry, we aren't a good fit for this project." Another example is scarcity marketing.
 
 We'll discuss how each of these tactics can improve a company's sales and brand.
 
@@ -39,10 +39,7 @@ What about the lost revenue? We made that up and more in the high-value shipment
 ### Grow & Convert
 G&C are a content-marketing-as-a-service agency (that have awesome content on their blog.) On February of 2020, they made a post titled, []"Does Content Marketing Make Sense for Early Stage Companies? Our Thoughts."](https://growandconvert.com/content-marketing/does-content-marketing-make-sense-early-stage-companies/) In that post, they said:
 
->We define early stage companies as:
->They haven’t proven that they can market and sell through at least one cold channel
->Their positioning/messaging is still being worked out
->We won’t be working with companies that fit that criteria going forward.
+![G&C](/assets/blogimages/G&C.png "G&C")
 
 They went onto explaining why they made this decision. As a reader and prospect, it made me respect them as an agency for three reasons.
 
