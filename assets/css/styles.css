@@ -321,12 +321,11 @@ nav h2 a:hover {
 }
 
 .postbody h3 {
-	font-size: 14px;
+	font-size: 15px;
 	font-weight: 700;
 	line-height: 1.4;
 	margin-top: 5px;
 	margin-bottom: 20px;
-	display: inline-block;
 }
 
 .postbody p {
