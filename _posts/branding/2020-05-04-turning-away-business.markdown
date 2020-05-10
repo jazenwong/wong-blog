@@ -102,5 +102,5 @@ The whole cake might be a fresh one that's replacing the one that sold out. But 
 
 I bet it'll benefit bakeries to leave only 2 - 3 slices on a tray, instead of the whole cake.
 
-![ParisBakery](/assets/blogimages/ParisBakery.png "A Bakery in Paris")
+![ParisBakery](/assets/blogimages/ParisBakery.jpg "A Bakery in Paris")
 *A Bakery in Paris*
