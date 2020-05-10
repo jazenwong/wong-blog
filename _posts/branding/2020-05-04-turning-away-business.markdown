@@ -5,22 +5,22 @@ date: 2020-05-04
 categories: branding
 description: This post explores the different ways turning business down can be beneficial to a brand. We'll discuss consulting and scarcity branding.
 permalink: turning-away-business-good-for-brand
-image: /assets/blogimages/SNKRS.jpeg
+image: "/assets/blogimages/SNKRS.jpeg"
 ---
 
 There are many examples of where "turning away business" is good for a company's brand. It may sound counterintuitive but the psychology behind it is sound.
 
-Think of all the times you wanted something but couldn't get it, how did it affect your feeling towards it? It made you want it even more. This applies to everything from wanting toys, brands, and of course, people.
+Think of all the times you wanted something but couldn't get it, how did it affect your feeling towards it? It made you want it even more. This applies to everything from wanting toys, brands, to people.
 
 An example of turning away business could be a company saying, "Sorry, we aren't a good fit for this project." Another example is scarcity marketing.
 
-We'll discuss how each of these tactics can improve a company's sales and brand.
+We'll discuss how each of these tactics can improve a company's sales and brand image.
 
 ## "Sorry, we aren't a good fit for this project."
 
 Agencies, freelancers, consulting, and service firms, are often approached with business requests. It's not always wise, however, for a company to take on any and all jobs. It's important for a company to decide what their ideal job is and why. This will help them build towards the brand they want to be and get more "ideal jobs."
 
-In the short-run, this is difficult to do, especially if you're a small business owner. But in the right circumstances, this can be a powerful branding strategy.
+In the short-run, this is difficult to do because turning away business means less revenue (especially if you're a small business owner.) But in the right circumstances, this can be a powerful branding strategy.
 
 I'll share two examples: the company I work for, FGX, and Grow and Convert.
 
@@ -38,7 +38,7 @@ In the client's mind, we've established a space for where we exist, which is inv
 What about the lost revenue? We made that up and more in the high-value shipments that we won from those same clients.
 
 ### Grow & Convert
-G&C are a content-marketing-as-a-service agency (that have awesome content on their blog.) On February of 2020, they made a post titled, []"Does Content Marketing Make Sense for Early Stage Companies? Our Thoughts."](https://growandconvert.com/content-marketing/does-content-marketing-make-sense-early-stage-companies/) In that post, they said:
+G&C are a content-marketing-as-a-service agency (that have awesome content on their blog.) On February of 2020, they made a post titled, ["Does Content Marketing Make Sense for Early Stage Companies? Our Thoughts."](https://growandconvert.com/content-marketing/does-content-marketing-make-sense-early-stage-companies/) In that post, they said:
 
 ![G&C](/assets/blogimages/G&C.png "G&C")
 
@@ -72,11 +72,9 @@ Now, of course Nike is more than capable of creating a gajillion shoes, and thei
 
 Customers will get dozens of their friends (and sometimes even strangers) to line up for them.
 
-Some people will flip these shoes. They know the demand still exists after the limited release, and re-sell the shoe at a higher price. Sometimes, the re-sell price of the shoe can go up to 5x the MSRP.
+Some people will flip these shoes. They know the demand still exists after the limited release, and re-sell the shoe at a higher price. Sometimes, the re-sell price of the shoe can go up to 5x the MSRP. Ultimately, this increases the brand value of Nike and their shoe lines.
 
-[Benjamin Kickz, a 16 year old from Florida, became a millionaire from re-selling shoes.](http://yonah.org/channel/sneakerdon-benjamin-kapelushnik/)
-
-This is the power of scarcity marketing.
+[Benjamin Kickz, a 16 year old from Florida, became a millionaire from taking advantage of scarcity marketing and re-selling shoes.](http://yonah.org/channel/sneakerdon-benjamin-kapelushnik/)
 
 ### Bah Kuh Teh
 In Malaysia, there's a dish called, "Bah Kuh Teh." It's pork bone soup, and it's delicious.
@@ -85,11 +83,11 @@ In Malaysia, there's a dish called, "Bah Kuh Teh." It's pork bone soup, and it's
 
 There is a district that's famous for this dish, called Klang. If you want to eat Bah Kuh Teh at Klang, you must get there before 10 am, and ideally before 8 am. Why? Because they open at 4 am, sell out by 10 am and don't make any more.
 
-Of course they could make more. But, it would most likely hurt their sales.
+Of course they /could/ make more. But, it would most likely hurt their sales.
 
-Bah Kuh Teh's great taste and limited supply makes it always in demand. There's never a day they don't sell out.
+Bah Kuh Teh's limited supply makes it always in demand. There's never a day they don't sell out.
 
-The funny part is, that the locals will come up with reasons for why they can't make any more. They do it to justify to themselves the exclusivity and quality of the product.
+The funny part is, locals will come up with reasons for why they can't make any more, like it takes too long or there aren't enough high quality ingredients. These reasons justify to themselves the exclusivity and quality of the product.
 
 ### One Last Example, Bakeries
 
