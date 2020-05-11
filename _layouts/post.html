@@ -6,7 +6,7 @@ layout: "wrapper"
   <div class="postsummary">
     <h1>{{ page.title }}</h1>
     <p>{{ page.description }}</p>
-    <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
+    <img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}" title="{{ post.title }}">
   </div>
 </section>
 
