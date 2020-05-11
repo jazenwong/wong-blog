@@ -5,7 +5,7 @@ date: 2020-05-04
 categories: branding
 description: This post explores the different ways turning business down can be beneficial to a brand. We'll discuss consulting and scarcity branding.
 permalink: turning-away-business-good-for-brand
-image: "assets/blogimages/SNKRS.jpeg"
+image: assets/blogimages/SNKRS.jpeg
 ---
 
 There are many examples of where "turning away business" is good for a company's brand. It may sound counterintuitive but the psychology behind it is sound.
@@ -18,7 +18,7 @@ We'll discuss how each of these tactics can improve a company's sales and brand 
 
 ## "Sorry, we aren't a good fit for this project."
 
-Agencies, freelancers, consulting, and service firms, are often approached with business requests. It's not always wise, however, for a company to take on any and all jobs. It's important for a company to decide what their ideal job is and why. This will help them build towards the brand they want to be and get more "ideal jobs."
+Agencies, freelancers, consulting, and service firms, are often approached with business requests. It's not always wise, however, for a company to take on any and all jobs. It's important for a company to decide what their "ideal job" is and why. This will help them build towards the brand they want to be and get more "ideal jobs."
 
 In the short-run, this is difficult to do because turning away business means less revenue (especially if you're a small business owner.) But in the right circumstances, this can be a powerful branding strategy.
 
