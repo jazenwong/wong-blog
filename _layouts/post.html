@@ -2,7 +2,7 @@
 layout: "wrapper"
 ---
 
-{% for post %}
+
 <section class="postlayout">
       <div class="postsummary">
         <h1>{{ page.title }}</h1>
@@ -12,7 +12,7 @@ layout: "wrapper"
         {% endif %}
       </div>
 </section>
-{% endfor %}
+
 <section class="postbody">
   {{content}}
   {% include lazyload.html %}
