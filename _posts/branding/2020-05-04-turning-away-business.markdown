@@ -5,7 +5,7 @@ date: 2020-05-04
 categories: branding
 description: This post explores the different ways turning business down can be beneficial to a brand. We'll discuss consulting and scarcity branding.
 permalink: turning-away-business-good-for-brand
-image: assets/blogimages/SNKRS.jpeg
+image: SNKRS.jpeg
 ---
 
 There are many examples of where "turning away business" is good for a company's brand. It may sound counterintuitive but the psychology behind it is sound.
@@ -14,7 +14,7 @@ Think of all the times you wanted something but couldn't get it, how did it affe
 
 An example of turning away business could be a company saying, "Sorry, we aren't a good fit for this project." Another example is scarcity marketing.
 
-We'll discuss how each of these tactics can improve a company's sales and brand image.
+We'll discuss how these strategies can improve a company's sales and brand image.
 
 ## "Sorry, we aren't a good fit for this project."
 
