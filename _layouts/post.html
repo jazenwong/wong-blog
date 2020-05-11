@@ -1,17 +1,23 @@
 ---
 layout: "wrapper"
 ---
+{% if page.image %}
+  <meta property="og:image" content="{{ site.baseurl }}/assets/blogimages/{{ post.image }}">
+{% else %}
+  <meta property="og:image" content="{{ site.baseurl }}/assets/blogimages/{{ post.image }}">
+{% endif %}
 
+{% for post in site.categories.blog %}
 <section class="postlayout">
       <div class="postsummary">
         <h1>{{ page.title }}</h1>
         <p>{{ page.description }}</p>
         {% if page.image %}
-        <img src="{{ site.baseurl }}/assets/blogimages/{{ post.image }}" alt="{{ post.title }}" title="{{ post.title }}">
+          <img src="{{ site.baseurl }}/assets/blogimages/{{ post.image }}" alt="{{ post.title }}" title="{{ post.title }}">
         {% endif %}
       </div>
 </section>
-
+{% endfor %}
 <section class="postbody">
   {{content}}
   {% include lazyload.html %}
