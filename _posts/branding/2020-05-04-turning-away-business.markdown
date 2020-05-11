@@ -18,7 +18,7 @@ We'll discuss how these strategies can improve a company's sales and brand image
 
 ## "Sorry, we aren't a good fit for this project."
 
-Agencies, freelancers, consulting, and service firms, are often approached with all sorts of business requests. It's not always wise, however, for a company to take on any and all jobs. It's important for a company to decide what their "ideal job" is and why. This will help them build towards the brand they want to be and get more "ideal jobs."
+Agencies, freelancers, consulting, and service firms, are often approached with all sorts of business requests. It's not always wise, however, for a company to take on any and all jobs. It's important for a company to decide what their "ideal job" is and why that is. This will help them build towards the brand they want to be and get more "ideal jobs."
 
 In the short-run, this is difficult to do because turning away business means less revenue (especially if you're a small business owner.) But in the right circumstances, this can be a powerful branding strategy.
 
