@@ -1,13 +1,8 @@
 ---
 layout: "wrapper"
 ---
-{% if page.image %}
-  <meta property="og:image" content="{{ site.baseurl }}/assets/blogimages/{{ post.image }}">
-{% else %}
-  <meta property="og:image" content="{{ site.baseurl }}/assets/blogimages/{{ post.image }}">
-{% endif %}
 
-{% for post in site.categories.blog %}
+{% for post in site.posts %}
 <section class="postlayout">
       <div class="postsummary">
         <h1>{{ page.title }}</h1>
