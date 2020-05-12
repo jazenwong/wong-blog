@@ -370,14 +370,6 @@ nav h2 a:hover {
 	display: inline-block; */
 }
 
-.postbody p:has(> img) {
-	text-align: center;
-}
-
-.postbody img {
-	width: 75%;
-}
-
 .postbody .brand-note a ,
 .zibaldone .brand-note a {
 	font-weight: 700 !important;
