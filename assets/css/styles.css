@@ -312,7 +312,7 @@ nav h2 a:hover {
 }
 
 .postsummary img {
-	visibility: hidden;
+	display: none;
 }
 
 .postbody h2{
