@@ -3,7 +3,7 @@ layout: "post"
 title: Prologue / Rory's Rules of Alchemy
 date: 2020-04-11
 categories: alchemy
-description:
+description: The rules listed in Rory's book.
 permalink: rorys-rules
 ---
 

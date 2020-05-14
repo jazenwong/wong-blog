@@ -1,41 +1,38 @@
 ---
 layout: "wrapper"
 ---
-<section class="homefeed">
-  <div class="hometext">
-    <h3>I do sales, branding, and marketing for an international logistics company and my blog explores concepts and ideas about design, business, and everything in-between.</h3>
-    <h3>I believe that at their core, business, brand, and design is meant to connect people — so feel free to reach out!</h3>
-    <h3>email: jazenwong@gmail.com</h3>
-    <h3>linkedin: <a href="www.linkedin.com/in/jazenwong">www.linkedin.com/in/jazenwong</a></h3>
-    <h3>instagram: jwazen</h3>
+<section class="pagelayout">
+  <div class="home-header">
+    <h1 class="red-highlight">A blog about branding, marketing, and sales. <br><br>and me.</h1>
   </div>
-  <div class="homeloop">
-  {% for post in paginator.posts %}
-    <div class="homeposts">
-      <h1><a href="{{ site.baseurl }}{{ post.url }}" aria-label="{{ post.title }}">{{ post.title }}</a></h1>
-      <p>{{ post.description }}</p>
-      <sub>{{ post.date | date_to_long_string }}</sub>
+  <div class="home-pagebody">
+    <p class="recent-posts">Recent Posts</p>
+    <div>
+    {% for post in paginator.posts %}
+      <div class="loop-posts">
+        <h2><a href="{{ site.baseurl }}{{ post.url }}" aria-label="{{ post.title }}">{{ post.title }}</a></h2>
+        <p>{{ post.description }}</p>
+        <sub>{{ post.date | date_to_long_string }}</sub><sub><a class="maroon-highlight" href="{{ site.baseurl }}{{ post.categories }}">{{ post.categories}}</a></sub>
+      </div>
+    {% endfor %}
     </div>
-  {% endfor %}
+    <!-- Pagination links -->
+    <div class="paginator">
+      <span>
+        Page: {{ paginator.page }} of {{ paginator.total_pages }} //
+      </span>
+      {% if paginator.previous_page %}
+        <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous">
+          Previous
+        </a>
+      {% else %}
+        <span>Previous //</span>
+      {% endif %}
+      {% if paginator.next_page %}
+        <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next">Next</a>
+      {% else %}
+        <span>Next</span>
+      {% endif %}
+    </div>
   </div>
-
-  <!-- Pagination links -->
-  <div class="pagination">
-    <span class="page_number ">
-      Page: {{ paginator.page }} of {{ paginator.total_pages }} //
-    </span>
-    {% if paginator.previous_page %}
-      <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous">
-        Previous
-      </a>
-    {% else %}
-      <span class="previous">Previous //</span>
-    {% endif %}
-    {% if paginator.next_page %}
-      <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next">Next</a>
-    {% else %}
-      <span class="next "> Next</span>
-    {% endif %}
-  </div>
-
 </section>
