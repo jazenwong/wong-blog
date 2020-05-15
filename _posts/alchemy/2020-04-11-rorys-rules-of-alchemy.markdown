@@ -5,6 +5,8 @@ date: 2020-04-11
 categories: alchemy
 description: The rules listed in Rory's book.
 permalink: rorys-rules
+image: Nike_Shoe.jpg
+image-description: Nike killed the sneaker game by using scarcity branding.
 ---
 
 1. The opposite of a good idea can also be a good idea.

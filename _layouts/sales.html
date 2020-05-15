@@ -1,19 +1,24 @@
 ---
 layout: "wrapper"
 ---
-<section class="pagelayout">
+<section class="page-layout categories-container">
   <h2>{{ page.title }}</h2>
 
-{% for post in categories.Design %}
+{% for post in categories.Sales %}
 {{ post.title }}
 {% endfor %}
 
-{% for post in site.categories.designxbusiness %}
+{% for post in site.categories.sales %}
   {% if post.url %}
-  <div class="homeposts">
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <p>{{ post.description }}</p>
-      <sub>{{ post.date | date_to_long_string }}</sub>
+  <div class="categories">
+    <div class="categories-post">
+        {% if post.image %}
+          <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/assets/blogimages/{{ post.image }}" alt="{{ site.baseurl }}{{ post.title }}""></a>
+        {% endif %}
+        <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+        <p>{{ post.description }}</p>
+        <sub>{{ post.date | date_to_long_string }}</sub>
+    </div>
   </div>
   {% endif %}
 {% endfor %}

@@ -5,7 +5,8 @@ date: 2020-05-04
 categories: branding
 description: This post explores the different ways turning business down can be beneficial to a brand. We'll discuss consulting and scarcity branding.
 permalink: turning-away-business-good-for-brand
-image: SNKRS.jpeg
+image: Nike_Shoe.jpg
+image-description: Nike killed the sneaker game by using scarcity branding.
 ---
 
 There are many examples of where "turning away business" is good for a company's brand. It may sound counterintuitive but the psychology behind it is sound.
@@ -16,7 +17,7 @@ An example of turning away business could be a company saying, "Sorry, we aren't
 
 We'll discuss how these strategies can improve a company's sales and brand image.
 
-## "Sorry, we aren't a good fit for this project."
+## Sorry, we aren't a good fit for this project.
 
 Agencies, freelancers, consulting, and service firms, are often approached with all sorts of business requests. It's not always wise, however, for a company to take on any and all jobs. It's important for a company to decide what their "ideal job" is and why that is. This will help them build towards the brand they want to be and get more "ideal jobs."
 
@@ -24,7 +25,7 @@ In the short-run, this is difficult to do because turning away business means le
 
 I'll share two examples: the company I work for, FGX, and Grow and Convert.
 
-### FGX
+### First Global Xpress
 For the sake of simplicity, I'll describe FGX as an international logistics company. FGX ships IT equipment for multinational businesses all around the world. Our ideal job is shipping high-value equipment, like network switches and servers. These projects are more profitable and better fit our business model of moving fast.
 
 But, we're often approached by those same companies to ship lower-value IT equipment. Almost all the time, we say no to the business despite having the capacity to do those shipments. I would estimate that we've turned away a few million dollars worth of revenue over the past 3 years.
@@ -99,7 +100,6 @@ Usually, the one with less slices. We think to ourselves, "that cake must be goo
 
 The whole cake might be a fresh one that's replacing the one that sold out. But yet, the cake with less slices stands out to us.
 
-I bet it'll benefit bakeries to leave only 2 - 3 slices on a tray, instead of the whole cake.
-
 ![ParisBakery](/assets/blogimages/ParisBakery.jpg "A Bakery in Paris")
-*A Bakery in Paris*
+
+I bet it'll benefit bakeries to leave only 2 - 3 slices on a tray, instead of the whole cake.

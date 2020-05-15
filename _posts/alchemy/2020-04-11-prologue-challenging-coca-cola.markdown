@@ -5,9 +5,9 @@ date: 2020-04-11
 categories: alchemy
 description: What can Coke and Red Bull teach us about market research and design?
 permalink: challenging-coca-cola
+image: Nike_Shoe.jpg
+image-description: Nike killed the sneaker game by using scarcity branding.
 ---
-
-## Summary:
 
 "Logical" thinking often isn't applicable in marketing and design. For example, if you were tasked with making a competitor to Coke, strict "logical" thinking may sound something like:
 
