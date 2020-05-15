@@ -3,9 +3,9 @@ layout: "wrapper"
 ---
 <section class="page-layout">
   <div class="home-header">
-    <h1>A blog about branding, marketing, and sales.<br> <br></h1>
+    <h1 class="red-highlight">A blog about branding, design, and sales.<br> <br></h1>
     <h1>//<br><br></h1>
-    <h1 class="red-highlight">and me.</h1>
+    <h1>and me.</h1>
   </div>
   <div class="home-pagebody">
     <p class="recent-posts">Recent Posts</p>
@@ -21,14 +21,14 @@ layout: "wrapper"
     <!-- Pagination links -->
     <div class="paginator">
       <span>
-        Page: {{ paginator.page }} of {{ paginator.total_pages }} //
+        Page: {{ paginator.page }} of {{ paginator.total_pages }} &nbsp; // &nbsp;
       </span>
       {% if paginator.previous_page %}
         <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous">
           Previous
         </a>
       {% else %}
-        <span>Previous //</span>
+        <span>Previous &nbsp;// &nbsp; &nbsp;</span>
       {% endif %}
       {% if paginator.next_page %}
         <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next">Next</a>
