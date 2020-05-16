@@ -228,6 +228,18 @@ nav {
 	font-family: var(--sans-serif-font);
 }
 
+.align-right {
+	text-align: right;
+}
+
+.align-left {
+	text-align: left;
+}
+
+.align-center {
+	text-align: center;
+}
+
 .strong {
 	font-weight: 500 !important;
 }
@@ -241,7 +253,7 @@ nav {
 }
 
 .red-highlight {
-	color: #9B2335;
+	color: #9B2335 !important;
 }
 
 .maroon-highlight {
@@ -305,7 +317,7 @@ nav .page-link {
 }
 
 .loop-posts {
-	margin-bottom: 2.2rem;
+	margin-bottom: 2rem;
 }
 
 /* Blog Post */
@@ -374,7 +386,39 @@ nav .page-link {
 	margin-top: 40px;
 }
 
+/* Travel */
+
+.travel a > div {
+	display: none;
+}
+
+.travel h1 {
+	font-size: 48px;
+	text-transform: uppercase;
+	margin-bottom: 0px;
+  line-height: 1.2;
+}
+
+/* China */
+
+.china {
+	display: none;
+}
+
+.china-container {
+	grid-column: 4/-1;
+	margin-top: 90px;
+}
+
+.chinese-characters {
+	font-family: 'Noto Sans SC', sans-serif;
+}
+
 @media only screen and (min-width: 768px){
+
+html {
+	padding: 0px;
+}
 
 body {
 	display: grid;
@@ -384,6 +428,7 @@ body {
 .name {
 	grid-column: 1/14;
 	grid-row: 1/2;
+	padding-left: 25px;
 }
 
 nav {
@@ -392,6 +437,11 @@ nav {
 	padding-top: 120px;
 	margin-bottom: 0px;
 	border-bottom: none !important;
+	padding-left: 25px;
+}
+
+.about-nav {
+	padding-right: 25px;
 }
 
 footer {
@@ -399,6 +449,7 @@ footer {
 	grid-row: 4/5;
 	grid-column-start: -1;
 	margin-top: 80px;
+	padding-right: 25px;
 }
 
 .invertedhometext {
@@ -518,6 +569,14 @@ footer {
 	grid-row: 3/4;
 }
 
+/* Travel */
+
+.travel {
+	grid-column: 3/14;
+	grid-row: 2/3;
+	margin-top: 60px;
+}
+
 }
 
 @media only screen and (min-width: 1024px){
@@ -626,6 +685,244 @@ sub {
 }
 
 /* About Me */
+
+/* Travel */
+
+.travel h1 {
+	font-size: 102px;
+	letter-spacing: -2px;
+}
+
+.travel a:hover >div {
+	display: block;
+}
+
+.travel img {
+	position: absolute;
+	top: 16%;
+	right: 0px;
+}
+
+.travel-image-one {
+	width: 25%;
+}
+
+.travel-image-two {
+	width: 25%;
+}
+
+.travel-image-three {
+	width: 33%;
+}
+
+.travel-image-four {
+	width: 30%;
+}
+
+/* China */
+
+.china-container {
+	grid-column: 3/14;
+	margin-top: 30px;
+}
+
+.mobile-unfriendly {
+	display: none;
+}
+
+.china {
+	display: block;
+	font-family: var(--sans-serif-font);
+	position: relative;
+}
+
+.china-navigation {
+	/* position: sticky; */
+	top: 0;
+	border-bottom: 2px solid #333;
+	padding-bottom: 30px;
+	margin-bottom: 40px;
+	padding-top: 10px;
+	z-index: 999;
+}
+
+.china-body {
+	z-index: 1;
+}
+
+.china-links h2 {
+	display: inline-block;
+	padding-right: 40px;
+	font-size: 40px;
+}
+
+.china-body h1 {
+	line-height: 1.2;
+}
+
+.china-regions {
+	display: grid;
+	grid-template-columns: repeat(12 ,1fr);
+}
+
+.china-regions h2 {
+	grid-column: 1/-1;
+	grid-row: 1/2;
+	margin-bottom: 20px;
+}
+
+.china figcaption {
+	font-size: 14px;
+	line-height: 1.3;
+	margin-top: 20px;
+}
+
+.china-regions .figure-1 {
+	grid-column: 1/7;
+	grid-row: 2/3;
+	display: grid;
+	grid-template-columns: repeat(2,1fr);
+	grid-column-gap: 20px;
+}
+
+.china-regions .figure-2 {
+	grid-column: 8/12;
+	grid-row: 2/3;
+}
+
+.china-regions .figure-3 {
+	grid-column: 1/10;
+	grid-row: 3/4;
+	top: -305px;
+	position: relative;
+	display: grid;
+	grid-template-columns: repeat(2,1fr);
+	grid-column-gap: 20px;
+	align-items: end;
+}
+
+.china-regions .figure-4 {
+	grid-column: 1/5;
+	grid-row: 4/5;
+	padding-right: 20px;
+	top: -200px;
+	position: relative;
+}
+
+.china-regions .figure-5 {
+	grid-column: 5/9;
+	grid-row: 4/5;
+	padding-right: 20px;
+	top: -200px;
+	position: relative;
+}
+
+.china-regions .figure-6 {
+	grid-column: 9/14;
+	grid-row: 4/5;
+	top: -200px;
+	position: relative;
+}
+
+.figure-7 {
+	position: relative;
+	top: -100px;
+	grid-column: 1/6;
+	grid-row: 5/6;
+}
+
+.figure-7 .chinese-characters {
+	top: 150px;
+	position: relative;
+	font-size: 100px;
+}
+
+.figure-8 {
+	position: relative;
+	top: -100px;
+	padding-left: 40px;
+	width: 90%;
+	margin-left: auto;
+	grid-column: 6/14;
+	grid-row: 5/6;
+}
+
+.figure-9 {
+	grid-column: 1/10;
+	grid-row: 6/7;
+}
+
+.figure-10 {
+	grid-column: 10/14;
+	grid-row: 6/7;
+	margin-left: 30px;
+	margin-right: 40px;
+}
+
+.figure-10 .chinese-characters {
+	position: relative;
+	top: 40px;
+	font-size: 70px;
+	writing-mode: vertical-lr;
+	text-orientation: upright;
+}
+
+.figure-11 {
+	grid-column: 1/4;
+	grid-row: 7/8;
+	margin-right: 40px;
+	position: relative;
+	top: 100px;
+}
+
+.figure-12 {
+	grid-column: 4/12;
+	grid-row: 7/8;
+	position: relative;
+	top: 100px;
+	display: grid;
+	grid-template-columns: repeat(2,1fr);
+	grid-column-gap: 20px;
+}
+
+.figure-13 {
+	grid-column: 1/4;
+	grid-row: 8/9;
+	position: relative;
+	top: 200px;
+}
+
+.figure-14 {
+	grid-column: 5/14;
+	grid-row: 8/9;
+	position: relative;
+	top: 250px;
+}
+
+.figure-14 figcaption {
+	width: 40%;
+}
+
+.figure-15 {
+	grid-column: 1/9;
+	grid-row: 9/10;
+	position: relative;
+	top: 300px;
+	display: grid;
+	grid-template-columns: repeat(2,1fr);
+	grid-column-gap: 20px;
+}
+
+.figure-15 figcaption {
+	margin-top: 40px;
+}
+
+.figure-16 {
+	grid-column: 1/-1;
+	grid-row: 10/11;
+	position: relative;
+	top: 400px;
+}
 
 }
 
