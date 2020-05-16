@@ -907,17 +907,19 @@ sub {
 	display: grid;
 	grid-template-columns: repeat(2,1fr);
 	grid-column-gap: 20px;
+	padding-bottom: 40px;
 }
 
-.figure-15 figcaption {
-	margin-top: 40px;
-}
-
-.figure-16 {
+.return-top {
 	grid-column: 1/-1;
 	grid-row: 10/11;
 	position: relative;
-	top: 400px;
+	top: 300px;
+	margin-bottom: 40px;
+}
+
+.active-region {
+	color: #9B2335;
 }
 
 }
@@ -926,6 +928,8 @@ sub {
 
 html {
 	max-width: 1600px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 
