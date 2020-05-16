@@ -928,6 +928,9 @@ sub {
 
 @media only screen and (min-width: 1600px){
 
+html {
+	max-width: 1600px;
+}
 
 
 }
