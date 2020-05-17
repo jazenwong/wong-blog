@@ -155,7 +155,7 @@ html {
 }
 
 body {
-	height: 100vh;
+	
 }
 
 footer {
@@ -199,7 +199,6 @@ p {
 
 a {
 	font-family: var(--sans-serif-font);
-	color: color: #9B2335;
 }
 
 blockquote {
@@ -346,6 +345,10 @@ nav .page-link {
 .post-body p {
 	font-size: 15px;
 	line-height: 1.4;
+}
+
+.post-body a {
+	color: #9B2335;
 }
 
 .post-summary img {
