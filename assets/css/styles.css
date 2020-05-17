@@ -50,6 +50,11 @@ table {
 		--mono-font: 'Source Code Pro', monospace;
 }
 
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+}
+
 /* latin-ext */
 
 @font-face {
@@ -147,6 +152,10 @@ img {
 
 html {
   padding: 0 25px;
+}
+
+body {
+	height: 100vh;
 }
 
 footer {

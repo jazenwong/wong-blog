@@ -41,7 +41,7 @@ What about the lost revenue? We made that up and more in the high-value shipment
 ### Grow & Convert
 G&C are a content-marketing-as-a-service agency (that have awesome content on their blog.) On February of 2020, they made a post titled, ["Does Content Marketing Make Sense for Early Stage Companies? Our Thoughts."](https://growandconvert.com/content-marketing/does-content-marketing-make-sense-early-stage-companies/) In that post, they said:
 
-![G&C](/assets/blogimages/G&C.png "G&C")
+![G&C](/assets/blogimages/G&C.png#center "G&C")
 
 They went onto explaining why they made this decision. As a reader and prospect, it made me respect them as an agency for three reasons.
 
@@ -67,7 +67,7 @@ They have certain shoe lines that are high in demand. They don't sell them at an
 
 You line up via an online line, either on their website or their SNKRs app. For any given shoe, there will be an exact time where you must check-in on the app. If you're lucky enough, they congratulate you on "winning" the shoe, that you then have to pay for.
 
-![SNKRS App](/assets/blogimages/SNKRS.jpeg "SNKRS App")
+![SNKRS App](/assets/blogimages/SNKRS.jpeg#center "SNKRS App")
 
 Now, of course Nike is more than capable of creating a gajillion shoes, and their customers know that. But even when the customers know that, it does not affect them the slightest.
 
@@ -80,7 +80,7 @@ Some people will flip these shoes. They know the demand still exists after the l
 ### Bah Kuh Teh
 In Malaysia, there's a dish called, "Bah Kuh Teh." It's pork bone soup, and it's delicious.
 
-![Bah Kuh Teh](/assets/blogimages/BahKuhTeh.jpg "Bah Kuh Teh")
+![Bah Kuh Teh](/assets/blogimages/BahKuhTeh.jpg#center "Bah Kuh Teh")
 
 There is a district that's famous for this dish, called Klang. If you want to eat Bah Kuh Teh at Klang, you must get there before 10 am, and ideally before 8 am. Why? Because they open at 4 am, sell out by 10 am and don't make any more.
 
@@ -100,6 +100,6 @@ Usually, the one with less slices. We think to ourselves, "that cake must be goo
 
 The whole cake might be a fresh one that's replacing the one that sold out. But yet, the cake with less slices stands out to us.
 
-![ParisBakery](/assets/blogimages/ParisBakery.jpg "A Bakery in Paris")
+![ParisBakery](/assets/blogimages/ParisBakery.jpg#center "A Bakery in Paris")
 
 I bet it'll benefit bakeries to leave only 2 - 3 slices on a tray, instead of the whole cake.
