@@ -26,7 +26,7 @@ But, we're often approached by those same companies to ship lower-value IT equip
 
 But every time that we turn away those lower-valued shipments, we tell the client why. We tell them, "FGX isn't built to support lower-value shipments. We'll be way too expensive. You're better off using FedEx. As you know, we focus on high-value, mission-critical shipments."
 
-By admitting that we weren't good at lower-value shipments, clients gave us a positive. This is called the "Law of Candor." In the client's mind, we've established a space for where we exist, which is invaluable. When they have a high-value shipment, they will think of us. By turning away business, we tell our clients not just who we are, but who we aren't — this is branding. What about the lost revenue? We made that up and more in the high-value shipments that we won from those same clients.
+By admitting that we weren't good at lower-value shipments, clients gave us a positive. This is called the "Law of Candor." In the client's mind, we've established a space for where we exist, which is invaluable. When they have a high-value shipment, they will think of us. By turning away business, we tell our clients not just who we are, but who we aren't—this is branding. What about the lost revenue? We made that up and more in the high-value shipments that we won from those same clients.
 
 ### Grow & Convert
 G&C are a content-marketing-as-a-service agency (that have awesome content on their blog.) On February of 2020, they made a post titled, ["Does Content Marketing Make Sense for Early Stage Companies? Our Thoughts."](https://growandconvert.com/content-marketing/does-content-marketing-make-sense-early-stage-companies/) In that post, they said:
@@ -35,7 +35,7 @@ G&C are a content-marketing-as-a-service agency (that have awesome content on th
 
 They went onto explaining why they made this decision. As a reader and prospect, it made me respect them as an agency for three reasons.
 
-The first reason is because it told me that they thought about what they were best at and why. The second and third reasons are more psychological. It made me feel that they were more "exclusive." Just because you wanted to work with them, didn't mean that you could. It made me want to work with them even more. It also told me one more thing — that they were in a position to say no. They had enough business that they didn't have to take every single new client. If they have options and can turn away business, they must be good at what they do.
+The first reason is because it told me that they thought about what they were best at and why. The second and third reasons are more psychological. It made me feel that they were more "exclusive." Just because you wanted to work with them, didn't mean that you could. It made me want to work with them even more. It also told me one more thing—that they were in a position to say no. They had enough business that they didn't have to take every single new client. If they have options and can turn away business, they must be good at what they do.
 
 ## Scarcity Marketing
 Scarcity marketing is when a company limits the supply of a product or experience. Supply can refer to the duration or physical availability of a product. Why is this effective? Because limiting the supply of a product makes it more in demand. The crazy part is, even when customers know that supply is artificial, they will still line up.
