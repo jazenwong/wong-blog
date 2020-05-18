@@ -155,7 +155,7 @@ html {
 }
 
 body {
-	
+
 }
 
 footer {
@@ -658,6 +658,10 @@ sub {
 .home-header {
 	padding-left: 0rem;
 	padding-right: 3rem;
+}
+
+.home-header h1 {
+	width: 77%;
 }
 
 .loop-posts {
