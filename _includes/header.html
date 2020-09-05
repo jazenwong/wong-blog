@@ -1,6 +1,6 @@
 
 <nav>
-  <a href="{{ site.url }}" class="red-highlight strong">{{ site.title }}</a>
+  <p><em><a href="{{ site.url }}" class="red-highlight strong">{{ site.title }}</a></em><p>
   {% for page in site.pages %}
     {% unless page.exclude %}
         <a class="page-link" href="{{ page.url | prepend: site.baseurl }}" aria-label="{{ page.title }}">
@@ -8,6 +8,6 @@
         </a>
     {% endunless %}
   {% endfor %}
-        <a href="/about" class="about-nav">About Me</a>
-        <a href="https://mailchi.mp/1269f76fb847/blog_signup" class="page-link">I'll Post Updates</a>
+  <a href="/about" class="about-nav">About Me</a>
+  <a href="https://mailchi.mp/1269f76fb847/blog_signup" class="page-link">Updates</a>
 </nav>
