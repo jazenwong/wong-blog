@@ -31,7 +31,7 @@ By admitting that we weren't good at lower-value shipments, clients gave us a po
 ### Grow & Convert
 G&C are a content-marketing-as-a-service agency (that have awesome content on their blog.) On February of 2020, they made a post titled, ["Does Content Marketing Make Sense for Early Stage Companies? Our Thoughts."](https://growandconvert.com/content-marketing/does-content-marketing-make-sense-early-stage-companies/) In that post, they said:
 
-![G&C](/assets/blogimages/G&C.png#center "G&C")
+>We define early stage companies as: 1)They haven't proven that they can market and sell through at least one cold channel 2)Their positioning / messaging is still working out.
 
 They went onto explaining why they made this decision. As a reader and prospect, it made me respect them as an agency for three reasons.
 
@@ -64,6 +64,6 @@ Of course they *could* make more. But, it would most likely hurt their sales. Ba
 
 Ever notice when you go to a bakery that there are whole cakes and cakes with one or two slices left? Which cake seems more appealing? Usually, the one with less slices. We think to ourselves, "that cake must be good, they sold so many slices." But, that thought process is purely psychological and not grounded in reality. The whole cake might be a fresh one that's replacing the one that sold out. But yet, the cake with less slices stands out to us.
 
-![ParisBakery](/assets/blogimages/ParisBakery.jpg#center "A Bakery in Paris")
+![ParisBakery](/assets/blogimages/ParisBakery.jpeg#center "A Bakery in Paris")
 
 I bet it'll benefit bakeries to leave only 2 - 3 slices on a tray, instead of the whole cake.
