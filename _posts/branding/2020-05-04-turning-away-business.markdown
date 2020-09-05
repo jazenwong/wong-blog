@@ -45,7 +45,7 @@ Nike's marketing of "Limited Release" shoes is a great example of this.
 
 They have certain shoe lines that are high in demand. They don't sell them at any time and at any quantity. You must line up. You line up via an online line, either on their website or their SNKRs app. For any given shoe, there will be an exact time where you must check-in on the app. If you're lucky enough, they congratulate you on "winning" the shoe, that you then have to pay for.
 
-![SNKRS App](/assets/blogimages/SNKRS.jpeg#center "SNKRS App")
+![SNKRS App](/assets/blogimages/SNKRS.jpg#center "SNKRS App")
 
 Now, of course Nike is more than capable of creating a gajillion shoes, and their customers know that. But even when the customers know that, it does not affect them the slightest. Customers will get dozens of their friends (and sometimes even strangers) to line up for them.
 
@@ -64,6 +64,6 @@ Of course they *could* make more. But, it would most likely hurt their sales. Ba
 
 Ever notice when you go to a bakery that there are whole cakes and cakes with one or two slices left? Which cake seems more appealing? Usually, the one with less slices. We think to ourselves, "that cake must be good, they sold so many slices." But, that thought process is purely psychological and not grounded in reality. The whole cake might be a fresh one that's replacing the one that sold out. But yet, the cake with less slices stands out to us.
 
-![ParisBakery](/assets/blogimages/ParisBakery.jpeg#center "A Bakery in Paris")
+![ParisBakery](/assets/blogimages/ParisBakery.jpg#center "A Bakery in Paris")
 
 I bet it'll benefit bakeries to leave only 2 - 3 slices on a tray, instead of the whole cake.
