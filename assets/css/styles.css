@@ -227,7 +227,6 @@ sub {
 }
 
 nav {
-  border-bottom: 1px solid #333;
   padding: 40px 0;
 	margin-bottom: 40px;
 	font-size: 14px;
