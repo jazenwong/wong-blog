@@ -267,11 +267,19 @@ nav a {
 	margin-top: 60px;
 }
 
+/* categories */
 
+.categories-post a {
+	margin-bottom: .5rem;
+}
 
 @media only screen and (min-width: 768px){
 
-nav {
+/* categories */
+
+.categories {
+	column-count: 2;
+	column-gap: 10px;
 }
 
 }
