@@ -279,9 +279,6 @@ nav a {
 	text-align: justify;
 }
 
-.about-dots {
-	display: none;
-}
 
 @media only screen and (min-width: 768px){
 
@@ -339,16 +336,6 @@ nav {
 
 .about-contact {
 	grid-column: 3/4;
-}
-
-.about-dots {
-	grid-column: 5/6;
-	display: block;
-	writing-mode: vertical-lr;
-}
-
-.about-dots p {
-	text-align: center;
 }
 
 }
