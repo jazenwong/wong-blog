@@ -250,8 +250,8 @@ nav a {
 }
 
 .post-summary h1 ,
-.post-summary h2 ,
-.post-summary h3 {
+.post-body h2 ,
+.post-body h3 {
 	text-transform: uppercase;
 }
 
