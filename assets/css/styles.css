@@ -245,10 +245,24 @@ nav a {
 
 /* posts */
 
-.post-summary h1 {
+.post-summary img {
+	margin-bottom: 10px;
+}
+
+.post-summary h1 ,
+.post-summary h2 ,
+.post-summary h3 {
 	text-transform: uppercase;
+}
+
+.post-summary h1 {
 	font-size: 28px;
 	margin-bottom: 60px;
+}
+
+.post-summary h2 ,
+.post-summary h3 {
+	margin-top: 60px;
 }
 
 .post-summary p {
