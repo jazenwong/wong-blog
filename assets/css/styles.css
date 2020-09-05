@@ -171,6 +171,7 @@ h1 {
 	font-size: 22px;
 	line-height: 1.15;
 	margin-bottom: 1rem;
+	text-transform: uppercase;
 }
 
 h2 {
@@ -179,6 +180,7 @@ h2 {
 	font-weight: 500;
 	margin-bottom: .5rem;
 	line-height: 1.2;
+	text-transform: uppercase;
 }
 
 h3 {
@@ -187,6 +189,7 @@ h3 {
 	font-weight: 500;
 	line-height: 1.2;
 	margin-bottom: .5rem;
+	text-transform: uppercase;
 }
 
 p {
@@ -248,12 +251,6 @@ nav a {
 
 .post-summary img {
 	margin-bottom: 10px;
-}
-
-.post-summary h1 ,
-.post-body h2 ,
-.post-body h3 {
-	text-transform: uppercase;
 }
 
 .post-summary h1 {
