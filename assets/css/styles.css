@@ -227,7 +227,7 @@ sub {
 }
 
 nav {
-  padding: 40px 0;
+  padding: 10px 0;
 	margin-bottom: 40px;
 	font-size: 14px;
 	display: flex;
