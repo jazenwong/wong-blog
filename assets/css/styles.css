@@ -242,10 +242,6 @@ nav a {
 	font-weight: 500;
 }
 
-.nav-links {
-	display: flex;
-}
-
 /* posts */
 
 .post-summary img {
