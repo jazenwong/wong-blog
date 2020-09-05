@@ -273,11 +273,6 @@ nav a {
 	margin-bottom: .5rem;
 }
 
-/* about */
-
-.about-layout img {
-	margin-bottom: .5rem;
-}
 
 @media only screen and (min-width: 768px){
 
@@ -286,6 +281,14 @@ nav a {
 .categories {
 	column-count: 2;
 	column-gap: 10px;
+}
+
+/* about */
+
+.about-layout {
+	display: grid;
+	grid-template-columns: repeat(2,1fr);
+	grid-column-gap: 10px;
 }
 
 }
