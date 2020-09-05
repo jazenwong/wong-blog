@@ -233,6 +233,7 @@ nav {
 	margin-bottom: 40px;
 	font-size: 14px;
 	display: flex;
+	background-color: #ffffff;
 }
 
 .strong {
@@ -285,12 +286,51 @@ nav a {
 
 @media only screen and (min-width: 1024px){
 
+nav {
+	position: sticky;
+	top: 0;
+}
+
+/* posts */
+
+.post-summary h1 {
+	font-size: 48px;
+	text-align: center;
+}
+
+.post-body {
+	max-width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.post-body h2 {
+	font-size: 22px;
+}
+
+.post-body h3 {
+	font-size: 20px;
+}
 
 
 }
 
 @media only screen and (min-width: 1366px) {
 
+/* posts */
+
+.post-summary h1 {
+	font-size: 52px;
+	text-align: center;
+}
+
+.post-body h2 {
+	font-size: 24px;
+}
+
+.post-body h3 {
+	font-size: 22px;
+}
 
 }
 
