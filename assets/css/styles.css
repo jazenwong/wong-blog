@@ -273,6 +273,11 @@ nav a {
 	margin-bottom: .5rem;
 }
 
+/* about */
+
+.about-layout p {
+	text-align: justify;
+}
 
 @media only screen and (min-width: 768px){
 
