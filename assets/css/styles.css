@@ -273,6 +273,12 @@ nav a {
 	margin-bottom: .5rem;
 }
 
+/* about */
+
+.about-layout img {
+	margin-bottom: .5rem;
+}
+
 @media only screen and (min-width: 768px){
 
 /* categories */
