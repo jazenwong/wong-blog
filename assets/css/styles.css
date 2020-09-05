@@ -246,6 +246,13 @@ nav a {
 	font-weight: 500;
 }
 
+/* posts */
+
+.post-summary h1 {
+	text-transform: uppercase;
+	font-size: 28px;
+}
+
 @media only screen and (min-width: 768px){
 
 html {
