@@ -342,8 +342,10 @@ nav {
 }
 
 .about-dots {
+	grid-column: 5/6;
 	display: block;
 	writing-mode: vertical-lr;
+	text-align: center;
 }
 
 }
