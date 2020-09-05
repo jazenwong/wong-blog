@@ -152,6 +152,7 @@ img {
 
 html {
   padding: 0 25px;
+	font-family: var(--sans-serif-font);
 }
 
 body {
@@ -229,22 +230,9 @@ sub {
 
 nav {
   border-bottom: 1px solid #333;
-  padding: 60px 0 40px 0;
-	margin-bottom: 60px;
+  padding: 40px 0;
+	margin-bottom: 40px;
 	font-size: 14px;
-	font-family: var(--sans-serif-font);
-}
-
-.align-right {
-	text-align: right;
-}
-
-.align-left {
-	text-align: left;
-}
-
-.align-center {
-	text-align: center;
 }
 
 .strong {
