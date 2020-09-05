@@ -230,6 +230,7 @@ nav {
   padding: 40px 0;
 	margin-bottom: 40px;
 	font-size: 14px;
+	display: flex;
 }
 
 .strong {
@@ -274,7 +275,6 @@ nav a {
 @media only screen and (min-width: 768px){
 
 nav {
-
 }
 
 }
