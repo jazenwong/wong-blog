@@ -224,8 +224,9 @@ hr {
 sub {
 	color: #4d4d4d;
 	font-size: 12px;
-	font-family: var(--mono-font);
+	font-style: italic;
 	word-spacing: -3px;
+	margin-bottom: 1rem;
 }
 
 nav {
