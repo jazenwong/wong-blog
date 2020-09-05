@@ -230,7 +230,6 @@ nav {
   padding: 40px 0;
 	margin-bottom: 40px;
 	font-size: 14px;
-	display: flex;
 }
 
 .strong {
@@ -241,6 +240,10 @@ nav a {
 	margin-right: 1rem;
 	text-transform: uppercase;
 	font-weight: 500;
+}
+
+.nav-links {
+	display: flex;
 }
 
 /* posts */
