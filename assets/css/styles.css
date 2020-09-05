@@ -279,6 +279,10 @@ nav a {
 	text-align: justify;
 }
 
+.about-dots {
+	display: none;
+}
+
 @media only screen and (min-width: 768px){
 
 /* categories */
@@ -297,11 +301,11 @@ nav a {
 }
 
 .about-text {
-	grid-column: 1/3;
+	grid-column: 1/4;
 }
 
 .about-contact {
-	grid-column: 3/6;
+	grid-column: 4/6;
 	margin-left: 40px;
 }
 
@@ -325,6 +329,21 @@ nav {
 	max-width: 700px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+/* about */
+
+.about-text {
+	grid-column: 1/3;
+}
+
+.about-contact {
+	grid-column: 3/4;
+}
+
+.about-dots {
+	display: block;
+	writing-mode: vertical-lr;
 }
 
 }
