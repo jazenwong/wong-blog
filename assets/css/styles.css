@@ -269,6 +269,10 @@ nav a {
 
 /* categories */
 
+.categories-post {
+	margin-bottom: 20px;
+}
+
 .categories-post img {
 	margin-bottom: .5rem;
 }
@@ -289,7 +293,7 @@ nav a {
 
 /* categories */
 
-.categories {
+.categories-container {
 	column-count: 2;
 	column-gap: 10px;
 }
