@@ -54,8 +54,6 @@ Some people will flip these shoes. They know the demand still exists after the l
 ### Bah Kuh Teh
 In Malaysia, there's a dish called, "Bah Kuh Teh." It's pork bone soup, and it's delicious.
 
-![Bah Kuh Teh](/assets/blogimages/BahKuhTeh.jpg#center "Bah Kuh Teh")
-
 There is a district that's famous for this dish, called Klang. If you want to eat Bah Kuh Teh at Klang, you must get there before 10 am, and ideally before 8 am. Why? Because they open at 4 am, sell out by 10 am and don't make any more.
 
 Of course they *could* make more. But, it would most likely hurt their sales. Bah Kuh Teh's limited supply makes it always in demand. There's never a day they don't sell out. The funny part is, locals will come up with reasons for why they can't make any more, like it takes too long or there aren't enough high quality ingredients. These reasons justify to themselves the exclusivity and quality of the product.
