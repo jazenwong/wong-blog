@@ -37,7 +37,7 @@ The shoe itself was made to withstand the elements and to keep the wearer's feet
 
 ![Timberland Ad](/assets/blogimages/TimberlandAd.jpeg#center "Timberland Ad")
 
-But another group of people, not Timberland's target audience, white working men, started to take a liking to their shoes - [hip-hop and R&B artists](https://www.vice.com/en_au/article/vb3gy9/how-hip-hop-coopted-a-boot-made-for-construction-workers). Vibe, a hip-hop lifestyle magazine, even paid tribute to the Timberland boots as being iconic to hip-hop in their September 2005 issue. An NYC museum also hosted had an exhibition called "Black Style Now" that included Timberland boots as part of "the global hip-hop uniform". Timberlands had caught on with a completely different market group than the one the founders had intended to sell to.
+But another group of people, not Timberland's target audience, white working men, started to take a liking to their shoes - [hip-hop and R&B artists](https://www.vice.com/en_au/article/vb3gy9/how-hip-hop-coopted-a-boot-made-for-construction-workers). Vibe, a hip-hop lifestyle magazine, even paid tribute to the Timberland boots as being iconic to hip-hop in their September 2005 issue. An NYC museum also hosted had an exhibition called "Black Style Now" that included Timberland boots as part of "the global hip-hop uniform." Timberlands had caught on with a completely different market group than the one the founders had intended to sell to.
 
 ![Timberland Mobb](/assets/blogimages/TimberlandMobb.jpg#center "TimberlandMobb")
 
@@ -63,9 +63,7 @@ Anything the brand does, from the product it sells to its logo, needs to leave a
 ## What Makes a Great Brand?
 It's hard to say... I don't think there's a definition that would make everyone happy. People just *know* when a brand approaches or is in that territory.
 
-In my opinion, I think the thing all great brands have in common is that they have created many "stories." Stories can be anything that leaves an impression on a person's mind. They can be found in a company's website design, case studies, the founder's story, an event they hosted, anything. It's the accumulation and subconscious study of these stories that create a brand in a consumer's mind.
-
-I'll give three examples, one of a company, a person, and a typeface.
+In my opinion, I think the thing all great brands have in common is that they have created many "stories." Stories can be anything that leaves an impression on a person's mind. They can be found in a company's website design, case studies, the founder's story, an event they hosted, anything. It's the accumulation and subconscious study of these stories that create a brand in a consumer's mind. I'll give three examples, one of a company, a person, and a typeface.
 
 ### Apple
 When we think of great branding, many people immediately think of Apple. Apple has had a plethora of stories, from the legendary story of Steve Jobs to the way they design their products, to the Apple WWDC events that started in 1987. Every effort from big to small combines to subconsciously create an idea of what a brand stands for. There are certainly events that weight than others, like Apple's "Think Different" campaign, but ultimately, it's the cumulative efforts that defines a brand in the long-run.
