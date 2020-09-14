@@ -1,4 +1,4 @@
-criticized---
+---
 layout: "post"
 title: What Is a Brand and What is Its Purpose?
 date: 2020-09-06
