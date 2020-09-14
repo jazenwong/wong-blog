@@ -1,4 +1,4 @@
----
+criticized---
 layout: "post"
 title: What Is a Brand and What is Its Purpose?
 date: 2020-09-06
@@ -54,37 +54,71 @@ Branding is most similar to reputation, in the sense that a brand's value is bas
 
 There isn't a 10-step process for guaranteeing that you'll make a great brand. Creating a brand isn't reductive in nature, it's closer to shooting in the dark and listening for the pings.
 
-I like to think of a brand as an idea that exists within a person's neural network. Whenever we humans are exposed to or learn something, our brains fire off neurons and start creating neural connections. Whether we're learning about math, politics, or business, we're creating connections within our brains. With enough study, those connections together paint a story or opinion on a particular subject. These connected stories and opinions form the brand in consumer's minds, and usually subconsciously. So, brands are created, in a way, by the subconscious study of a company or thing. Once these stories have reached enough people, the general consensus forms an agreement on that brand's reputation and what that brand stands for.
+I like to think of a brand as an idea that exists within a person's neural network. Whenever we humans are exposed to or learn something, our brains fire off neurons and start creating neural connections. Whether we're learning about math, politics, or business, we're creating connections within our brains. With enough study, those connections together paint a story or opinion on a particular subject. These connected stories and opinions form the brand in consumer's minds, usually subconsciously, and they'll suddenly decide they like, dislike, love, or hate the brand. So, brands are created, in a way, by the subconscious study of a company, person, or thing. Once these stories have reached enough people, through word of mouth, the general consensus forms an agreement on that brand's reputation and what that brand stands for.
 
 ![Branding Quote](/assets/blogimages/BrandingQuote.png#center "Branding Quote")
 
-Anything the brand does, from the product it sells to its logo, needs to leave a neural mark on the consumers brain (which is where distinctiveness comes in)—you can consider this as the table stakes. Good brands, however, try to strengthen the consumer's idea of them in a "positive way" by associating their company with different sorts of things, like their logo, a good website, marketing efforts, sales efforts, etc. Because neural connections are hard to make, great branding takes resources, time, and a ton of luck. Great brands aren't made overnight.
+Anything the brand does, from the product it sells to its logo, needs to leave a neural mark on the consumers brain (which is where distinctiveness comes in)—you can consider this as the table stakes. Good brands, however, try to strengthen the consumer's idea of them in a "positive way" by associating their company with different sorts of things, like their logo, a good website, marketing efforts, sales efforts, etc. But more than that, great brands try to create a "relationship" with the consumer. Great branding takes resources, time, and a ton of luck. Great brands aren't made overnight.
 
 ## What Makes a Great Brand?
-It's hard to say... I don't think there's a definition that would make everyone happy. People just *know* when a brand approaches or is in that territory.
+It's hard to say... I don't think there's a definition that would make everyone happy, but I think that's okay. Whether a brand can be considered great is based on your own personal criteria. To some people, a brand might be great and to some it might not be—but maybe that's where the secret lies. Great brands are decided in the eyes of the beholder; in today's age, companies don't dictate brand worth, the individual does.
 
-In my opinion, I think the thing all great brands have in common is that they have created many "stories." Stories can be anything that leaves an impression on a person's mind. They can be found in a company's website design, case studies, the founder's story, an event they hosted, anything. It's the accumulation and subconscious study of these stories that create a brand in a consumer's mind. I'll give three examples, one of a company, a person, and a typeface.
+> "It was you that was important, and everything else would define you after you defined yourself. It wasn't like a brand defined you, you defined the brand." - Chuck D. (Public Enemy)
 
-### Apple
-When we think of great branding, many people immediately think of Apple. Apple has had a plethora of stories, from the legendary story of Steve Jobs to the way they design their products, to the Apple WWDC events that started in 1987. Every effort from big to small combines to subconsciously create an idea of what a brand stands for. There are certainly events that weight than others, like Apple's "Think Different" campaign, but ultimately, it's the cumulative efforts that defines a brand in the long-run.
+If this is the case, and everything is up to individual consumer's opinions, then how can we ever make a "great brand?" I think the secret to great branding lies in understanding relationships. People often "like" things and other people, which is typically momentarily. Most people will have crushes and like many people on and off during their lifetime, but not many will "love" things.
 
-Apple since its inception, but mostly during the years Steve Job was present, has created stories. Jobs was focused on the design of everything Apple was involved in, from the products to storefronts to the Apple campus—his attention to Apple's work was a story in of in itself! Jobs had a way of telling stories in everything he did, which was just as powerful as the outcomes that he had produced.
+When someone loves their S.O., they will choose them over anyone else, even if the "alternatives" are better in every single way. Then when you ask the person why they love their S.O., they will often start thinking of the reasons on the spot. Before that moment, they might not have even consciously thought about why they love their S.O., but will then come up with a multitude of reasons. They will say that they love the fact that their S.O. is funny, good looking, career-focused, but even if they found that same combination of things in another person, they would still love their S.O. The love that people have for their loved ones is what brands should try to achieve with the consumer. Of course I'm not talking about the passionate love, but the emotive love, the love people have for their iPhones, movies like Star Wars, the list goes on. People will defend brands just like they defend their loved ones. When asked why they love a certain brand, they'll say, oh I love their products, their customer service, what they stand for, etc.
 
-Part of the reason for why—I think—people started "doubting" Apple is because after Job's passed away, the "great" stories stopped. Side Note: I don't want this to be confused with the definition of stories I set earlier, because for sure, Apple has continued to create stories by hosting events, conferences, creating great ads, etc., but since the passing of Jobs, they've lost the ability to tell "great" stories.
+So, what if brands are like relationships? We're still left with the question - how do we make a great brand? How do we make people love us? Like being a great partner, to be a great brand, you first must be... yourself. This is a cliche, but I think it makes sense. People won't like you as a person or a brand if they feel like you're pandering to them or their subgroup. People will like you, however, if you are yourself and stand for something you believe in. People will find things about you, whether true or not, to like, and will love your brand - not because you asked for them to be, but because they themselves decided to.
 
-Steve Jobs is the biggest reason for why Apple's brand is as valuable as it is. He was a storyteller and that reverberated throughout the organization.
+(There are many ways that companies can "be themselves" and stand for something they believe in without pandering, but I'll save that for another post. For the purpose of this post, I want to philosophically talk about what makes a great brand.)
 
-### Kobe Bryant
+If you're thinking, "That's stupid, just be myself? How does that work? Where's the market research??" Market research is important and has its place, which would take a whole other post to talk about, but it is less important than being yourself. The things we create as people and brands come from a deep sense of ourselves and who we are. Bob Iger, ex-CEO of Disney, described this well in his Masterclass:
 
-The frequency and volume is the most important thing, and the  
+> "Collecting data about that marketplace in order to determine what story you tell or how you tell that story, to me, is a waste of time. I don't think you ever learn enough from data about what a marketplace would want in terms of story or how a marketplace might even react to a story. That decision needs to be based more on gut instinct and on confidence you may have in the creative entity that's telling the story. I'm not a big believer in doing research that any way leads to an answer to the question what does an audience want. I typically believe that research when you bring a creative product to market beforehand doesn't do you much good. It doesn't create a roadmap, doesn't in any way end up as a positive in terms of what you create or how you create it. The collection of data needs to be complimented by the collection of real time experience. That learning about a market by looking at numbers on a computer screen might give you some insights but not all the insights you necessarily need. One way I like collecting information the most is experience. I like traveling the world, I like interacting with consumers as much as possible to get a better understanding of the marketplace and consumers in general. One of the things I say often to people is if you don't go, you can't grow. What I mean by that is you have to go to a market, on the ground in the market, and touch, and feel, and listen to, and see the market that you're in to gain a better sense of what that market is. A great example would be doing business in India. You could sit in your office in LA and study India all you want. But you're never going to learn as much as you would learn if you go there and see the sights and sounds and smells and touch the market and its people in a very, very direct way." - Bob Iger, A Ride of a Lifetime
 
-It is important to have a good typeface because even caring about it is a story in of initself!
+![Ride of a Lifetime](/assets/blogimages/RideofaLifetime.jpg#center "Ride of a Lifetime")
+
+There's also a ton of proof out there that shows "being yourself" and finding ways to be yourself is truly what's most important, whether you're selling B2C or B2B services. Look at our earlier example of Timberlands. Swartz tried to sell to one group, but a completely different group of people loved and immortalized the product.
+
+In the mainstream, we saw this with Apple. Steve Jobs, from the start, had always been himself and led Apple with that energy. He believed that we are all individuals with our own creative energies. He infused himself (his and Apple's brand) into everything he did, from his public speeches, to Apple's marketing (Think Different.) He knew who he was, what he stood for, and what he wanted—he was a leader, and people gravitate towards leaders. In the relationship analogy, you've likely heard that before you get into a relationship, you should find yourself. A brand must know itself before others can love it.
+
+![Think Different](/assets/blogimages/ThinkDifferent.png#center "Apple's Think Different")
+
+## Being Yourself
+Although there are many ways to "be yourself," I think there are a few ground rules that great brands (and people) have to follow if they wish to build a great relationship with a consumer. Great brands, like great partners in relationships, must have: Confidence, Consistency, Honesty, and sometimes, Transparency.
+
+(Of course, these are my personal opinions, but I think most healthy relationships will find that these are important virtues. If we believe that great brands are akin to great partners, then we need to determine what makes up a great partner. If you're interested in this, I think C.S. Lewis' book, Moral Christianity, is a great read. I'm not a  Christian, but it's a great analysis on objectivity.)
+
+These traits are powerful because they have the ability to spread quickly. When consumers hear stories about people and brands acting with these traits, word of mouth quickly spreads their stories like wildfire, which builds their brand reputation.
+
+### Confidence
+When I list confidence, I'm not referring to the "alpha male," "chad-like" confidence. I'm talking about having confidence in who you are and what you stand for. Great brands have confidence in the products they build, the people they hire, and decisions they make. Steve Job's famous rebuttal on a customer's critique of his decision making is a [famous example](https://www.youtube.com/watch?v=FF-tKLISfPE). Another example is how Jon Stewart, the ex-host of the Daily Show, runs his show. He will give hard interviews, call-out people when he believes they're wrong, and puts his money where his mouth is at. He built an incredible brand for the show and many recognize his show to be a more credible and honest source of news than any news network.
+
+![Jon Stewart](/assets/blogimages/JonStewart.jpg#center "Jon Stewart")
+
+Another example from a company specifically (and not a person,) is Nike with their, "Believe in something. Even if it means sacrificing everything." advertising campaign.
+
+![Nike Kaepernick Ad](/assets/blogimages/KaepernickAd.jpg#center "Nike Kaepernick Ad")
+
+They published the advertisement with conviction and had confidence in what they stood for. But this brings me to my next point, consistency.
+
+### Consistency
+It doesn't matter if you have values and are confident about sharing and defending them if you aren't consistent. People heavily criticized Nike when they decided to pull a shoe brand from their shelves in China because the shoe was Anti-Beijing. People also criticized Nike when their partner in China, the NBA, "gave in" to the Chinese government with their statement saying:
+
+> We recognize the views expressed by Houston Rocket's general manager Daryl Morey have deeply offended many of our friends and fans in China, which is regrettable.
+
+This didn't pan out well for Nike. People were mocking the brand on Reddit threads by commenting sarcastically, "Believe in something. Even if it means sacrificing everything."
+
+//
+
+How do I get people to find me? Is another question. Marketing. You still have marketing and stuff but in those events, you must be yourself. So the question then is, how do you attract consumers? How do you attract friends and people into your life? You can go meet people at school (networking events / sales,)
 
 
-Stories are the most powerful tool we have for creating an imprint into people's minds.
 
-Interestingly enough, although it helps for the stories to be related or having a common underlying theme, it's not necessary.
-
+Branding is relationship between the brand and the consumer.
 
 
-People will find a way to confirm their biases.
+CONFIDENCE, CONSITENCY - doesnt mean don't cahnge, TRANSPARENCY
+
+The thing that all great brands have in common is that they have created many "stories." Stories can be anything that leaves an impression on a person's mind. They can be found in a company's website design, case studies, the founder's story, an event they hosted, anything. It's the accumulation and subconscious study of these stories that create a brand in a consumer's mind. I'll give three examples, one of a company, a person, and a typeface.
