@@ -98,16 +98,16 @@ Jobs built stories around his products, talked about what he hoped his products 
 
 Stories leave strong neural marks on the consumer and travel through word of mouth; stories are what creates great brands. I consider a story as anything that can be passed through word of mouth. A great story is a story that carries positive emotion when told. So, stories can be anything, from writing whitepapers, creating great characters, advertising, marketing tactics, etc.
 
-Creating stories lies in the intersection of brand, marketing, and sales. Although creating advertisements, writing case studies, selling, falls in the operational realm outside of branding, these tactics must be guided by branding.
+Creating stories lies in the intersection of brand, marketing, and sales. Although creating advertisements, writing case studies, selling, falls in the operational realm outside of branding, these tactics must be guided by branding. **Branding goes hand in hand with both sales and marketing, they make it possible for brands to be great.**
 
 "Being yourself" / the company "being itself" is a branding philosophy that helps you decide which tactics are right for your organization and helps make those tactics more impactful.
 
 (The "be yourself" philosophy might seem pretty obvious to many, but I think now more than ever, people forget this, which is why I think it's important to make a case for it. In today's time, we see brands and companies bandwagon onto trends and fads without considering how it reflects on their company. We often see organizations choose to market their products the same way another company does just because it's successful, without understanding whether or not the tactic works for their brand. It's easy to get lost in the noise, especially in large organizations. Leadership can quickly forget what their products are, what stories they can honestly tell, and what the best ways of telling them are. Branding is a conscious study of a company's persona and its relationship to consumers in the marketplace. Reflecting on how an organization can "be itself" is not only about reflecting on its identity, but also its relationship to its products and customers.)
 
 ## Being Yourself
-Although there are many ways for a company to "be itself" (a famous one being Simon Sinek's Golden Circle,) I think there are a few ground rules that brands (and people) should follow if they wish to build a great relationship with a consumer. Great brands, like great partners in relationships, must have: Honesty, Confidence, Consistency, and sometimes, Transparency.
+Although there are many ways for a company to "be itself" (a famous one being Simon Sinek's "Golden Circle,") I think there are a few ground rules that brands (and people) should follow if they wish to build a great relationship with a consumer. Great brands, like great partners in relationships, must have: Honesty, Confidence, Consistency, and sometimes, Transparency.
 
-(If we believe that great brands are akin to great partners, then we need to determine what makes up a great partner. Although this is my opinion, I think that when we examine our relationships, we will find that more often than not, these traits are important to all healthy relationships.)
+(If great brands are akin to great partners, then we need to determine what makes up a great partner. Although this is my opinion, I think that when we examine our relationships, we will find that more often than not, honesty, confidence, and consistency are important to all healthy relationships.)
 
 Also, these traits are powerful because they have the ability to spread quickly. When consumers hear stories about people and brands acting with these traits, word of mouth quickly spreads their stories like wildfire, which builds their brand reputation.
 
