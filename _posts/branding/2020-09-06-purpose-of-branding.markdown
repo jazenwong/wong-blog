@@ -13,7 +13,7 @@ A quick search on Google defines a brand as:
 
 > A brand is a name, term, design, symbol or any other feature that identifies one seller's good or service as distinct from those of other sellers.
 
-This definition focuses on the superficial aspects of what makes up a brand. If a brand, however, was as simple as creating a memorable name and aesthetic logo, billion dollar companies would be created on a daily basis. Most marketers and branders know there's much more to branding than just a good logo, but oftentimes don't know exactly what that "more" is. This post is an attempt to give more insight into that "more."
+This definition focuses on the superficial aspects of what makes up a brand. Most marketers and branders, however, know there's much more to a brand and branding than just a good logo, but oftentimes don't know exactly what that "more" is. This post is an attempt to give more insight into that "more."
 
 ## What is a Brand? The Importance of Distinctiveness
 On the simplest level, a brand is a way for consumers to identify a seller. From the definition I shared earlier, the most important part of it was the bit on distinctiveness. Distinctiveness not only gives people a way to identify companies but also a way to reward them (by buying from them) when they like their products.
@@ -37,7 +37,7 @@ The shoe itself was made to withstand the elements and to keep the wearer's feet
 
 ![Timberland Ad](/assets/blogimages/TimberlandAd.jpeg#center "Timberland Ad")
 
-But another group of people, not Timberland's target audience, white working men, started to take a liking to their shoes - [hip-hop and R&B artists](https://www.vice.com/en_au/article/vb3gy9/how-hip-hop-coopted-a-boot-made-for-construction-workers). Vibe, a hip-hop lifestyle magazine, even paid tribute to the Timberland boots as being iconic to hip-hop in their September 2005 issue. An NYC museum also hosted had an exhibition called "Black Style Now" that included Timberland boots as part of "the global hip-hop uniform." Timberlands had caught on with a completely different market group than the one the founders had intended to sell to.
+But another group of people, not Timberland's target audience of white working men, started to take a liking to their shoes - [hip-hop and R&B artists](https://www.vice.com/en_au/article/vb3gy9/how-hip-hop-coopted-a-boot-made-for-construction-workers). Vibe, a hip-hop lifestyle magazine, even paid tribute to the Timberland boots as being iconic to hip-hop in their September 2005 issue. An NYC museum also hosted had an exhibition called "Black Style Now" that included Timberland boots as part of "the global hip-hop uniform." Timberlands had caught on with a completely different market group than the one the founders had intended to sell to.
 
 ![Timberland Mobb](/assets/blogimages/TimberlandMobb.jpg#center "TimberlandMobb")
 
@@ -45,7 +45,7 @@ That, however, didn't stop Swartz from trying to control the brand's image by go
 
 > "Timberland is being adopted by a consumer that we didn't know existed relative to our target audience." Swartz said that while the hip-hop consumer's "money spends good," the fact remained that his brand was aimed primarily at "honest working people." - Buying In, Rob Walker
 
-Of course this received backlash, but strangely enough, it didn't have any effect on the Timberland brand. This goes to show that, ultimately, no matter how hard one tries to brand their company a certain way, the final decision isn't up to them. The brand stands for what the consumers and people believe it stands for.
+Of course this received backlash, but strangely enough, it didn't have any effect on the Timberland brand. This goes to show that, ultimately, no matter how hard one tries to brand their company a certain way, the final decision isn't up to them. The brand stands for what consumers and people believe it stands for.
 
 ## Branding is Reputation
 Branding is most similar to reputation, in the sense that a brand's value is based on what others think about it and not how they've defined personally themselves. Whenever you have to take into account human perception and behavior, things become tricky.
@@ -61,13 +61,13 @@ I like to think of a brand as an idea that exists within a person's neural netwo
 Anything the brand does, from the product it sells to its logo, needs to leave a neural mark on the consumers brain (which is where distinctiveness comes in)—you can consider this as the table stakes. Good brands, however, try to strengthen the consumer's idea of them in a "positive way" by associating their company with different sorts of things, like their logo, a good website, marketing efforts, sales efforts, etc. But more than that, great brands try to create a "relationship" with the consumer. Great branding takes resources, time, and a ton of luck. Great brands aren't made overnight.
 
 ## What Makes a Great Brand?
-It's hard to say... I don't think there's a definition that would make everyone happy, but I think that's okay. Whether a brand can be considered great is based on ones own personal criteria. To some people, a brand might be great and to some it might not be - but maybe that's where the secret lies. Great brands are decided in the eyes of the beholder and in today's age, companies don't dictate brand worth, the individual does.
+It's hard to say... I don't think there's a definition that would make everyone happy, but I think that's okay. Whether a brand can be considered great is based on ones own personal criteria. To some people, a brand might be great and to some it might not be - and that's where the secret lies. Great brands are decided in the eyes of the beholder and especially in today's age, companies don't dictate brand worth, the individual does.
 
 > "It was you that was important, and everything else would define you after you defined yourself. It wasn't like a brand defined you, you defined the brand." - Chuck D. (Public Enemy)
 
 If this is the case, and everything is up to individual consumer's opinions, then how can we ever make a "great brand?" The secret to great branding lies in understanding relationships. People often "like" things and other people, which lasts only momentarily. Most people will "like" many people and things on and off during their lifetime, but will not "love" many things.
 
-When someone loves their S.O., they will choose them over anyone else, even if the "alternatives" are better in every single way. Then when you ask the person why they love their S.O., they will often start thinking of the reasons on the spot. Before that moment, they might not have even consciously thought about why they love their S.O., but will then come up with a multitude of reasons. They will say that they love the fact that their S.O. is funny, good looking, career-focused, but even if they found that same combination of things in another person, they would still love their S.O.
+When someone loves their S.O., they will choose them over anyone else, even if the "alternatives" are better in every single way. Then when you ask the person why they love their S.O., they will often start thinking of the reasons on the spot. Before that moment, they might not have even consciously thought about why they love their S.O., but will then come up with a multitude of reasons. They will say that they love the fact that their S.O. is funny, good looking, career-focused, but even if they found that same or better combination of things in another person, they would still love their S.O.
 
 The love that people have for their loved ones is what brands (specifically company brands and not people brands) want to achieve with their customers (although nearly impossible.) Of course I'm not talking about the passionate love, but the emotive love, the love people have for their iPhones, movies like Star Wars, the list goes on. People will defend the brands they love just like they defend their loved ones. When asked why they love a certain brand, they'll say, oh I love their products, their customer service, what they stand for, etc. They won't know exactly why, but will come up with reasons to defend the brand.
 
@@ -79,39 +79,42 @@ If you're thinking, "That's stupid, just be myself? How does that work? Where's 
 
 There's also a ton of proof out there that shows "being yourself" and finding ways to be yourself is truly what's most important, whether you're selling B2C or B2B services. Look at our earlier example of Timberlands. Timberland focused on being themselves, a shoe for hard working people, and a completely different group of people than they had expected to buy it loved and immortalized their product.
 
-In the mainstream, we saw this with Apple. Steve Jobs, from the start, had always been himself and led Apple with that energy. He believed that we are all individuals with our own creative energies. He infused himself (his and Apple's brand) into everything he did, from his public speeches, to Apple's marketing (Think Different.) He knew who he was, what he stood for, and what he wanted—he was a leader, and people gravitate towards leaders. In the relationship analogy, you've likely heard that before you get into a relationship, you should find yourself. A brand must know itself before others can love it.
+In the mainstream, we saw this with Steve Jobs and Apple. Jobs, from the start, had always been himself and led Apple with that energy. He believed that we are all individuals with our own creative energies. He infused himself (his and Apple's brand) into everything he did, from his public speeches, to Apple's marketing (Think Different.) He knew who he was, what he stood for, and what he wanted - he was a leader, and people gravitate towards leaders. In the relationship analogy, you've likely heard that before you get into a relationship, you should find yourself. A brand must know itself before others can love it.
+
+Great branding is partly about finding different ways to be yourself, which takes creativity, risk taking, and consistency.
 
 ![Think Different](/assets/blogimages/ThinkDifferent.png#center "Apple's Think Different")
 
-## Some Rebuttals
-Before I discuss rules that brands can follow to try to "be themselves," I think it's important to talk about the truth. The truth is, businesses are made to make money. Let's not lie to ourselves. Nowadays, consumers are educated and will call out bullshit when they see it. A company isn't fooling anybody when they "stand up" to social injustice (even if it helps.) People know or at least will always suspect that a company is doing something for monetary gain.
+## A Rebuttal
+Before I discuss rules that brands can follow to try to "be themselves," I think it's important that we remember the truth and are honest to it. The truth is, businesses need to make money, and that's okay, there's no shame in that. What I'm advocating for is that good branding will drive more, better, and ethical business.
 
-Only people can stand for something - it's why Steve Jobs is a legend. He was one of the first to stand for something and by relation it applied to his brand. But there was something important that Steve Jobs did when it came to "standing for something." He didn't stand for a social cause. He stood up for things that were related to Apple as a company and its products. It wasn't fluff for the sake of pandering to a political cause.
+Good branding, however, does not imply you have a good business, and vice versa. We've seen many times where good businesses fail to be good brands, for example, Facebook, which I'll discuss later in this post. I believe to be successful in the long run, a company needs a good business model and a good brand.
+
+## What Makes Up a Good Brand?
+A brand needs to be focused on telling the "stories" it knows best, which means telling "stories" usually about their own product. A story is anything that can be passed through word of mouth. A great story is a story that carries positive emotion when told. So, stories can be anything, from writing whitepapers, creating great characters, advertising, marketing tactics, etc.
+
+For example, Jobs built stories around the Apple products. He talked about what he hoped his products would achieve, and who he would want to use them. He didn't associate the brand to a political agenda just because it was hot with his customers. He focused on building stories around his product and standing up for them (which is a story in of initself!)
 
 [Here's an example of Steve Job's famously standing up to a customer's critique of his decision making](https://www.youtube.com/watch?v=FF-tKLISfPE).
 
-[Here's a great segment of Trevor Noah talking about companies and pandering instead of standing for something](https://www.youtube.com/watch?v=nma4GJ2rfwU&list=PLeskMkEaHJYfIUSU8jfEQ45x7qP4_pzl9&index=89).
-
-Jobs built stories around his products, talked about what he hoped his products would achieve, and who he would want to use them. He didn't associate the brand to a political agenda just because it was hot with his customers. He focused on building stories around his product.
-
 **The key to building great brands lies in the ability to confidently create stories that are honest and consistent.** (These adjectives aren't for no reason, I will discuss them in the next section.)
 
-Stories leave strong neural marks on the consumer and travel through word of mouth; stories are what creates great brands. I consider a story as anything that can be passed through word of mouth. A great story is a story that carries positive emotion when told. So, stories can be anything, from writing whitepapers, creating great characters, advertising, marketing tactics, etc.
+Stories leave strong neural marks on the consumer and travel through word of mouth; stories are what creates great brands.
 
-Creating stories lies in the intersection of brand, marketing, and sales. Although creating advertisements, writing case studies, selling, falls in the operational realm outside of branding, these tactics must be guided by branding. **Branding goes hand in hand with both sales and marketing, they make it possible for brands to be great.**
+Creating stories lies in the intersection of brand, marketing, and sales. Although creating advertisements, writing case studies, selling, falls in marketing's realm, these tactics must be guided by branding.
 
-"Being yourself" / the company "being itself" is a branding philosophy that helps you decide which tactics are right for your organization and helps make those tactics more impactful.
+"Being yourself" / the company "being itself" is a branding philosophy that helps you decide which tactics are right for your organization and helps make those tactics more impactful. **Branding goes hand in hand with both sales and marketing, together they make it possible for brands to be great.**
 
-(The "be yourself" philosophy might seem pretty obvious to many, but I think now more than ever, people forget this, which is why I think it's important to make a case for it. In today's time, we see brands and companies bandwagon onto trends and fads without considering how it reflects on their company. We often see organizations choose to market their products the same way another company does just because it's successful, without understanding whether or not the tactic works for their brand. It's easy to get lost in the noise, especially in large organizations. Leadership can quickly forget what their products are, what stories they can honestly tell, and what the best ways of telling them are. Branding is a conscious study of a company's persona and its relationship to consumers in the marketplace. Reflecting on how an organization can "be itself" is not only about reflecting on its identity, but also its relationship to its products and customers.)
+(The "be yourself" philosophy might seem pretty obvious to many, but I think now more than ever, people forget this, which is why I think it's important to make a case for it. In today's time, we see brands and companies bandwagon onto trends and fads without considering how it reflects on their company. We often see organizations choose to market their products the same way another company does just because it's successful, without understanding whether or not the tactic works for their brand. It's easy to get lost in the noise, especially in large organizations. Leadership can quickly forget what their products are, what stories they can honestly tell, and what the best ways of telling them are. Understanding one's brand is a conscious study of a company's persona and its relationship to consumers in the marketplace. Reflecting on how an organization can "be itself" is not only about reflecting on its identity, but also its relationship to its products and customers.)
 
 ## Being Yourself
-Although there are many ways for a company to "be itself" (a famous one being Simon Sinek's "Golden Circle,") I think there are a few ground rules that brands (and people) should follow if they wish to build a great relationship with a consumer. Great brands, like great partners in relationships, must have: Honesty, Confidence, Consistency, and sometimes, Transparency.
+Although there are many ways for a company to learn to "be itself" (a famous one being Simon Sinek's "Golden Circle,") I think there are a few ground rules that brands (and people) should follow if they wish to build a great relationship with a consumer. Great brands, like great partners in relationships, must have: Honesty, Confidence, Consistency, and be Ethical.
 
 (If great brands are akin to great partners, then we need to determine what makes up a great partner. Although this is my opinion, I think that when we examine our relationships, we will find that more often than not, honesty, confidence, and consistency are important to all healthy relationships.)
 
 Also, these traits are powerful because they have the ability to spread quickly. When consumers hear stories about people and brands acting with these traits, word of mouth quickly spreads their stories like wildfire, which builds their brand reputation.
 
-A great example of a brand that has "been itself" is Riot Games' League of Legends. The game has never linked its intrinsic value to any causes. Instead, it focused on itself and building stories around itself. Riot Games invested resources in creating an endless amount of stories in the League universe, and it has paid off. **The amount of stories you create is also important. Because this increases the amount of entry ways for a consumer to like you even more. Just like when you're entering any sort of relationship with a person, the more "postiive" experiences / stories you have with a person, the more they'll come to like you. Smaller brands don't have the bandwidth to create as many stories, but big brands need to be investing in both volume and quality. Again, stories can be anything, from events, to advertising, to sales, etc. But all these stories must be honest and consistent.**
+A great example of a brand that has "been itself" is Riot Games' League of Legends. The game has never directly linked its intrinsic value to any causes. Instead, it focused on itself and building stories around itself. Riot Games invested resources in creating an endless amount of stories in the League universe, and it has paid off. **The amount of stories you create is also important. Because this increases the amount of entry ways for a consumer to like you even more. Just like when you're entering any sort of relationship with a person, the more "postiive" experiences / stories you have with a person, the more they'll come to like you. Smaller brands don't have the bandwidth to create as many stories, but big brands need to be investing in both volume and quality. Again, stories can be anything, from events, to advertising, to sales, etc. But all these stories must be honest and consistent.**
 
 Riot created content that has never existed in games before, going as far as to create popular music bands with their characters. They've found a way to "be themselves" in the products they create.
 
@@ -119,10 +122,16 @@ Riot trail-blazed the way for e-sports and gaming in mainstream media. Standing 
 
 > "Any game that Riot releases is already held high in our minds, because the e-sports ecosystem for League of Legends is so well done, so naturally we expect a lot of these strengths to carry over into any new e-sports ecosystem that they want to develop." - Team Secret's CEO
 
-Riot created a strong brand reputation by "being themselves" and focusing on their product. The stories that were generated from their product and everything they did with their product (champion releases, gaming events, game philosophy and transparency, personnel hires, etc.) is what created their brand over time. And although the tactics they used varied across the decade, each decision was fueled by "honesty," "confidence," "consistency," and "transparency."
+Riot created a strong brand reputation by "being themselves" and focusing on their product. The stories that were generated from their product (champion releases, gaming events, game philosophy and transparency, personnel hires, etc.) is what created their brand over time. And although the tactics they used varied across the decade, each decision was fueled by "honesty," "confidence," and "consistency."
 
 ### Honesty
-Firstly, to build a great brand, we have to be honest with ourselves and understand that companies are built to make money. Brands must most importantly "stand for" themselves, their products, their employees, and their decision making. Standing for anything else is pretty far fetched and will be taken as not completely genuine, unless you're a non-profit organization or doing charity work. If you want to stand for a cause, you must tread lightly. You do not want your brand to equal the cause, because then people will only buy from you because of that cause. When the cause /"fad" dissipates, so will a large chunk of your brand's customers. You can certainly support a cause, but make sure that the cause you're supporting and how you're supporting that cause is in-line with your company and it's "product."
+Firstly, to build a great brand, we have to be honest with ourselves and understand that companies are built to make money. Because of this, brands must most importantly "stand for" themselves, their products, their employees, and their decision making. Standing for anything else is pretty far fetched and will be taken as not completely genuine, unless you're a non-profit organization or doing charity work.
+
+However, if you want to tie a major piece of your brand reputation to a cause, you must tread lightly. You do not want your brand to equal the cause, because then people will only buy from you because of that cause. When the cause/"fad" dissipates, so will a large chunk of your brand's customers. You can certainly support a cause, (and should if the cause is directly related to your product, like gas companies and environmental causes) but make sure that the cause you're supporting and how you're supporting that cause is in-line with your company and it's "product."
+
+[Here's a great segment of Trevor Noah talking about companies and pandering instead of standing for something](https://www.youtube.com/watch?v=nma4GJ2rfwU&list=PLeskMkEaHJYfIUSU8jfEQ45x7qP4_pzl9&index=89).
+
+When people ask you about your product, be honest even if it risks the potential sale. You will gain respect for doing so and [turning away business isn't always so bad.](https://thewonger.com/turning-away-business-good-for-brand)
 
 ### Confidence
 When I list confidence, I'm not referring to the "alpha male," "chad-like" confidence. I'm talking about having confidence in who you are and what you stand for. Great brands have confidence in the products they build, the people they hire, and decisions they make. Another example is how Jon Stewart, the ex-host of the Daily Show, runs his show. He will give hard interviews, call-out people when he believes they're wrong, and puts his money where his mouth is at.
@@ -131,19 +140,16 @@ He built an incredible brand for the show and many recognize his show to be a mo
 
 ![Jon Stewart](/assets/blogimages/JonStewart.jpg#center "Jon Stewart")
 
+Make sure you know your stuff and take tough stances on them.
 
 ### Consistency
-It doesn't matter if you have values and are confident about sharing and defending them if you aren't consistent. People heavily criticized Nike when they decided to pull a shoe brand from their shelves in China because the shoe was Anti-Beijing. People also criticized Nike when their partner in China, the NBA, "gave in" to the Chinese government with their statement saying:
+It doesn't matter if you are honest and confident but aren't consistent. Think of a spouse who is inconsistent in their behavior - it breeds mistrust. How many companies have we heard of that preach one thing but do something entirely different? The obvious examples are oil and gas companies and going green, politicians promising things during their campaign but not delivering, etc.
 
-//
+(A fun and tricky example of consistency, or the lack of consistency rather, is Trump's presidential run. He promised a lot of things but never fulfilled them and yet many still love him and will vote for him in November 2020. The reason he attracts all these people is because he's simply himself. Inconsistency is his consistency, lying is his honesty, etc. Although I hate to say it, Trump is a master of branding and marketing, whether intentional or not. He knows how to create stories in any condition and knows how to rally people to his side.)
 
-How do I get people to find me? Is another question. Marketing. You still have marketing and stuff but in those events, you must be yourself. So the question then is, how do you attract consumers? How do you attract friends and people into your life? You can go meet people at school (networking events / sales,)
+Consistency, however, doesn't mean not changing. It's important to always change for the better, but at the same time for those changes to be consistent with the brand.
 
+### Bonus - Ethics
+Ethics, more than ever, is becoming an important part of building long term brand reputation. Take a look at Facebook, they never got their branding right. Especially now, a popular documentary by Netflix, the Social Dilemma, critiques Facebook and its role in manipulating the human psyche. Although their large network will make it difficult for Facebook to fade away, if there was something to bring down the company's business, it would be their lack of branding (and more specifically, ethical branding.)
 
-
-Branding is relationship between the brand and the consumer.
-
-
-CONFIDENCE, CONSITENCY - doesnt mean don't cahnge, TRANSPARENCY
-
-The thing that all great brands have in common is that they have created many "stories." Stories can be anything that leaves an impression on a person's mind. They can be found in a company's website design, case studies, the founder's story, an event they hosted, anything. It's the accumulation and subconscious study of these stories that create a brand in a consumer's mind. I'll give three examples, one of a company, a person, and a typeface.
+##
