@@ -380,5 +380,16 @@ html {
 	margin-right: auto;
 }
 
+.post-body h2 {
+	font-size: 22px;
+}
+
+.post-body h3 {
+	font-size: 20px;
+}
+
+.post-body p {
+	font-size: 16px;
+}
 
 }
