@@ -2,37 +2,67 @@
 layout: "wrapper"
 ---
 <section class="page-layout">
-
-
-
-<!-- For Recent Posts -->
-  <!-- <div class="home-pagebody">
-    <p class="recent-posts">Recent Posts</p>
-    <div>
-    {% for post in paginator.posts %}
-      <div class="loop-posts">
-        <h2><a href="{{ site.baseurl }}{{ post.url }}" aria-label="{{ post.title }}">{{ post.title }}</a></h2>
-        <p>{{ post.description }}</p>
-        <sub>{{ post.date | date_to_long_string }}</sub><sub><a class="maroon-highlight" href="{{ site.baseurl }}{{ post.categories }}">{{ post.categories}}</a></sub>
-      </div>
-    {% endfor %}
-    </div>
-    <div class="paginator">
-      <span>
-        Page: {{ paginator.page }} of {{ paginator.total_pages }} &nbsp; // &nbsp;
-      </span>
-      {% if paginator.previous_page %}
-        <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous">
-          Previous
-        </a>
-      {% else %}
-        <span>Previous &nbsp;// &nbsp; &nbsp;</span>
-      {% endif %}
-      {% if paginator.next_page %}
-        <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next">Next</a>
-      {% else %}
-        <span>Next</span>
-      {% endif %}
-    </div>
-  </div> -->
+  <h1><span class="txt-rotate" data-period="2000" data-rotate='[ "Hi, this is a blog about my thoughts on interesting human problems. I liked this typewriter effect, so I used it. Click around, let me know what you think." ]'></span>
+  </h1>
 </section>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+
+<script>
+var TxtRotate = function(el, toRotate, period) {
+this.toRotate = toRotate;
+this.el = el;
+this.loopNum = 0;
+this.period = parseInt(period, 10) || 2000;
+this.txt = '';
+this.tick();
+this.isDeleting = false;
+};
+
+TxtRotate.prototype.tick = function() {
+var i = this.loopNum % this.toRotate.length;
+var fullTxt = this.toRotate[i];
+
+if (this.isDeleting) {
+this.txt = fullTxt.substring(0, this.txt.length - 1);
+} else {
+this.txt = fullTxt.substring(0, this.txt.length + 1);
+}
+
+this.el.innerHTML = '<span class="wrap">'+this.txt+'</span>';
+
+var that = this;
+var delta = 300 - Math.random() * 100;
+
+if (this.isDeleting) { delta /= 2; }
+
+if (!this.isDeleting && this.txt === fullTxt) {
+delta = this.period;
+this.isDeleting = true;
+} else if (this.isDeleting && this.txt === '') {
+this.isDeleting = false;
+this.loopNum++;
+delta = 500;
+}
+
+setTimeout(function() {
+that.tick();
+}, delta);
+};
+
+window.onload = function() {
+var elements = document.getElementsByClassName('txt-rotate');
+for (var i=0; i<elements.length; i++) {
+var toRotate = elements[i].getAttribute('data-rotate');
+var period = elements[i].getAttribute('data-period');
+if (toRotate) {
+  new TxtRotate(elements[i], JSON.parse(toRotate), period);
+}
+}
+// INJECT CSS
+var css = document.createElement("style");
+css.type = "text/css";
+css.innerHTML = ".txt-rotate > .wrap { border-right: 0.08em solid #666 }";
+document.body.appendChild(css);
+};
+</script>
