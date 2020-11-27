@@ -2,7 +2,7 @@
 layout: "wrapper"
 ---
 <section class="home-layout">
-  <h1><span class="txt-rotate" data-period="500000" data-rotate='[ "Hi, this is James, and this is a website about my thoughts on interesting human problems. I liked this typewriter effect, so I used it. If this website is too plain for your taste, ¯\_(ツ)_/¯." ]'></span></h1>
+  <h1><span class="txt-rotate" data-period="2000" data-rotate='[ "Hi, this is James, and this is a website about my thoughts on interesting human problems. I liked this typewriter effect, so I used it. If this website is too plain for your taste, ¯\_(ツ)_/¯." ]'></span></h1>
 </section>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
@@ -12,7 +12,7 @@ var TxtRotate = function(el, toRotate, period) {
 this.toRotate = toRotate;
 this.el = el;
 this.loopNum = 0;
-this.period = parseInt(period, 10) || 500;
+this.period = parseInt(period, 10) || 5;
 this.txt = '';
 this.tick();
 this.isDeleting = false;
