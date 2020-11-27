@@ -2,7 +2,7 @@
 layout: "wrapper"
 ---
 <section class="home-layout">
-  <h1><span class="txt-rotate" data-period="500000" data-rotate='[ "Hi, this is James, and my website is a reflection of my thoughts on interesting human problems. I liked this typewriter effect, so I used it. If this website is too simple for you,." ]'></span>
+  <h1><span class="txt-rotate" data-period="500000" data-rotate='[ "Hi, this is James, and my website is a reflection of my thoughts on interesting human problems. When I see others use this typewriter effect, I always read. If this website is too simple for your taste, ¯\_(ツ)_/¯." ]'></span>
   </h1>
 </section>
 
@@ -32,7 +32,7 @@ this.txt = fullTxt.substring(0, this.txt.length + 1);
 this.el.innerHTML = '<span class="wrap">'+this.txt+'</span>';
 
 var that = this;
-var delta = 100 - Math.random() * 50;
+var delta = 50 - Math.random() * 50;
 
 if (this.isDeleting) { delta /= 2; }
 
