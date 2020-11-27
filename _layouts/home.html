@@ -1,8 +1,8 @@
 ---
 layout: "wrapper"
 ---
-<section class="page-layout">
-  <h1><span class="txt-rotate" data-period="2000" data-rotate='[ "Hi, this is a blog about my thoughts on interesting human problems. I liked this typewriter effect, so I used it. Click around, let me know what you think." ]'></span>
+<section class="home-layout">
+  <h1><span class="txt-rotate" data-period="500000" data-rotate='[ "Hi, this is a blog about my thoughts on interesting human problems. I liked this typewriter effect, so I used it. Click around, let me know what you think." ]'></span>
   </h1>
 </section>
 
@@ -13,7 +13,7 @@ var TxtRotate = function(el, toRotate, period) {
 this.toRotate = toRotate;
 this.el = el;
 this.loopNum = 0;
-this.period = parseInt(period, 10) || 2000;
+this.period = parseInt(period, 10) || 500;
 this.txt = '';
 this.tick();
 this.isDeleting = false;

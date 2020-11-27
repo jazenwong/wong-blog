@@ -247,6 +247,11 @@ nav a {
 	font-weight: 500;
 }
 
+/* home */
+.home-layout h1 {
+	font-size: 30px;
+}
+
 /* posts */
 
 .post-summary img {
@@ -336,6 +341,12 @@ nav {
 	top: 0;
 }
 
+/* home */
+
+.home-layout h1 {
+	max-width: 75%;
+}
+
 /* posts */
 
 .post-summary h1 {
@@ -362,7 +373,12 @@ nav {
 }
 
 @media only screen and (min-width: 1366px) {
-
+/* home */
+.home-layout h1 {
+	max-width: 70%;
+	font-size: 40px;
+	line-height: 1.25;
+}
 /* posts */
 
 .post-summary h1 {
