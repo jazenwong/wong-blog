@@ -249,7 +249,8 @@ nav a {
 
 /* home */
 .home-layout h1 {
-	font-size: 30px;
+	font-size: 25px;
+	margin-top: 2rem;
 	margin-bottom: 2rem;
 }
 
@@ -356,7 +357,7 @@ nav {
 /* posts */
 
 .post-summary h1 {
-	font-size: 48px;
+	font-size: 42px;
 	text-align: center;
 }
 
