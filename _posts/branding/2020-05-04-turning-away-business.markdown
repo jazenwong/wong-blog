@@ -6,7 +6,7 @@ categories: branding
 description: This post explores the different ways turning business down can be beneficial to a brand. We'll discuss consulting and scarcity branding.
 permalink: turning-away-business-good-for-brand
 image: Nike_Shoe.jpg
-image-description: Nike killed the sneaker game by using scarcity branding.
+image-description: Nike killed the sneaker game by using scarcity marketing.
 ---
 
 There are many examples of where "turning away business" is good for a company's brand. It may sound counterintuitive but the psychology behind it is sound. Think of all the times you wanted something but couldn't get it, how did it affect your feeling towards it? It made you want it even more. This applies to everything from wanting toys, brands, to experiences (FOMO.)
