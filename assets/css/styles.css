@@ -294,11 +294,6 @@ nav a {
 	text-align: justify;
 }
 
-/* explorations */
-
-.explorations img {
-	margin-bottom: .5rem;
-}
 
 @media only screen and (min-width: 768px){
 /* home */
@@ -332,12 +327,6 @@ nav a {
 	margin-left: 40px;
 }
 
-/* explorations */
-
-.explorations {
-	column-count: 3;
-	column-gap: 10px;
-}
 
 }
 
