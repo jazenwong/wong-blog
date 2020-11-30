@@ -66,7 +66,7 @@ The Silver Pavilion that Yoshimasa built incorporated Wabi-Sabi and more specifi
 
 Hara gives an example of the famous tea room in the Silver Pavilion that was simple in design due to its “scant furnishing.”
 
-“When a host invites his guest into his tiny teahouse for an exchange of thoughts, there is a reason for scant furnishings: one’s imagination expands in uncluttered, simple space.” - Kenya Hara, "White"
+> “When a host invites his guest into his tiny teahouse for an exchange of thoughts, there is a reason for scant furnishings: one’s imagination expands in uncluttered, simple space.” - Kenya Hara, "White"
 
 The room is like a sheet of white paper, a medium for people to fill it with their thoughts and imagination. This is a concept that’s important to any field, whether it be in business, art, or design. When you start off with white and free yourself of any pre-conceptions, you’re able to have a new and better understanding of the thing you’re talking or thinking about. It’s probably a lot harder to do than say. But Japanese design and culture attempts to incorporate white into their work.
 
