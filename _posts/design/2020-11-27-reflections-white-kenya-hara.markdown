@@ -102,7 +102,7 @@ The way that Netflix manages is also via providing context and not control. They
 
 In Netflix’s culture deck and webpage, they quote the Little Prince:
 
-> “If you want to build a ship, don’t drum up the people to gather wood, divide the work, and give orders. Instead, teach them to yearn for vast and endless sea.”
+> “If you want to build a ship, don’t drum up the people to gather wood, divide the work, and give orders. Instead, teach them to yearn for vast and endless sea.” - Antoine de Saint-Exupéry, "The Little Prince"
 
 ![Netflix Little Prince](/assets/blogimages/Netflix_Culture.jpg#center "Netflix Culture Little Prince")
 
