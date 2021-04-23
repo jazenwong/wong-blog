@@ -248,10 +248,19 @@ nav a {
 }
 
 /* home */
+.home-layout {
+	padding-left: 25vh 0;
+	text-align: center;
+}
+
 .home-layout h1 {
 	font-size: 25px;
 	margin-top: 2rem;
 	margin-bottom: 2rem;
+}
+
+.home-layout a {
+	font-weight: 600;
 }
 
 /* posts */
