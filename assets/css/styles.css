@@ -290,9 +290,6 @@ nav a {
 
 /* about */
 
-.about-layout p {
-	text-align: justify;
-}
 
 
 @media only screen and (min-width: 768px){
