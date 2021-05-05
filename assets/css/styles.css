@@ -249,7 +249,7 @@ nav a {
 
 /* home */
 .home-layout {
-	padding: 10vh 0;
+	padding: 5vh 0;
 	text-align: center;
 	display: grid;
 	grid-template-columns: 1fr;
@@ -279,7 +279,7 @@ nav a {
 }
 
 .carousel img {
-	width: 100%;
+	width: 80%;
 }
 
 .home-layout h1 {
