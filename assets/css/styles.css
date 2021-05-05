@@ -271,14 +271,14 @@ nav a {
 	font-size: 24px;
 }
 
-.carousel {
+.single-items {
 	grid-column: 1/-1;
 	grid-row: 1/-1;
 	z-index: 1;
 	overflow: hidden;
 }
 
-.carousel img {
+.single-items img {
 	width: 80%;
 	margin-left: auto;
 	margin-right: auto;
