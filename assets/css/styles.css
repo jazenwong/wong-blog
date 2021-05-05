@@ -249,7 +249,7 @@ nav a {
 
 /* home */
 .home-layout {
-	padding: 25vh 0;
+	/* padding: 25vh 0; */
 	text-align: center;
 	display: grid;
 	grid-template-columns: 1fr;
@@ -262,6 +262,13 @@ nav a {
 	z-index: 999;
 	align-self: center;
 	justify-self: center;
+}
+
+.home-layout p ,
+.home-layout a {
+	text-transform: uppercase;
+	color: white;
+	font-size: 24px;
 }
 
 .carousel {
@@ -327,9 +334,6 @@ nav a {
 @media only screen and (min-width: 768px){
 /* home */
 
-.home-layout img {
-	width: 50%;
-}
 
 /* categories */
 
