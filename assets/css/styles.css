@@ -251,6 +251,28 @@ nav a {
 .home-layout {
 	padding: 25vh 0;
 	text-align: center;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: 1fr;
+}
+
+.home-layout-text {
+	grid-column: 1/-1;
+	grid-row: 1/-1;
+	z-index: 999;
+	align-self: center;
+	justify-self: center;
+}
+
+.carousel {
+	grid-column: 1/-1;
+	grid-row: 1/-1;
+	z-index: 1;
+	overflow: hidden;
+}
+
+.carousel img {
+	width: 100%;
 }
 
 .home-layout h1 {
@@ -262,6 +284,7 @@ nav a {
 .home-layout a {
 	font-weight: 600;
 }
+
 
 /* posts */
 

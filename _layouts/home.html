@@ -2,5 +2,23 @@
 layout: "wrapper"
 ---
 <section class="home-layout">
-  <p>My thoughts on <a class="caps" href="/branding">BRANDING</a>, <a class="caps" href="/business">BUSINESS</a>, and <a class="caps" href="/design">DESIGN</a>.
+  <div class="home-layout-text">
+    <p>My thoughts on <a class="caps" href="/branding">BRANDING</a>, <a class="caps" href="/business">BUSINESS</a>, and <a class="caps" href="/design">DESIGN</a>.
+  </div>
+  <div class="carousel">
+      <div><img src="/assets/img/BarInLondon.jpeg"</div>
+      <div><img src="/assets/img/Grafitti.jpeg"></div>
+  </div>
 </section>
+
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('.carousel').slick({
+      autoplay: true,
+    });
+  });
+</script>
