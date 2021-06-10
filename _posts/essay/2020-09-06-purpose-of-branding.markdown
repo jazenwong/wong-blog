@@ -2,7 +2,7 @@
 layout: "post"
 title: What Is a Brand and What is Its Purpose?
 date: 2020-09-06
-categories: branding
+categories: essay
 description: Branding as a term often thrown around. But what is the purpose of branding?
 permalink: what-is-the-purpose-of-a-brand
 image: Branding.png

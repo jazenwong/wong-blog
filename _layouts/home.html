@@ -2,11 +2,39 @@
 layout: "wrapper"
 ---
 <section class="home-layout">
-  <div class="home-layout-text">
-    <p>My thoughts on <a class="caps" href="/branding">BRANDING</a>, <a class="caps" href="/business">BUSINESS</a>, and <a class="caps" href="/design">DESIGN</a>.
+  <div class="home-about">
+    <p>I've worked for two companies, Updater, a real estate tech startup, and FGX, a global IT deployment company. Currently, I am a sales and marketing director at FGX and am leading FGX in building our brand and finding product-market fit.</p>
   </div>
-  <div class="single-items">
-      <div><img src="/assets/img/Grafitti2.jpeg"</div>
-      <div><img src="/assets/img/Grafitti.jpeg"></div>
+  <div class="home-essays">
+    <div class="home-essays-container">
+    <h1>Essays</h1>
+    {% for post in categories.Essay %}
+    {{ post.title }}
+    {% endfor %}
+
+    {% for post in site.categories.essay %}
+      {% if post.url %}
+        <div class="categories-post">
+            <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
+            <!-- <sub>{{ post.date | date_to_long_string }}</sub> -->
+        </div>
+      {% endif %}
+    {% endfor %}
+    </div>
+  </div>
+  <div class="home-pictures">
+    <h1>2021</h1>
+    <div class="home-pictures-thumb">
+      <img src="/assets/img/Grafitti.jpeg">
+      <p><em>Grafitti art in the UK.</em></p>
+    </div>
+    <div class="home-pictures-thumb">
+      <img src="/assets/img/Grafitti2.jpeg">
+      <p><em>More grafitti in the UK.</em></p>
+    </div>
+    <div class="home-pictures-thumb">
+      <img src="/assets/img/BarInLondon.jpeg">
+      <p><em>Bar in London.</em></p>
+    </div>
   </div>
 </section>

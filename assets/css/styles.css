@@ -118,7 +118,7 @@ img[src*='#center'] {
 
 /* Each state */
 a {
-  text-decoration: none;
+  text-decoration: underline;
 	color: #333;
 }
 
@@ -136,8 +136,6 @@ a:active {
 }
 
 a:hover {
-	text-decoration: none;
-	color: #9B2335;
 	transition: .25s all ease-in-out;
 }
 
@@ -230,10 +228,12 @@ sub {
 
 nav {
   padding: 10px 0;
-	margin-bottom: 40px;
+	margin-bottom: 20px;
 	font-size: 14px;
 	display: flex;
 	background-color: #ffffff;
+	z-index: 999;
+	border-bottom: 1px solid black;
 }
 
 .strong {
@@ -241,59 +241,44 @@ nav {
 }
 
 nav a {
-	margin-right: 1rem;
-	margin-bottom: 1rem;
+	margin-right: 20px;
 	text-transform: uppercase;
+	text-decoration: none;
 	font-weight: 500;
 }
 
 /* home */
-.home-layout {
-	padding: 3vh 0;
-	text-align: center;
-	display: grid;
-	grid-template-columns: 1fr;
-	grid-template-rows: 1fr;
+
+.home-about ,
+.home-essays  {
+	margin-bottom: 20px;
+	border-bottom: 1px solid black;
 }
 
-.home-layout-text {
-	grid-column: 1/-1;
-	grid-row: 1/-1;
-	z-index: 999;
-	align-self: center;
-	justify-self: center;
+.home-essays {
+	margin-bottom: 20px;
 }
 
-.home-layout p ,
-.home-layout a {
-	text-transform: uppercase;
-	color: white;
-	font-size: 24px;
+.home-essays h1 ,
+.home-pictures h1 {
+	font-size: 16px;
 }
 
-.single-items {
-	grid-column: 1/-1;
-	grid-row: 1/-1;
-	z-index: 1;
-	overflow: hidden;
+.categories-post {
+	margin-bottom: 25px;
 }
 
-.single-items img {
-	width: 80%;
-	margin-left: auto;
-	margin-right: auto;
+.home-pictures-thumb {
+	margin-bottom: 20px;
 }
 
-.home-layout h1 {
-	font-size: 25px;
-	margin-top: 2rem;
-	margin-bottom: 2rem;
+.home-pictures-thumb img {
+	margin-bottom: 5px;
 }
 
-.home-layout a {
-	font-weight: 600;
+.home-pictures-thumb p {
+	font-size: 12px;
 }
-
 
 /* posts */
 
@@ -370,18 +355,50 @@ nav a {
 nav {
 	position: sticky;
 	top: 0;
+	margin-bottom: 0px;
 }
 
 /* home */
 
 .home-layout {
-	max-width: 80%;
-	margin-left: auto;
-	margin-right: auto;
+	display: grid;
+	grid-template-columns: repeat(3,1fr);
+	grid-column-gap: 20px;
+	position: relative;
 }
 
-.home-layout h1 {
-	max-width: 75%;
+.home-about ,
+.home-essays ,
+.home-pictures {
+	margin-bottom: 0px;
+	border-bottom: none;
+	padding-top: 20px;
+	padding-right: 20px;
+}
+
+.home-about ,
+.home-essays {
+	border-right: 1px solid black;
+	position: relative;
+}
+
+.home-pictures {
+	position: relative;
+}
+
+.home-about p {
+	position: sticky;
+	top: 60px;
+}
+
+.home-essays-container {
+	position: sticky;
+	top: 60px;
+}
+
+.home-pictures h1 {
+	position: sticky;
+	top: 60px;
 }
 
 /* posts */
@@ -411,11 +428,7 @@ nav {
 
 @media only screen and (min-width: 1366px) {
 /* home */
-.home-layout h1 {
-	max-width: 70%;
-	font-size: 35px;
-	line-height: 1.25;
-}
+
 /* posts */
 
 .post-summary h1 {

@@ -2,7 +2,7 @@
 layout: "post"
 title: How Turning Away Business Can be Good for Your Brand. Scarcity Marketing & Better Brands.
 date: 2020-05-04
-categories: branding
+categories: essay
 description: This post explores the different ways turning business down can be beneficial to a brand. We'll discuss consulting and scarcity branding.
 permalink: turning-away-business-good-for-brand
 image: Nike_Shoe.jpg
