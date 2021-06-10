@@ -1,0 +1,38 @@
+---
+layout: "post"
+title: FOMO
+date: 2021-06-10
+categories: essay
+description: This post explores the concept of FOMO.
+permalink: fomo
+image: Nike_Shoe.jpg
+image-description: Get your sneakers now.
+---
+
+ Fear of missing out is the feeling that people have when they believe they may lose out on an opportunity if they don't act. FOMO is a strong motivator and more interestingly, it remains a strong motivator even when it's artificially induced. Because even when FOMO is artificially induced, we can't help but fall victim to the common loss aversion heuristic—it's inbuilt into most people's psychology. When I think about FOMO in a business context, I think about 1) how can we apply it for maximum effectiveness and 2) is it moral to apply it?
+
+Another way of looking at FOMO is looking at it as a form of limited supply. If there was unlimited supply, whether from a quantity or time point of view, it's more difficult for a potential buyer to feel like they're missing out, because the opportunity will always be there. FOMO is more likely to exist when supply is limited and the potential buyer knows it's limited.
+
+Knowing that, it's fairly easy, in theory, to create FOMO. Just limit your supply and let people know that the supply is limited. Companies do this all the time, they say, "join this webinar now! we're only hosting it for the next two days - don't miss out!", "shop this memorial day sale now!", etc. This obviously works, companies put things on sale all the time, they limit the duration on events availability, etc. The real question, however, is to what extent does the application of FOMO work? What separates the best applications of FOMO from the rest?
+
+I think there are two main factors that affect the effectiveness of FOMO - believability and demand.
+
+Potential buyers have to really believe that the supply is limited. If you put things on a "limited" sale all the time, like Banana Republic does, then the FOMO effect isn't very powerful. There are some products that by their nature are limited in supply, like events, e.g. concerts, festivals, etc. The supply of events are limited by duration - an event can't go on forever, it lasts for usually a night or a few days. Events are a common medium that invoke FOMO, because it's instinctively understood that the opportunity to experience the event is limited.
+
+But believability isn't enough to generate effective FOMO, which is where demand comes in. Demand is the amount of people who want a given product. The amount of people who want a given product has two implications, 1) that if someone else wants it, you may lose the opportunity to buy it (e.g. ticket sales, a limited amount of seats,) and 2) the more others want something, the more desirable it becomes (due to many reasons, whether it be liquidity, jealousy, etc).
+
+Having both isn't necessary, but the less of one you have, the more of the other you need. For maximum effectiveness, you need both.
+
+Nike does a great job in creating FOMO with their limited sneaker releases. Nike's marketing team often collaborates with outside brands to make sneakers. Collaborations, by nature, makes the joint product limited in supply because people understand that collaborations are usually per project. Nike then markets the limited sneaker through their channels to stir up demand. Finally, when the shoe is about to be "dropped", they don't even use the word release, they have a countdown, a lottery system (just because you want it, doesn't mean you can get the sneaker,) and finally, you're  notified if you've been selected or not.
+
+It's pretty crazy that Nike can get away with this. Nike's products are artificially limited in supply, since they can create as many of any particular shoe that they want. But they've made us believe that it truly is limited in supply.
+
+They've made the FOMO surrounding their sneakers so believable and in demand that WE have to line up to buy from them. We have to be so lucky to win a lotto to even buy a sneaker. Of course, the resale market plays a big part in the high demand for Nike's products, but that goes back to the fact that demand generates liquidity which generates FOMO.
+
+Although leveraging FOMO can be highly profitable, I believe it's manipulative in nature, which brings me to the concern of ethics.
+
+When I say manipulative, I'm referring to the more devious form of manipulation, the "type of social influence that aims to change the behavior or perception of others through indirect, deceptive, or underhanded tactics." (Wikipedia)
+
+Artificially controlling supply to generate demand is much more devious when it comes to life's necessities, like food, electricity, water, gas, etc., which is why government regulation is needed. But when we're talking about voluntary situations, like buying luxury goods and events, it's a bit more of a gray area. If a company lies in order to generate demand, I think that's unethical and unkind and will bite the seller in the ass eventually, for more on that, read [Mean People Fail](http://www.paulgraham.com/mean.html) by Paul Graham.
+
+In Nike's case, I'm not entirely sure what to think of the artificial limit on supply. In a way, it is manipulative, but at the same time, it gives the final owner of the shoe more happiness when they own the shoe and might make them more appreciative of the product and the creative energy that went into making and distributing it. And of course, ultimately, it's up to the buyer to decide that they want to buy the shoe.

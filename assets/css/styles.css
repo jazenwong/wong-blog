@@ -193,7 +193,7 @@ h3 {
 p {
 	font-family: var(--sans-serif-font);
 	color: #333;
-	font-size: 14px;
+	font-size: 16px;
 	margin-bottom: 1rem;
 	line-height: 1.5;
 }
@@ -229,7 +229,7 @@ sub {
 nav {
   padding: 10px 0;
 	margin-bottom: 20px;
-	font-size: 14px;
+	font-size: 16px;
 	display: flex;
 	background-color: #ffffff;
 	z-index: 999;
@@ -248,6 +248,10 @@ nav a {
 }
 
 /* home */
+
+.home-layout p {
+	margin-bottom: 20px;
+}
 
 .home-about ,
 .home-essays  {
@@ -277,7 +281,7 @@ nav a {
 }
 
 .home-pictures-thumb p {
-	font-size: 12px;
+	font-size: 14px;
 }
 
 /* posts */
@@ -292,6 +296,10 @@ nav a {
 }
 
 .post-summary p {
+	margin-bottom: 60px;
+}
+
+.post-body {
 	margin-bottom: 60px;
 }
 
@@ -427,6 +435,20 @@ nav {
 }
 
 @media only screen and (min-width: 1366px) {
+
+nav a {
+	font-size: 18px;
+}
+
+.home-essays h1 ,
+.home-pictures h1 {
+		font-size: 20px;
+	}
+
+p {
+	font-size: 18px;
+}
+
 /* home */
 
 /* posts */
