@@ -9,7 +9,7 @@ image: Nike_Shoe.jpg
 image-description: Get your sneakers now.
 ---
 
- Fear of missing out is the feeling that people have when they believe they may lose out on an opportunity if they don't act. FOMO is a strong motivator and more interestingly, it remains a strong motivator even when it's artificially induced. Because even when FOMO is artificially induced, we can't help but fall victim to the common loss aversion heuristic—it's inbuilt into most people's psychology. When I think about FOMO in a business context, I think about 1) how can we apply it for maximum effectiveness and 2) is it moral to apply it?
+ FOMO is a strong motivator and more interestingly, it remains a strong motivator even when it's artificially induced. Because even when FOMO is artificially induced, we can't help but fall victim to the common loss aversion heuristic—it's inbuilt into most people's psychology. When I think about FOMO in a business context, I think about 1) how can we apply it for maximum effectiveness and 2) is it moral to apply it?
 
 Another way of looking at FOMO is looking at it as a form of limited supply. If there was unlimited supply, whether from a quantity or time point of view, it's more difficult for a potential buyer to feel like they're missing out, because the opportunity will always be there. FOMO is more likely to exist when supply is limited and the potential buyer knows it's limited.
 

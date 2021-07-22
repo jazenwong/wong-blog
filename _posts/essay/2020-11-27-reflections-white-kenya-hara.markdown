@@ -111,4 +111,4 @@ To me, this encapsulates the white that Kenya Hara writes about. It’s incorpor
 
 ## White
 
-It’s difficult to incorporate white into design, art, communication, and culture. I think that’s why so many of us can’t seem to do it. In Hara’s book, he doesn’t give us any methodology or way to incorporate white into the way we live and do things. Instead, it leaves you yearning for more. He leaves you wanting to come up with your own thoughts and critique for the book. And maybe that was his intention.
+In Hara’s book, he doesn’t give us any methodology or way to incorporate white into the way we live and do things. Instead, it leaves you yearning for more. He leaves you wanting to come up with your own thoughts and critique for the book. And maybe that was his intention.
