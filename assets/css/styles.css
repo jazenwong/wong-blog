@@ -356,7 +356,7 @@ nav a {
 }
 
 .about-text {
-	margin-bottom: 40px;
+	margin-bottom: 10px;
 }
 
 @media only screen and (min-width: 768px){
@@ -384,13 +384,12 @@ nav a {
 	display: grid;
 	grid-template-columns: repeat(3,1fr);
 	grid-column-gap: 20px;
-	margin-top: 20px;
 }
 
 .about-text {
 	margin-top: 20px;
 	grid-column: 4/10;
-	grid-row: 2/3;
+	grid-row: 1/2;
 }
 
 }
@@ -510,6 +509,12 @@ html {
 
 .post-body p {
 	font-size: 16px;
+}
+
+.about-layout {
+	max-width: 1420px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 }
