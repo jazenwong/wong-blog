@@ -3,7 +3,7 @@ layout: "wrapper"
 ---
 <section class="home-layout">
   <div class="home-about">
-    <p>A space for thoughts to live.</p>
+    <p>Hi, I'm <a href="/about">James Wong</a>, born in HK, family from Malaysia, and raised in NYC. HMU @ jazenwong@gmail.com.</p>
   </div>
   <div class="home-essays">
     <div class="home-essays-container">
@@ -16,7 +16,7 @@ layout: "wrapper"
       {% if post.url %}
         <div class="categories-post">
             <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
-            <!-- <sub>{{ post.date | date_to_long_string }}</sub> -->
+            <sub>{{ post.date | date: "%-m/%-d/%y"}}</sub>
         </div>
       {% endif %}
     {% endfor %}

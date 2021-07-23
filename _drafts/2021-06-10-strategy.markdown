@@ -1,0 +1,12 @@
+---
+layout: "post"
+title:
+date: 2021-06-10
+categories: essay
+description: Being strategic requires critical thinking and knowledge.
+permalink: strategy
+image:
+image-description:
+---
+
+"See the big picture all the time as you focus on the small picture. The relationship between the big and small picture - you must be able to rapidly scale through the multiple scales of problem you'll face. You have to be very educated." - Tay Kheng Soon

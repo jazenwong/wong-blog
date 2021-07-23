@@ -5,8 +5,8 @@ date: 2020-09-06
 categories: essay
 description: Branding as a term often thrown around. But what is the purpose of branding?
 permalink: brand
-image: Branding.png
-image-description: Helvetica, more than just a typeface—a brand.
+image:
+image-description:
 ---
 
 This essay is a reflection on my thoughts and readings on the topic of branding.

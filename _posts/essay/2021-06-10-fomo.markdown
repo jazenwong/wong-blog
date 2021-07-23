@@ -5,8 +5,8 @@ date: 2021-06-10
 categories: essay
 description: This post explores the concept of FOMO.
 permalink: fomo
-image: Nike_Shoe.jpg
-image-description: Get your sneakers now.
+image:
+image-description:
 ---
 
  FOMO is a strong motivator and more interestingly, it remains a strong motivator even when it's artificially induced. Because even when FOMO is artificially induced, we can't help but fall victim to the common loss aversion heuristic—it's inbuilt into most people's psychology. When I think about FOMO in a business context, I think about 1) how can we apply it for maximum effectiveness and 2) is it moral to apply it?
