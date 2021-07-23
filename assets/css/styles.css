@@ -272,6 +272,10 @@ nav a {
 	margin-bottom: 20px;
 }
 
+.home-essays-container {
+	margin-bottom: 80px;
+}
+
 .home-essays h1 ,
 .home-pictures h1 {
 	font-size: 16px;
@@ -344,6 +348,10 @@ nav a {
 /* about */
 
 .about-image {
+	margin-bottom: 20px;
+}
+
+.about-image-sub {
 	margin-bottom: 20px;
 }
 
