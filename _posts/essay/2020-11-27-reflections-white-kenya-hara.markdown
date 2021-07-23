@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: My Thoughts on White, by Kenya Hara.
+title: My Thoughts on White, by Kenya Hara
 date: 2020-11-27
 categories: essay
 description: What I've learned reading White by Kenya Hara.
