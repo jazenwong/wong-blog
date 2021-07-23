@@ -9,7 +9,7 @@ image:
 image-description:
 ---
 
-This essay is a reflection on my thoughts and readings on the topic of branding.
+This essay is a reflection on my thoughts and readings on branding.
 
 On an economic level, a brand is a way for consumers to identify a seller - and distinctiveness plays a big role in this. Distinctiveness not only gives people a way to identify companies but also a way to reward them (by buying from them) when they like their products.
 
