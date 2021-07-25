@@ -232,13 +232,73 @@ sub {
 }
 
 nav {
-  padding: 10px 0;
+  padding: 10px 0 10px 0;
 	margin-bottom: 20px;
 	font-size: 16px;
 	display: flex;
 	background-color: #ffffff;
 	z-index: 999;
 	border-bottom: 1px solid black;
+}
+
+.scroll-container {
+  overflow: hidden;
+	padding: 0px;
+	margin: 0px 0px -10px 0px;
+}
+
+.scroll-text {
+  /* animation properties */
+  -moz-transform: translateX(100%);
+  -webkit-transform: translateX(100%);
+  transform: translateX(100%);
+
+  -moz-animation: my-animation 50s linear infinite;
+  -webkit-animation: my-animation 50s linear infinite;
+  animation: my-animation 50s linear infinite;
+}
+
+.scroll-text {
+	white-space: nowrap;
+}
+
+.scroll-text:hover {
+	animation-play-state: paused;
+}
+
+.scroll-text p {
+	font-style: italic;
+	font-size: 12px;
+	display: inline-block;
+	padding-right: 40px;
+	position: relative;
+	left: -2000px;
+}
+
+/* for Firefox */
+@-moz-keyframes my-animation {
+  from { -moz-transform: translateX(100%); }
+  to { -moz-transform: translateX(-100%); }
+}
+
+/* for Chrome */
+@-webkit-keyframes my-animation {
+  from { -webkit-transform: translateX(100%); }
+  to { -webkit-transform: translateX(-100%); }
+}
+
+@keyframes my-animation {
+  from {
+    -moz-transform: translateX(100%);
+    -webkit-transform: translateX(100%);
+    transform: translateX(100%);
+  }
+  to {
+    -moz-transform: translateX(-100%);
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+  }
+
 }
 
 .strong {
@@ -355,8 +415,14 @@ nav a {
 	margin-bottom: 20px;
 }
 
+.image-sub-text p {
+	font-size: 12px;
+	font-style: italic;
+}
+
 .about-text {
-	margin-bottom: 10px;
+	border-bottom: 1px solid black;
+	margin-bottom: 20px;
 }
 
 @media only screen and (min-width: 768px){
@@ -381,15 +447,17 @@ nav a {
 
 .about-image {
 	grid-column: 1/-1;
-	display: grid;
-	grid-template-columns: repeat(3,1fr);
-	grid-column-gap: 20px;
 }
 
 .about-text {
-	margin-top: 20px;
-	grid-column: 4/10;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	grid-column: 1/-1;
 	grid-row: 1/2;
+}
+
+.about-text p {
+	max-width: calc(60% - 10vw);
 }
 
 }
@@ -461,7 +529,24 @@ nav {
 /* about */
 
 .about-text {
+	margin-top: 20px;
+}
 
+.about-image {
+	display: grid;
+	grid-template-columns: repeat(12,1fr);
+	grid-column-gap: 20px;
+}
+
+.about-image-container {
+	grid-column: 1/10;
+	display: grid;
+	grid-template-columns: repeat(3,1fr);
+	grid-column-gap: 20px;
+}
+
+.image-sub-text {
+	grid-column: 10/-1;
 }
 
 }
@@ -511,10 +596,5 @@ html {
 	font-size: 16px;
 }
 
-.about-layout {
-	max-width: 1420px;
-	margin-left: auto;
-	margin-right: auto;
-}
 
 }
