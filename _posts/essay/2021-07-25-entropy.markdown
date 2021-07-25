@@ -1,0 +1,28 @@
+---
+layout: "post"
+title: Fighting Entropy - Why We Should Create
+date: 2021-07-25
+categories: essay
+description: Why should we create?
+permalink: fighting-entropy
+image:
+image-description:
+---
+
+The universe is largely entropic, full of chaos and disorganization. The natural state of the universe is cold, still, and empty. Life and creation, on the other hand, is warm, moving, and full - and it's the exception in the universe. It's easy to destroy and let things be but it's difficult to create. It's easier to sit than to get up.
+
+There's no "moral" issue with just living life day-to-day - you can live a happily that way, but you won't be contributing to the greater cause of creation. For that reason alone, I believe that for those who choose to fight entropy, it's a noble cause; we *should* create.
+
+Not all creations, however, are held equal. The invention of the airplane fights entropy at a scale that's much greater than the kite. The creations that fight entropy the most are the ones that are usually the most difficult to create (side note: in capitalism, those creations are usually financially rewarded - it's much more difficult to create a platform business like Airbnb vs. creating a single hotel.)
+
+There are two important vectors that need to be taken into consideration when maximizing entropy-fighting creation — knowledge and application. Increasing knowledge and/or application increases the chances of a creating something with more value.
+
+Knowledge is how much you know about a particular subject. Let's use the example of lithium. If you stumbled upon a rock and someone told you it contained lithium, you would know one way to find lithium. But if you studied rocks and became a geologist, you would know all the kinds of rocks that contain lithium. But knowledge on its own doesn't have much value. Who cares if you know that rock has lithium? What has it done for the world?
+
+In order for knowledge to become valuable, it has to be applied. Application is how the knowledge is used. Lithium can be used as treatment for some mental disorders, which is valuable - it has real use that brings benefit to people! By figuring out how to obtain the lithium and use it as a treatment, value has been created.
+
+Now, this is pretty much common sense. But by conceptualizing these vectors, we can better reflect on how to increase our chances of creating something valuable.
+
+We don't all have to start an Airbnb, but we should all try to create something, no matter how small.
+
+<iframe width="1000px" height="450px" src="https://www.youtube.com/embed/JBxl3qCXbRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
