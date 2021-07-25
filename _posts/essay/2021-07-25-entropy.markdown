@@ -9,9 +9,9 @@ image:
 image-description:
 ---
 
-The universe is largely entropic, full of chaos and disorganization. The natural state of the universe is cold, still, and empty. Life and creation, on the other hand, is warm, moving, and full - and it's the exception in the universe. It's easy to destroy and let things be but it's difficult to create. It's easier to sit than to get up.
+The universe is largely entropic, full of chaos and disorganization. The natural state of the universe is cold, still, and empty. Life and creation, on the other hand, is warm, moving, and full - and it's the exception in the universe. It's easy to destroy and let things be, but it's difficult to create. It's easier to sit than to get up.
 
-There's no "moral" issue with just living life day-to-day - you can live a happily that way, but you won't be contributing to the greater cause of creation. For that reason alone, I believe that for those who choose to fight entropy, it's a noble cause; we *should* create.
+There's no "moral" issue with just living life day-to-day - you can live happily that way, but you won't be contributing to the greater cause of creation. For that reason alone, I believe that for those who choose to fight entropy, it's a noble cause; we *should* create.
 
 Not all creations, however, are held equal. The invention of the airplane fights entropy at a scale that's much greater than the kite. The creations that fight entropy the most are the ones that are usually the most difficult to create (side note: in capitalism, those creations are usually financially rewarded - it's much more difficult to create a platform business like Airbnb vs. creating a single hotel.)
 
@@ -21,7 +21,7 @@ Knowledge is how much you know about a particular subject. Let's use the example
 
 In order for knowledge to become valuable, it has to be applied. Application is how the knowledge is used. Lithium can be used as treatment for some mental disorders, which is valuable - it has real use that brings benefit to people! By figuring out how to obtain the lithium and use it as a treatment, value has been created.
 
-Now, this is pretty much common sense. But by conceptualizing these vectors, we can better reflect on how to increase our chances of creating something valuable.
+Now, this is pretty much common sense. But by conceptualizing these vectors, we can better reflect on how to increase our chances of creating something valuable. It also gives us a way to judge ideas and whether or not they can be valuable - how hard is it to create? If it's relatively simple and un-unique, chances are that idea would've been done many times already and thus not very valuable.
 
 We don't all have to start an Airbnb, but we should all try to create something, no matter how small.
 
