@@ -1,0 +1,21 @@
+---
+layout: "post"
+title: Niche
+date: 2021-09-07
+categories: essay
+description: Examples of Good Niche Targeting
+permalink: niche
+image:
+image-description:
+---
+Targeting a niche is a great market acquisition strategy. But I've seen many companies target a niche for the sake of just targeting a niche. Instead, the key to targeting the right niche is to solve a unique problem. From there, you can find people who share that problem and solve it for them—that's your niche market. Granted, that's not the only way to go about finding a niche. For example, you might've found out about the problem because you were the niche market yourself / knew the niche market from the start.
+
+Although targeting niches is pretty much marketing gospel nowadays, I rarely see interesting or relevant examples, so I wanted to share a few I liked.
+
+##Cerebrus & A.I.
+AI is an evergrowing industry and for the majority of its history, the companies that have invested in AI have used GPUs. GPUs are Graphic Processing Units that are typically found in video cards. The only reason that AI companies use GPUs is because there's nothing better in the market. GPUs aren't actually better for AI, they're just much better than anything found in the marketplace.
+
+Cerebrus, a semiconductor company, realized that this was a problem for the companies that use AI. Cerebrus developed a chip that was much better suited for AI, but the price tag was $2m.
+
+
+Cerebrus is a semiconductor company that creates big semiconductor chips. For scale, a regular graphics chip is roughly the size of a fingernail and a Cerebrus chip is the size of a dinner plate.
