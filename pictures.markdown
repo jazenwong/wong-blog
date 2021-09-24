@@ -1,6 +1,5 @@
 ---
 layout: pictures
-title: Pictures with Words
+title: Pictures
 permalink: /pictures
-exclude: true
 ---

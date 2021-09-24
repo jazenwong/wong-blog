@@ -9,7 +9,7 @@ image:
 image-description:
 ---
 
-I enjoy speaking and connecting with people, whether it's at my job (as of July 2021 I do sales as part of my full-time job,) or personal life. I've always been interested in figuring out how to get people to open up and to try to create a meaningful bond with them. I think it's a useful skill not only in sales but also just for living a more enjoyable and social life - especially if you're introverted, like myself.
+I enjoy speaking and connecting with people, whether it's at my job (as of July 2021 I do sales as part of my full-time job,) or personal life. I've always been interested in figuring out how to get people to open up and to try to create a meaningful bond with them. I think it's a useful skill not only in sales but also just for living a more enjoyable and social life—especially if you're introverted, like myself.
 
 For the most part, when meeting new people, I think there are two conflicting feelings in a person—one—the fear of sharing and opening up—and two—the desire to open up and share. People often put up walls (they can have more than one) and boundaries in order to protect themselves as an act of self preservation. But on the other hand, when given the chance, people love talking about themselves. It's a strange duality that most people have. But it also makes things pretty simple—if you can help the other party put down their walls, it will be easy for you to establish a deeper than shallow relationship with them.
 
