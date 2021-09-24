@@ -233,7 +233,7 @@ sub {
 nav {
   padding: 10px 0 10px 0;
 	margin-bottom: 20px;
-	font-size: 16px;
+	font-size: 18px;
 	display: flex;
 	background-color: #ffffff;
 	z-index: 999;
@@ -337,7 +337,7 @@ nav a {
 
 .home-essays h1 ,
 .home-pictures h1 {
-	font-size: 16px;
+	font-size: 18px;
 }
 
 .home-essays p {
@@ -376,7 +376,7 @@ nav a {
 }
 
 .post-summary h1 {
-	font-size: 28px;
+	font-size: 32px;
 	margin-top: 60px;
 	margin-bottom: 60px;
 }
@@ -424,6 +424,14 @@ nav a {
 	margin-bottom: 20px;
 }
 
+/* Image Library */
+.moodboard {
+	padding-top: 20px;
+}
+.moodboard img {
+	margin-bottom: 40px;
+	display: block;
+}
 
 @media only screen and (min-width: 768px){
 /* home */
@@ -468,11 +476,6 @@ nav a {
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
-}
-
-.moodboard img {
-	margin-bottom: 40px;
-	display: block;
 }
 
 .moodboard .length {
