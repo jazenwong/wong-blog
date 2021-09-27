@@ -1,10 +1,10 @@
 ---
 layout: "post"
-title: Why Should We Create?
+title: Why We Should Create
 date: 2021-09-26
 categories: essay
 description: Why should we create?
-permalink: fighting-entropy
+permalink: why-we-should-create
 image: aldebaran-unsplash.jpg
 image-description: The pac-man Nebula, taken by Aldebaran S.
 ---
