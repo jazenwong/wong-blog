@@ -11,7 +11,7 @@ image-description: The pac-man Nebula, taken by Aldebaran S.
 
 The universe is largely entropic and full of chaos and disorganization. The natural state of the universe is cold, still and empty. Life and creation, on the other hand, is warm, moving and full—and it's the exception in the universe. It's easy to destroy and let things be, but it's difficult to create. It's easier to sit than to get up.
 
-For that reason alone, I believe creating and living to be a noble cause; we *should* live and create. If you're living and breathing, you're an exception in the universe. Not many things in the universe have the opportunity to create. Actually, why am I even talking about the universe? Not many people on this Earth get a chance to create; the majority of people have to worry about surviving and their basic necessities.
+For that reason alone, I believe creating and living to be a noble cause; we *should* live and create. If you're living and breathing, you're an exception in the universe. Not many things in the universe have the opportunity to create. In fact, forget about the universe. Not many people on this Earth get a chance to create; the majority of people have to worry about surviving and their basic necessities.
 
 So again, if we have the privilege to create, then we should.
 
