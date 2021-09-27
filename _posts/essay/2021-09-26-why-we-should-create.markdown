@@ -29,7 +29,7 @@ In 2014, I traveled with a friend to Slovenia and we were in Lake Bled. I was in
 
 One of the things that I still remember from that life-death experience was the feeling that I had before jumping into the water: the itch. It was the same exact itch that I feel when I feel like I'm letting my life pass me by. I've realized that the itch is the thing that's telling me what I *should* do. And whether Lewis' Moral Law is real or not, the concept resonates with my life experience.
 
-So, going back to the topic of creating and actively approaching life, this itch is telling me I *should* create, that I should take action and be intentional. I think a lot of people have the same exact itch that's nudging them towards what they should do, (although it often times manifests as anxiety.) The "Moral Law" that tells us to help people in need also tells us that we *should* create and when we don't, it bugs us. (I'm not going to define creation; it's up for the individual to decide. Maybe that's a good place for one to start.)
+So, going back to the topic of creating and actively approaching life, this itch is telling me I shouldn't be hedonistic and that I *should* create, that I should take action and be intentional. I think a lot of people have the same exact itch that's nudging them towards what they should do, (although it often times manifests as anxiety.) The "Moral Law" that tells us to help people in need also tells us that we *should* create and when we don't, it bugs us. (I'm not going to define creation; it's up for the individual to decide. Maybe that's a good place for one to start.)
 
 This post was a philosophical plea for why we should create. We should create because:
 
