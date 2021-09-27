@@ -15,7 +15,7 @@ For that reason alone, I believe creating and living to be a noble cause; we *sh
 
 So again, if we have the privilege to create, then we should.
 
-I say this because I often meet people that just want to live life passively. They live to consume and feel pleasure. I'm sure you know the sort of person(s) I'm talking about—you may even be one of them. Admittedly, I, more often than I'd like, behave like the people I'm criticizing—behaving like a hedonist. It's just so god damned easy and who wouldn't want to live a life of pleasure? It feels fucking great (especially in a world where immediate satisfaction is becoming infinitely easier to obtain.)
+I say this because I often meet people that just want to live life passively. They live to consume and feel pleasure. I'm sure you know the sort of person(s) I'm talking about—you may even be one of them. Admittedly, I, more often than I'd like, behave like the people I'm criticizing—behaving hedonistically. It's just so god damned easy and who wouldn't want to live a life of pleasure? It feels fucking great (especially in a world where immediate satisfaction is becoming infinitely easier to obtain.)
 
 But why does the idea of being hedonistic bother me so much? Even though my dopamine receptors are bursting with, well, dopamine, why does it bother me like an itch that I can't seem to scratch? No matter how much Netflix I watch, the itch won't go away.
 
@@ -25,7 +25,7 @@ C.S. Lewis talks about something called "the Moral Law" in his book *Mere Christ
 
 **"The Moral Law tells us the tune we have to play: our instincts are merely the keys."**
 
-In 2014, I traveled with a friend to Slovenia and we were in Lake Bled. I was in a row boat and my silly friend decided he wanted to swim to the castle in the middle of the lake. Not even five minutes in to the swim, he started to drown. Two instincts surged through me as I was on the boat: the first was the fear that if I jumped in to save him I would down and the second was the fear that my friend would drown. Without consciously making a decision, I jumped in and with a bit of luck, I managed to save his life.
+In 2014, I traveled with a friend to Slovenia and we were in Lake Bled. I was in a row boat and my silly friend decided he wanted to swim to the castle in the middle of the lake. Not even five minutes in to the swim, he started to drown. Two instincts surged through me as I was on the boat: the first was the fear that if I jumped in to save him I would down and the second was the fear that my friend would drown. Without consciously making a decision, I jumped in and with a bit of luck, managed to get him back to the boat.
 
 One of the things that I still remember from that life-death experience was the feeling that I had before jumping into the water: the itch. It was the same exact itch that I feel when I feel like I'm letting my life pass me by. I've realized that the itch is the thing that's telling me what I *should* do. And whether Lewis' Moral Law is real or not, the concept resonates with my life experience.
 
