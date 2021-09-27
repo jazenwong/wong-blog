@@ -15,9 +15,9 @@ For that reason alone, I believe creating and living to be a noble cause; we *sh
 
 So again, if we have the privilege to create, then we should.
 
-I say this because I often meet people that just want to live life passively. They live to consume and feel pleasure. I'm sure you know the sort of person(s) I'm talking about—you may even be one of them. Admittedly, I, more often than I'd like, behave like the people I'm criticizing—behaving hedonistically. It's just so god damned easy and who wouldn't want to live a life of pleasure? It feels fucking great (especially in a world where immediate satisfaction is becoming infinitely easier to obtain.)
+I say this because I often meet people that just want to live life passively. They live to consume and feel pleasure. I'm sure you know the sort of person(s) I'm talking about—you may even be one of them. Admittedly, I, more often than I'd like, behave like the people I'm criticizing—hedonistically. It's just so god damned easy and who wouldn't want to live a life of pleasure? It feels great (especially in a world where immediate satisfaction is becoming infinitely easier to obtain.)
 
-But why does the idea of being hedonistic bother me so much? Even though my dopamine receptors are bursting with, well, dopamine, why does it bother me like an itch that I can't seem to scratch? No matter how much Netflix I watch, the itch won't go away.
+But why does being hedonistic bother me so much? Even though my dopamine receptors are bursting with, well, dopamine, it bothers me like an itch that I can't seem to scratch. No matter how much Netflix I watch, that "itch" won't go away.
 
 C.S. Lewis talks about something called "the Moral Law" in his book *Mere Christianity* (I'm not religious, but Mere Christianity is an amazingly well-written philosophical book that just happens to be on the topic of religion.) Lewis argues that we all have instincts. The instinct to run, to help, to kill, etc. But what is it  that helps us judge between our instincts? He argues that it's something called the "Moral Law," and all humans are born with it. He gives an example:
 
