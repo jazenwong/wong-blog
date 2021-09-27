@@ -15,7 +15,7 @@ For that reason alone, I believe creating and living to be a noble cause; we *sh
 
 So again, if we have the privilege to create, then we should.
 
-I say this because I often meet people that just want to live life passively. They live to consume and to feel pleasure. I'm sure you know the sort of person(s) I'm talking about, you may even be one of them. Admittedly, I, more often than I'd like, behave like the people I'm criticizing—living life like a hedonist. It's just so god damned easy and who wouldn't want to do that? It feels fucking great (especially in the world of immediate satisfaction—if you want something, you can have it.)
+I say this because I often meet people that just want to live life passively. They live to consume and feel pleasure. I'm sure you know the sort of person(s) I'm talking about—you may even be one of them. Admittedly, I, more often than I'd like, behave like the people I'm criticizing—behaving like a hedonist. It's just so god damned easy and who wouldn't want to live a life of pleasure? It feels fucking great (especially in a world where immediate satisfaction is becoming infinitely easier to obtain.)
 
 But why does it bother me so much? Even though my dopamine receptors are bursting with, well, dopamine, why does it bother me like an itch that I can't seem to scratch? No matter how much Netflix I watch, this itch won't go away.
 
