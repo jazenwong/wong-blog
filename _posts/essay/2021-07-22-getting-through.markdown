@@ -1,10 +1,10 @@
 ---
 layout: "post"
-title: Creating Bonds
+title: Getting Through to People
 date: 2021-07-22
 categories: essay
 description:
-permalink: creating-bonds
+permalink: getting-through-to-people
 image:
 image-description:
 ---
