@@ -10,9 +10,9 @@ image-description: Lee Sadol taking a smoke break during game two against AlphaG
 ---
 It was during game two against AlphaGo that Lee Sedol stepped out for a smoke break. I've always wondered what was going through Lee's mind when puffing through that cigarette? Was he thinking about the game, his legacy, or nothing at all?
 
-During Lee's smoke break AlphaGo played a "Divine Move"—a term that's given to a move that is considered out of the box and exceptional. Divine Moves are so rare that a popularized manga series, Hikaru no Go, termed it as The Hand of God (神の一手, Kami no Itte,) and rightfully so, because these moves are truly that special.
+During Lee's smoke break, AlphaGo played a "Divine Move"—a term that's given to a move that is considered original and exceptional. Divine Moves are so rare that a popularized manga series, Hikaru no Go, termed it as The Hand of God (神の一手, Kami no Itte.)
 
-AlphaGo's Divine Move was Move 37 (the 37th move played in the game.) The whole world saw Move 37 before Lee did and anxiously waited to see his reaction to it. When Lee came back, he smiled, [almost with childish glee](https://www.youtube.com/watch?t=3119&v=WXuK6gekU1Y&feature=youtu.be), but within seconds, quickly adorned a face that looked like a mixture of unsettledness, confusion, and bewilderment. Move 37 was a 1 in 10,000 move that experts around the world thought was a mistake but turned out to be a move that won AlphaGo the game.
+AlphaGo's move 37 (the 37th move played in the game) was a Divine Move. When Alphago played Move 37, Lee Sedol was still on his smoke break. The whole world anxiously waited to see Sedol's reaction to it. When Lee came back, he smiled, [almost with childish glee](https://www.youtube.com/watch?t=3119&v=WXuK6gekU1Y&feature=youtu.be), but within seconds, he looked confused and unsettled. Experts around the world thought Move 37 was a mistake, but it turned out to be a move that won AlphaGo the game.
 
 ![Lee Sedol Thinking](/assets/blogimages/Lee_Sedol_Thinking.jpg#center "Lee Sedol Thinking")
 
@@ -20,33 +20,33 @@ AlphaGo's Divine Move was Move 37 (the 37th move played in the game.) The whole 
 
 Why did so many, including Lee, use the word "creative" to describe AlphaGo even though they knew that it was a machine? I think a possible reason is because of our desire to project our ego; it gives us a sliver of hope that maybe we would have played that move if we were creative enough. Maybe by romanticizing the machine and giving it an aspect of human-ness, it would make us feel less powerless and hopeless.
 
-Although Lee had won 18 international titles and was widely recognized as one of the best players throughout history, in a single move, AlphaGo changed his entire worldview (and that isn't a hyperbole, these Go players treat the game as if it is their entire world.)
+Although Lee had won 18 international titles and was widely recognized as one of the best players throughout history, in a single move, AlphaGo changed his entire worldview (and that isn't a hyperbole. Pro Go players treat the game as if it was life and death.)
 
 > "I feel something... very strange. I lose with program and I don't understand myself anymore." - Fan Hui on his loss to AlphaGo, AlphaGo
 
-In that moment Lee thought to himself, so this is what it means to really play Go. 
+In that moment Lee discovered what it really meant to play Go.
 
 > "This move made me think about Go in a new light. What does creativity mean in Go? It was a really meaningful move." - Lee Sadol on Move 37, Alpha Go
 
 > "The more I see this move, I feel something changed...this move is very special because with this move, all the stones played before is work together, it's connect, it look like network, link everywhere it's very special, very special." - Fan Hui, AlphaGo
 
-If Lee never played against AlphaGo, he might never have expanded his human-ness to the extent that he did.
+In a way, a "machine" expanded Lee Sedol's human-ness.
 
 > "I want Lee Sedol to play his game. Because for the moment, he try many, many things to play against AlphaGo, to understand AlphaGo, but he never tried to play himself. I talk many time that AlphaGo look like real mirror. When you play with AlphaGo, you feel very strange. You look like you're all the time naked. The first time you see this, you don't want to see.. this is me? The real me? And more and more, you need to accept, oh this is real me. So now, how can I do?" - Fan Hui, AlphaGo
 
-Although Lee lost game one, two, and three, in a twist of fate, Lee was able to win game four in the same style that AlphaGo had beat him in game two—he played a Divine Move which people have coined as "God's Touch." Just like with AlphaGo's Divine Move, the commentators and experts were unable to see Lee's Divine Move. This was Move 78. Lee received praise from the entire Go community for this move which ultimately won him game four.
+Although Lee lost three games in a row, in a twist of fate, Lee was able to win game four with a Divine Move, which people have coined as "God's Touch." Just like with AlphaGo's Divine Move, the commentators and experts were unable to understand the reason for Lee's Divine Move. This was Move 78. After winning the game, Lee received praise from the entire Go community for this move.
 
 I wonder, could Lee have played Move 78, a move that he will forever be a part of his legacy, if he never saw AlphaGo's Move 37?
 
-I also wonder, if Lee had played against a human being who played the same way as AlphaGo, would it have the same effect on Lee? Because when one competes against another human, we understand that the opponent has an ego that conflicts with our own, which sometimes stops us from seeing past a loss. But when playing against a computer, the aspect of our opponent having an ego is removed, which almost makes you feel like Fan Hui had said, exposed, naked and you have to accept who you are. Because you're not playing against another ego, you're forced to look within yourself.
+I also wonder, if Lee had played against a human being who played the same way as AlphaGo, would it have the same effect on Lee? Because when one competes against another human, we understand that the opponent has an ego that conflicts with our own, which sometimes stops us from seeing past a loss. But when playing against a computer, the aspect of our opponent having an ego is removed, which almost makes you feel, like Fan Hui had said, exposed and naked; you have to accept who you are. Because you're not playing against another ego, you're forced to look inwards.
 
 ![Lee Sedol Winning](/assets/blogimages/Lee_Sedol_Winning.jpg#center "Lee Sedol Winning")
 
-Winning game four was an emotional victory for not just Lee Sedol, but for everyone, including the developers behind AlphaGo. Even though AlphaGo is ultimately a human creation, we couldn't help but feel like Lee was playing on our behalf, on the behalf of humankind. You couldn't help but feel elation and joy that Lee won a game against AlphaGo. It felt like a victory for mankind.
+Winning game four was an emotional victory for not just Lee Sedol, but for everyone, including the developers behind AlphaGo. Even though AlphaGo is ultimately a human creation, we couldn't help but feel like Lee was playing on behalf of "people". I couldn't help but feel elation and joy that Lee had won a game against AlphaGo. It felt empowering.
 
 (Side note: I thought it was a nice touch that Lee wasn't made to play against AlphaGo directly on the computer and that Aja Huang was placing down the physical pieces in its stead.)
 
-Although most of us will never truly understand Lee's experience and what it meant to him, the AlphaGo documentary did an amazing job capturing the emotional and existential journey of both Fan Hui and Lee Sedol and their experiences with AlphaGo. It makes us truly reflect on and appreciate human creativity.
+Although most of us will never truly understand Lee's experience and what it meant to him, the AlphaGo documentary did an amazing job capturing the emotional and existential journey of both Fan Hui and Lee Sedol and their experiences with AlphaGo. It made me reflect on and appreciate the concept of creativity.
 
 > "I feel thankful and feel like I've found the reason I play Go." - Lee Sedol, AlphaGo
 

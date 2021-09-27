@@ -1,28 +1,42 @@
 ---
 layout: "post"
-title: Fighting Entropy - Why We Should Create
-date: 2021-07-25
+title: Why Should We Create?
+date: 2021-09-26
 categories: essay
 description: Why should we create?
 permalink: fighting-entropy
-image:
-image-description:
+image: aldebaran-unsplash.jpg
+image-description: The pac-man Nebula, taken by Aldebaran S.
 ---
 
-The universe is largely entropic, full of chaos and disorganization. The natural state of the universe is cold, still, and empty. Life and creation, on the other hand, is warm, moving, and full—and it's the exception in the universe. It's easy to destroy and let things be, but it's difficult to create. It's easier to sit than to get up.
+The universe is largely entropic and full of chaos and disorganization. The natural state of the universe is cold, still and empty. Life and creation, on the other hand, is warm, moving and full—and it's the exception in the universe. It's easy to destroy and let things be, but it's difficult to create. It's easier to sit than to get up.
 
-For that reason alone, I believe that for those who choose to fight entropy, it's a noble cause; we *should* create. But *should* doesn't mean that you *must* create. One can spend your entire life consuming and can certainly live happily that way, but they wouldn't be contributing to the greater cause which is creation.
+For that reason alone, I believe creating and living to be a noble cause; we *should* live and create. If you're living and breathing, you're an exception in the universe. Not many things in the universe have the opportunity to create. Actually, why am I even talking about the universe? Not many people on this Earth get a chance to create; the majority of people have to worry about surviving and their basic necessities.
 
-If you choose that you want to create, the next question is, what should I create? It depends. One model that I like to use is thinking about how much change I want to create. The invention of the airplane creates change (and thus fights entropy) at a scale that's much greater than the kite. The creations that fight entropy the most are the ones that are usually the most difficult to create (side note: in capitalism, those creations are usually financially rewarded - it's much more difficult to create a platform business like Airbnb vs. creating a single hotel.)
+So again, if we have the privilege to create, then we should.
 
-There are two important vectors that need to be taken into consideration when creating—knowledge and application. Increasing knowledge and/or application increases the chances of creating something with more value.
+I say this because I often meet people that just want to live life passively. They live to consume and to feel pleasure. I'm sure you know the sort of person(s) I'm talking about, you may even be one of them. Admittedly, I, more often than I'd like, behave like the people I'm criticizing—living life like a hedonist. It's just so god damned easy and who wouldn't want to do that? It feels fucking great (especially in the world of immediate satisfaction—if you want something, you can have it.)
 
-Knowledge is how much you know about a particular subject. Let's use the example of lithium. If you stumbled upon a rock and someone told you it contained lithium, you would know one way to find lithium. But if you studied rocks and became a geologist, you would know all the kinds of rocks that contain lithium. But knowledge on its own doesn't have much value. Who cares if you know that rock contains lithium? What has it done for the world?
+But why does it bother me so much? Even though my dopamine receptors are bursting with, well, dopamine, why does it bother me like an itch that I can't seem to scratch? No matter how much Netflix I watch, this itch won't go away.
 
-In order for knowledge to become valuable, it has to be applied. Application is how the knowledge is used. Lithium can be used as treatment for some mental disorders, which is valuable - it has real use that brings benefit to people! By figuring out how to obtain the lithium and use it as a treatment, value has been created.
+C.S. Lewis talks about something called "the Moral Law" in his book "Mere Christianity" (I'm not religious, but Mere Christianity is an amazingly well-written philosophical book.) Lewis argues that we all have instincts. The instinct to run, to help, to kill, etc. But what is it  that helps us judge between our instincts? He argues that it's something called the "Moral Law," and all humans are born with it. He gives an example:
 
-Now, this is pretty much common sense. But by conceptualizing these vectors, we can better reflect on how much learning we need to do to increase our chances of creating something valuable. It also gives us a way to judge ideas and whether or not they can be valuable - how much do you have to know and how many things do you have to get right for it to work? If someone is telling you "the idea can only work if you do x, y, z, but that's hard to pull off, I don't know man" - you're probably in the right direction.
+>"Supposing you hear a cry for help from a man in danger. You will probably feel two desires—one a desire to give help (due to your herd instinct), the other a desire to keep out of danger (due to the instinct for self-preservation). But you will find inside you, in addition to these two impulses, a third thing which tells you that you ought to follow the impulse to help, and suppress the impulse to run away. Now this thing that judges between two instincts, that decides which should be encouraged, cannot itself be either of them. You might as well say that the sheet of music which tells you, at a given moment, to play one note on the piano and not another, is itself one of the notes on the keyboard. The Moral Law tells us the tune we have to play: our instincts are merely the keys." - *C.S. Lewis, Mere Christianity*
 
-We don't all have to start an Airbnb, but we should all try to create something, no matter how small.
+**"The Moral Law tells us the tune we have to play: our instincts are merely the keys."**
+
+In 2014, I traveled with a friend to Slovenia and we were in Lake Bled. I was in a row boat and my silly friend decided he wanted to swim to the castle in the middle of the lake. Not even five minutes in to the swim, he started drowning. Two instincts surged through me as I was on the boat: the first was the fear of drowning if I jumped in to save him and the second was the fear that he was dying. I jumped in and with a bit of luck, I managed to save his life.
+
+But I still remember the feeling that I had on that boat: an itch. It was the same exact itch that I feel when I'm letting my life pass me by. Whether it's true or not, Lewis' Moral Law resonates with the existential itch that plagues me.
+
+I think this itch, for me at least, is telling me to create. It's telling me to not live life passively, it's telling me to be intentional. I think a lot of people have the same exact itch as me, and it probably often times manifests as anxiety. In other words, the "Moral Law" is telling us we *should* create and when we don't, it keeps bugging us. I'm not going to define creation; it's up for the individual to decide. Maybe that's a good place for one to start.
+
+This post is a philosophical plea for why we should create. We should create because:
+
+1. The Moral Law tells us to. At least, for me it does.
+2. Not many have the opportunity to do so.
+3. It benefits the world.
+4. It makes you happy.
+2. It's hard. Hard things are worth doing by their own merit.
 
 <iframe width="1000px" height="450px" src="https://www.youtube.com/embed/JBxl3qCXbRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

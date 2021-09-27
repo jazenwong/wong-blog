@@ -202,6 +202,13 @@ p {
 	line-height: 24px;
 }
 
+li {
+	font-family: var(--sans-serif-font);
+	font-size: 18px;
+	margin-bottom: 1rem;
+	line-height: 24px;
+}
+
 a {
 	font-family: var(--sans-serif-font);
 }
@@ -434,6 +441,15 @@ nav a {
 }
 
 @media only screen and (min-width: 768px){
+ol ,
+ul {
+	margin-bottom: 2rem;
+}
+
+li {
+	margin-left: 2rem;
+}
+
 /* home */
 
 
