@@ -25,13 +25,13 @@ C.S. Lewis talks about something called "the Moral Law" in his book *Mere Christ
 
 **"The Moral Law tells us the tune we have to play: our instincts are merely the keys."**
 
-In 2014, I traveled with a friend to Slovenia and we were in Lake Bled. I was in a row boat and my silly friend decided he wanted to swim to the castle in the middle of the lake. Not even five minutes in to the swim, he started drowning. Two instincts surged through me as I was on the boat: the first was the fear of drowning if I jumped in to save him and the second was the fear that he was dying. I jumped in and with a bit of luck, I managed to save his life.
+In 2014, I traveled with a friend to Slovenia and we were in Lake Bled. I was in a row boat and my silly friend decided he wanted to swim to the castle in the middle of the lake. Not even five minutes in to the swim, he started to drown. Two instincts surged through me as I was on the boat: the first was the fear that if I jumped in to save him I would down and the second was the fear that my friend would drown. Without consciously making a decision, I jumped in and with a bit of luck, I managed to save his life.
 
-But I still remember the feeling that I had on that boat: an itch. It was the same exact itch that I feel when I'm letting my life pass me by. Whether it's true or not, Lewis' Moral Law resonates with the existential itch that plagues me.
+One of the things that I still remember from that life-death experience was the feeling that I had before jumping into the water: the itch. It was the same exact itch that I feel when I feel like I'm letting my life pass me by. I've realized that the itch is the thing that's telling me what I *should* do. And whether Lewis' Moral Law is real or not, the concept resonates with my life experience.
 
-I think this itch, for me at least, is telling me to create. It's telling me to not live life passively, it's telling me to be intentional. I think a lot of people have the same exact itch as me, and it probably often times manifests as anxiety. In other words, the "Moral Law" is telling us we *should* create and when we don't, it keeps bugging us. I'm not going to define creation; it's up for the individual to decide. Maybe that's a good place for one to start.
+So, going back to the topic of creating and actively approaching life, this itch is telling me I *should* create, that I should take action and be intentional. I think a lot of people have the same exact itch that's nudging them towards what they should do, (although it often times manifests as anxiety.) The "Moral Law" that tells us to help people in need also tells us that we *should* create and when we don't, it bugs us. (I'm not going to define creation; it's up for the individual to decide. Maybe that's a good place for one to start.)
 
-This post is a philosophical plea for why we should create. We should create because:
+This post was a philosophical plea for why we should create. We should create because:
 
 1. The Moral Law tells us to. At least, for me it does.
 2. Not many have the opportunity to do so.
