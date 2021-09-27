@@ -1,10 +1,10 @@
 ---
 layout: "post"
-title: Lessons on Culture and Management.
+title:
 date:
-categories: business
-description: What I've learned reading some of the best known books on culture and management.
-permalink: lessons-culture-management
+categories:
+description:
+permalink:
 image:
 image-description:
 ---

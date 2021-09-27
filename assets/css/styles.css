@@ -202,6 +202,13 @@ p {
 	line-height: 24px;
 }
 
+p strong {
+	font-family: var(--sans-serif-font);
+	font-weight: 500;
+}
+
+ol li ,
+ul li ,
 li {
 	font-family: var(--sans-serif-font);
 	font-size: 18px;
@@ -316,6 +323,7 @@ nav a {
 	text-transform: uppercase;
 	text-decoration: none;
 	font-weight: 500;
+	display: block;
 }
 
 /* home */
@@ -441,6 +449,7 @@ nav a {
 }
 
 @media only screen and (min-width: 768px){
+
 ol ,
 ul {
 	margin-bottom: 2rem;
@@ -448,6 +457,10 @@ ul {
 
 li {
 	margin-left: 2rem;
+}
+
+nav a {
+	display: inline-block;
 }
 
 /* home */
@@ -626,6 +639,10 @@ nav a {
 html {
 	margin-left: auto;
 	margin-right: auto;
+}
+
+.post-body {
+	max-width: 900px;
 }
 
 .post-body h2 {
