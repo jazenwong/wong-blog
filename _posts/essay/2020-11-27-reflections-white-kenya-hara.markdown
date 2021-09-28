@@ -42,7 +42,7 @@ Emptiness is closely related to kizen and the piece of white paper. It’s the p
 
 An example of white in art is found in Hasegawa Tohaku’s, “Pine Trees.”
 
-![Hasegawa Pine Trees](/assets/blogimages/Hasegawa_Pine_Trees.jpg#center "Hasegawa Pine Trees")
+![Hasegawa Pine Trees](/assets/blogimages/Hasegawa_Pine_Trees.jpeg#center "Hasegawa Pine Trees")
 
 > “it conveys the lively image of the trees by intentionally avoiding detailed description, and approach that activates the imagination of its viewers. In short, the paintings very roughness and omission of details awake and our senses.” - Kenya Hara, "White"
 
@@ -60,9 +60,7 @@ And although we don’t know exactly why emptiness became important in Japanese 
 
 The Silver Pavilion that Yoshimasa built incorporated Wabi-Sabi and more specifically, the concept of emptiness.
 
-![Ginkaku Pavilion 1](/assets/blogimages/Ginkaku_Pavilion.jpg#center "Ginkaku Pavilion")
-
-![Ginkaku Pavilion 2](/assets/blogimages/Ginkaku_Pavilion_Sand.jpg#center "Ginkaku Pavilion Sand")
+![Ginkaku Pavilion 1](/assets/blogimages/Ginkaku_Pavilion.jpeg#center "Ginkaku Pavilion")
 
 Hara gives an example of the famous tea room in the Silver Pavilion that was simple in design due to its “scant furnishing.”
 
@@ -78,7 +76,7 @@ One of the reasons for the yashiro to be left empty is so that it can be filled 
 
 This may be the reason why prayer in many religions and beliefs take place in a quiet, open space that has minimal furnishing. Whether you look at a church, a mosque, or a temple, white plays a big part in their design. Japanese culture has taken it one step further away from their religious and cultural activities to their daily life and aesthetic.
 
-![Yashiro](/assets/blogimages/Yashiro.jpg#center "Yashiro Shinto Shrine")
+![Yashiro](/assets/blogimages/Yashiro.jpeg#center "Yashiro Shinto Shrine")
 
 ## White in Communication and Culture
 
@@ -103,8 +101,6 @@ The way that Netflix manages is also via providing context and not control. They
 In Netflix’s culture deck and webpage, they quote the Little Prince:
 
 > “If you want to build a ship, don’t drum up the people to gather wood, divide the work, and give orders. Instead, teach them to yearn for vast and endless sea.” - Antoine de Saint-Exupéry, "The Little Prince"
-
-![Netflix Little Prince](/assets/blogimages/Netflix_Culture.jpg#center "Netflix Culture Little Prince")
 
 To me, this encapsulates the white that Kenya Hara writes about. It’s incorporating the concept of limitless potential and kizen into people so that they can bring forth their own creative ideas and energies.
 
