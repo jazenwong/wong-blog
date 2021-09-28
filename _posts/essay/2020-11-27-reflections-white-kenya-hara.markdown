@@ -5,7 +5,7 @@ date: 2020-11-27
 categories: essay
 description: What I've learned reading White by Kenya Hara.
 permalink: kenya-hara-white-reflections
-image: White_Picture.jpg
+image: WhiteKenyaHara.jpeg
 image-description: Kenya Hara's "White" on white.
 ---
 
