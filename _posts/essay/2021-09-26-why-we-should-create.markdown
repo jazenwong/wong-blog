@@ -29,14 +29,14 @@ In 2014, I traveled with a friend to Slovenia and we were in Lake Bled. I was in
 
 One of the things that I still remember from that life-death experience was the feeling that I had before jumping into the water: the itch. It was the same exact itch that I feel when I feel like I'm letting my life pass me by. I've realized that the itch is the thing that's telling me what I *should* do. And whether Lewis' Moral Law is real or not, the concept resonates with my life experience.
 
-So, going back to the topic of creating and actively approaching life, this itch is telling me I shouldn't be hedonistic and that I *should* "create" and that I should take action and be intentional. I think a lot of people have the same exact itch that's nudging them towards what they should do, (although it often times manifests as anxiety.) The "Moral Law" that tells us to help people in need also tells us that we *should* create and when we don't, it bugs us. (I'm not going to define creation; it's up for the individual to decide. Maybe that's a good place for one to start.)
+So, going back to the topic of creating and actively approaching life, that itch is telling me that I shouldn't live hedonistically and that I should "create." I think a lot of people share the same exact itch that I have (it often times manifests itself as something like existential anxiety.) The same "Moral Law" that tells us to help people in need also tells us that we *should* create and when we don't, it bugs us. (I'm not going to define what it means to create, that's something that each person should define themselves. If you have the same itch as I do, figuring that out might be a good place for you to start.)
 
-This post was a philosophical plea for why we should create. We should create because:
+We should create because:
 
 1. The Moral Law tells us to. At least, for me it does.
 2. Not many have the opportunity to do so.
 3. It benefits the world.
-4. It makes you happy.
+4. It will probably make you happier.
 2. It's hard. Hard things are worth doing by their own merit.
 
 <iframe width="1000px" height="450px" src="https://www.youtube.com/embed/JBxl3qCXbRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
