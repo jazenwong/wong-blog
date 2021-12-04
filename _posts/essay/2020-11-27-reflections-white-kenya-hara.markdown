@@ -18,7 +18,7 @@ On a very basic level, Kenya Hara sees the color white as a special color. It's 
 
 White is also found on the extremes of life, like in dead shells and bones.
 
-> "According to one of the most prominent experts of kanji ideograms, Shirakawa Shizuka, the Chinese characters for white (白) was modeled after the shape of the human skull. This is supposedly because the image of white held by the people who lived back then was based on the sight of abandoned skulls in the fields, belached by wind, rain and sunlight." - Kenya Hara, "White"
+> "According to one of the most prominent experts of kanji ideograms, Shirakawa Shizuka, the Chinese characters for white (白) was modeled after the shape of the human skull. This is supposedly because the image of white held by the people who lived back then was based on the sight of abandoned skulls in the fields, bleached by wind, rain and sunlight." - Kenya Hara, "White"
 
 Things go from a non-colored state to gaining color, and once it dies, it goes back to it's non-colored state. Thus, Hara makes the point that we can actually see white as a non-color. He relates white's ability to take on the possibility of many colors to a concept called kizen. Kizen refers to the latent possibilities that exist prior to an event taking place.
 
