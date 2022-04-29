@@ -6,7 +6,7 @@ categories: essay
 description: Product is the set of features / services and narratives that enable something to be purchased.
 permalink: product-features-narrative
 image: Product_Narrative.jpg
-image-description: Photo by Pawel Czerwinski on Unsplash
+image-description: Photo by Shikhar Bhatnagar on Unsplash
 ---
 Most definitions of product and product design are a generic which makes the word(s) lose meaning. A more useful definition of product in business is:
 
