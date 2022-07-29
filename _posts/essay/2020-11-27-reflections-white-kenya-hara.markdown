@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: Reflections: White, by Kenya Hara
+title: Reflections - White, by Kenya Hara
 date: 2020-11-27
 categories: essay
 description: What I've learned reading White by Kenya Hara.
