@@ -9,7 +9,7 @@ image:
 image-description:
 ---
 
-There are a lot of similarities between how companies and countries behave. After all, they're just groups of people. Companies have "a few" people and countries have many people. Of course, with scale, comes different sort of problems, but companies, in many ways, are just mini-countries. When they're small and there aren't too many rules and can move fast, but when they get big, they become slow and are forced to defend their wealth from competitors, and eventually, they die. This applies to both companies and countries, but happens at an accelerated rate in companies. Because of this, there are a few helpful analogies we can draw from examining how countries operate.
+There are a lot of similarities between how companies and countries behave. After all, they're just groups of people. Companies have a "few" people and countries have many people. Of course, with scale, comes different sort of problems, but companies, in many ways, are just mini-countries. When they're small and there aren't too many rules and can move fast, but when they get big, they become slow and are forced to defend their wealth from competitors, and eventually, they die. This applies to both companies and countries, but happens at an accelerated rate in companies. Because of this, there are a few helpful analogies we can draw from examining how countries operate.
 
 The analogy I want to share is about the similarities between managing a country and a company (that might be more applicable to early stage companies and teams).
 
