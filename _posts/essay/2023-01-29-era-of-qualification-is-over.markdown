@@ -27,6 +27,6 @@ Because of this, enterprise sales people (that are not selling products that can
 
 AI is unlikely to erase the human desire to want for status and bespokeness. Because of this, high end creatives and designers should always be in demand (and high end brands in general). However, the bar for being "high end" will increase, and thus, to stay ahead of the curve, high end brands, creatives, designers, will likely utilize and benefit from AI.
 
-**Working hard**: Entrepreneurship; [enterprise software](http://www.paulgraham.com/notnot.html).
+**Working Hard**: Entrepreneurship; [enterprise software](http://www.paulgraham.com/notnot.html).
 
 There's not much to say on this topic, except that entrepreneurship (the act of building valuable products and distributing them to society) will be valuable for a while. There are many fields that will benefit from AI, like biotech, but this is not a topic I'm particularly well versed in.
