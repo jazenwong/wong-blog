@@ -24,4 +24,6 @@ Because, to build great things, you need to not only have vision, but great visi
 
 It makes sense to micromanage when you're doing things that don't necessarily have to scale. Going back to our three individuals, you only need to build a flagship product once; you only need to write a unique episode once; and the essence of omakase is to focus on the customer's experience, not to scale and become a franchise.
 
-But the second you need to do something that has to scale, micromanaging will almost always lead to failure. It just so happens that most people will typically have to manage processes and work that needs to scale, where micromanaging is ineffective. Also, people generally don't like being micromanaged, which is what also gives micromanaging a bad reputation.
+But the second you need to do something that has to scale, micromanaging will almost always lead to failure. It just so happens that most people will typically have to manage processes and work that need to scale, which is where micromanaging is ineffective. Also, people generally don't like being micromanaged. This combination is what gives micromanaging a bad reputation.
+
+The follow up thought here is, if there are situations where micromanaging is effective, how can one do it in such a way that it doesn't hurt morale?
