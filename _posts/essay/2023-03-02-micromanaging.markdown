@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: Is Micromanaging Always Bad?
-date: 2023-01-29
+date: 2023-03-02
 categories: essay
 description: Once you need to do something that has to scale, micromanaging doesn't make sense.
 permalink: micromanaging
