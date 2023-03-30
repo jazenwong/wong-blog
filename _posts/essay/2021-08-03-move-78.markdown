@@ -12,15 +12,15 @@ It was during game two against AlphaGo that Lee Sedol stepped out for a smoke br
 
 During Lee's smoke break, AlphaGo played a "Divine Move"—a term that's given to a move that is considered original and exceptional. Divine Moves are so rare that a popularized manga series, Hikaru no Go, termed it as The Hand of God (神の一手, Kami no Itte.)
 
-AlphaGo's move 37 (the 37th move played in the game) was a Divine Move. When Alphago played Move 37, Lee Sedol was still on his smoke break. The whole world anxiously waited to see Sedol's reaction to it. When Lee came back, he smiled, [almost with childish glee](https://www.youtube.com/watch?t=3119&v=WXuK6gekU1Y&feature=youtu.be), but within seconds, he looked confused and unsettled. Experts around the world thought Move 37 was a mistake, but it turned out to be a move that won AlphaGo the game.
+AlphaGo's move 37 (the 37th move played in the game) was a Divine Move. When AlphaGo played Move 37, Lee Sedol was still on his smoke break. The whole world anxiously waited to see Sedol's reaction to it. When Lee came back, he smiled, [almost with childish glee](https://www.youtube.com/watch?t=3119&v=WXuK6gekU1Y&feature=youtu.be), but within seconds, he looked confused and unsettled. Experts around the world thought Move 37 was a mistake, but it turned out to be a move that won AlphaGo the game.
 
 ![Lee Sedol Thinking](/assets/blogimages/Lee_Sedol_Thinking.jpg#center "Lee Sedol Thinking")
 
 > "I thought AlphaGo was based on probability calculation and it was merely a machine. But when I saw this move, it changed my mind. Surely AlphaGo is creative. This move was really creative and beautiful." - Lee Sadol, AlphaGo
 
-Why did so many, including Lee, use the word "creative" to describe AlphaGo even though they knew that it was a machine? I think a possible reason is because of our desire to project our ego; it gives us a sliver of hope that maybe we would have played that move if we were creative enough. Maybe by romanticizing the machine and giving it an aspect of human-ness, it would make us feel less powerless and hopeless.
+Why did so many, including Lee, use the word "creative" to describe AlphaGo even though they knew that it was a machine? I think a possible reason is because of our desire to protect our ego; it gives us a sliver of hope that maybe we would have played that move if we were creative enough. Maybe by romanticizing the machine and giving it an aspect of human-ness, it would make us feel less powerless and hopeless.
 
-Although Lee had won 18 international titles and was widely recognized as one of the best players throughout history, in a single move, AlphaGo changed his entire worldview (and that isn't a hyperbole. Pro Go players treat the game as if it was life and death.)
+Although Lee had won 18 international titles and was widely recognized as one of the best players throughout history, with just a single move, AlphaGo entirely changed Lee's view on Go, and even moreso, his view on the world (which isn't a hyperbole!).
 
 > "I feel something... very strange. I lose with program and I don't understand myself anymore." - Fan Hui on his loss to AlphaGo, AlphaGo
 
@@ -34,7 +34,7 @@ In a way, a "machine" expanded Lee Sedol's human-ness.
 
 > "I want Lee Sedol to play his game. Because for the moment, he try many, many things to play against AlphaGo, to understand AlphaGo, but he never tried to play himself. I talk many time that AlphaGo look like real mirror. When you play with AlphaGo, you feel very strange. You look like you're all the time naked. The first time you see this, you don't want to see.. this is me? The real me? And more and more, you need to accept, oh this is real me. So now, how can I do?" - Fan Hui, AlphaGo
 
-Although Lee lost three games in a row, in a twist of fate, Lee was able to win game four with a Divine Move, which people have coined as "God's Touch." Just like with AlphaGo's Divine Move, the commentators and experts were unable to understand the reason for Lee's Divine Move. This was Move 78. After winning the game, Lee received praise from the entire Go community for this move.
+Although Lee lost three games in a row, in a twist of fate, Lee was able to win game four with his own Divine Move, which people have coined as "God's Touch." Just like with AlphaGo's Divine Move, the commentators and experts were unable to understand the reason for Lee's Divine Move. This was Move 78. After winning the game, Lee received praise from the entire Go community for this move.
 
 I wonder, could Lee have played Move 78, a move that he will forever be a part of his legacy, if he never saw AlphaGo's Move 37?
 
