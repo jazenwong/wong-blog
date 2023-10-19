@@ -8,11 +8,11 @@ permalink: product-features-narrative
 image:
 image-description:
 ---
-Most definitions of product and product design are generic which makes the word(s) lose meaning. A more useful definition of product in business is:
+Most definitions of product and product design are generic which makes the word(s) lose their meaning. A more useful definition of product in business is:
 
-_The set of features / services and narratives that enable something to be purchased. As opposed to just the thing that’s being sold._
+_The set of features / services and narratives that enable something to be purchased. As opposed to just the thing that’s being sold. I would also say that product management is the profession of figuring out what products and stories sells._
 
-It’s easy to get one or the other “right” but difficult to get both correct. Getting both correct is what enables potential product-market fit.    
+It’s easy to get one or the other “right” but difficult to get both correct. Getting both correct is what leads to product-market fit.
 
 An interesting example of this is NSO Group, the Israeli spyware company that [creates surveillance software to world governments and intelligence agencies](https://www.newyorker.com/magazine/2022/04/25/how-democracies-spy-on-their-citizens), most famously known for “Pegasus”. (I'm definitely not a fan of them, just think it's an interesting example.)
 
@@ -27,7 +27,7 @@ Buyers didn’t trust NSO because they lacked a narrative that completed the pro
 - It would be selective about which governments it allowed to use the software.
 - It would cooperate with Israel’s Defense Export Controls Agency, or DECA, to license every sale.
 
-These pillars were crucial in creating a narrative that aligned with the software they were selling. With these pillars, they were able to quickly find a buyer that trusted them. Without the narrative, NSO may never have been able to find product-market fit.
+These pillars created a narrative that aligned with the software they were selling. With this story, they were able to quickly find a buyer that could buy into trusting them. Without it, NSO may never have been able to find product-market fit.
 
 People often just think about the _thing_ they’re creating when it comes to product. But just as important is the narrative that accompanies it. Ultimately, product and narrative is the [founder’s job](https://kwokchain.com/2021/09/29/narrative-distillation-1/). Without having a complete product, it will be difficult to hire the right sales or marketing talent to grow the company. It’s why until you have product-market fit, when there’s a problem with growth, it’s difficult to diagnose if the issue is with the “product” or the salespeople and marketers. My bet is that, more often than not, it’s a problem with the “product”. You need a very special kind of salesperson or marketer to be able to help build narrative and drive product while selling it.
 
