@@ -266,6 +266,12 @@ nav a {
 }
 
 .article a {
+	display: inline-block;
+	margin-bottom: 3.5px;
+
+}
+
+.article sub {
 	display: block;
 }
 
