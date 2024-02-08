@@ -107,6 +107,9 @@ src: url("/assets/fonts/untitled-sans-web-medium.woff2") format("woff2");
 	--black: #333;
 	--hyperlink:#0000FF;
 
+	--mobile-width: 2/12;
+	--desktop-width: 3/11;
+
 	--gutter-xsm: .75rem;
 	--gutter-sm: 1rem;
 	--gutter-m: 1.25rem;
@@ -234,7 +237,7 @@ sub {
 nav {
 	height: fit-content;
 	z-index: 999;
-	grid-column: 3/11;
+	grid-column: var(--mobile-width);
 	margin-block-start: var(--spacing-m);
 }
 
@@ -251,7 +254,7 @@ nav a {
 
 /* Home */
 .home-container {
-	grid-column: 3/11;
+	grid-column: var(--mobile-width);
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -269,7 +272,7 @@ nav a {
 /* posts */
 
 .post-layout {
-	grid-column: 3/11;
+	grid-column: var(--mobile-width);
 	padding-block: var(--spacing-l);
 }
 
@@ -298,11 +301,17 @@ nav a {
 	align-self: flex-start;
 }
 
-@media only screen and (min-width: 1024px){
+@media only screen and (min-width: 768px){
 
 nav {
 	top: var(--spacing-m);
 	position: sticky;
+}
+
+nav ,
+.home-container ,
+.post-layout {
+	grid-column: var(--desktop-width);
 }
 
 }
