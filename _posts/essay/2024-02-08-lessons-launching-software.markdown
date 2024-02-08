@@ -12,7 +12,7 @@ image-description:
 
 Client wants a quote? Email. They want to book a shipment? Email. Tracking? Email.
 
-We're about to ship the first iteration of our customer facing application (will update this post with the product launch post when we do) and here are the main lessons I learned.
+We're about to ship the first iteration of our customer facing application (will update this post with the product launch link when we do) and here's what I learned.
 
 ### Designing software forces you to focus.
 
