@@ -7,19 +7,18 @@ description: The lessons learned from building customer facing software for FGX'
 permalink: lessons-launching-software
 image:
 image-description:
-published: false
 ---
 [@fgx](https://www.fgx.com) we have hundreds of businesses that ship their IT hardware with us and that's the way they’ve engaged with us since forever is email. In 2024.
 
 Client wants a quote? Email. They want to book a shipment? Email. Tracking? Email.
 
-We just shipped the first iteration of our customer facing application (here’s the blog post announcement) and here are the main lessons I took away.
+We're about to ship the first iteration of our customer facing application (will update this post with the product launch post when we do) and here are the main lessons I learned.
 
 ### Designing software forces you to focus.
 
-At FGX, our customers come to us with a thousand different kinds of problems. Since we ~~resolve~~ resolved their issues over email, where freeform text reigns free, we didn’t have to say no to any inquiries.
+At FGX, our customers come to us with a thousand different kinds of problems. When email was the main medium of resolution, we could solve every problem under the sun.
 
-But once we decided that we needed to design software for our customers, we realized that we couldn’t account for every use case. **Designing software forced us to choose the problems we really wanted to solve as opposed to solving every problem we knew how to.**
+But once we decided that we wanted to design software for our customers, we realized that we couldn’t design for every use case. **Designing software forced us to choose the problems we really wanted to solve as opposed to solving every problem we knew how to.**
 
 It also seems that in software design, the more problems you try to solve, the more difficult it becomes to solve any of those problems well.
 
@@ -33,12 +32,13 @@ We’re not guessing which features will be useful, we’ve already resolved tho
 
 ### For service-based businesses, software can’t replace expertise and attention.
 
-If you provide a service behind software, like FGX (IT shipping), Boundless (a visa immigration service), and TurboTax does, no matter how great your software is, a critical amount of users will want expert “human” attention. They know that software is a proxy for getting what they want and they’ll always feel worried that they aren’t getting serviced well. It’s an emotional human problem that’s difficult to address without another human.
+If you provide a service behind software, like FGX (IT shipping), Boundless (a visa immigration service), and TurboTax (tax filing) does, no matter how great your software is, a critical amount of users will want expert “human” attention [1]. They know that software is a proxy for getting what they want and they’ll always feel worried that they aren’t getting serviced well. It’s an emotional human problem that’s difficult to address without another human.
 
-It’s why Boundless has a step where they have an attorney [review your visa application](https://www.boundless.com/services/k-1-fiance-visa-boundless/). Even if their software could (and I bet it already does) review your visa application better than a human, customers would feel a lot better thinking that a human was doing it.
+It’s why Boundless highlights the step in their process where their attorneys [review your visa application](https://www.boundless.com/services/k-1-fiance-visa-boundless/). Even if their software could (and I bet it already does) review your visa application more thoroughly than a human, customers would feel a lot better thinking that a human was doing it.
 
-TurboTax has pages entirely dedicated to showing off their [expert help](https://turbotax.intuit.com/personal-taxes/online/live/how-it-works.htm) even though most users would probably be fine with just using the software.
+TurboTax has pages entirely dedicated to their [expert help](https://turbotax.intuit.com/personal-taxes/online/live/how-it-works.htm) even though most users would probably be fine with just using the software. This also gives their standard service a stronger frame; "if they can do complicated tax returns, they can definitely handle mine."
 
-For FGX, some of our long-time customers were worried about the new software because they were used to having a direct line to someone who could actually get something done. It’s why we made sure to assign dedicated experts to those accounts and all future clients that ship with us frequently.
+For FGX, some of our long-time customers were worried about switching to a software interface because they were used to having a direct line to someone who could actually get something done. It’s why we made sure to assign dedicated experts to those accounts and future ones in the same profile.
 
-But with AI’s progress, especially because its primary medium is natural language, I can see “expert customer service” becoming replaced with software; [Intercom is on the right track](https://www.intercom.com/believe).
+---
+[1] From a business perspective, as long as you can keep service quality high, this is good, because you can charge more. With AI’s progress, especially because its primary medium is natural language, I can see “expert customer service” becoming replaced with software; [Intercom is on the right track](https://www.intercom.com/believe).
