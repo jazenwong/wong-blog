@@ -231,6 +231,7 @@ hr {
 }
 
 sub {
+	display: block;
 	font-size: .75rem;
 	font-style: italic;
 }
