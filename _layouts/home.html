@@ -2,44 +2,20 @@
 layout: "wrapper"
 description: Collection of essays on business and life.
 ---
-<section class="home-layout">
-  <div class="home-about">
-    <p>Hi, I'm <a href="/about">James Wong</a>, born in HK, family from Malaysia, and raised in NYC. Reach me @ jazenwong@gmail.com.</p>
-  </div>
-  <div class="home-essays">
-    <div class="home-essays-container">
-    <h1>Essays</h1>
+<section class="home-container">
+    <div class="bio">
+      <p>Executive at <a href="https://www.fgx.com">FGX</a>. Currently working on productizing our IT shipping services and getting our customers out of email. This is my personal blog where I write about lessons I've learned in business and life. Thanks for visting.</p>
+    </div>
     {% for post in categories.Essay %}
     {{ post.title }}
     {% endfor %}
 
     {% for post in site.categories.essay %}
       {% if post.url %}
-        <div class="categories-post">
-            <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
-            <sub>{{ post.date | date: "%-m/%-d/%y"}}</sub>
-        </div>
+      <div class="article">
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        <sub>{{ post.date | date: "%-m/%-d/%y"}}</sub>
+      </div>
       {% endif %}
     {% endfor %}
-    </div>
-  </div>
-  <div class="home-pictures">
-    <h1>2022–YEARLY PICTURES (4)</h1>
-    <div class="home-pictures-thumb">
-      <img src="/assets/homeimages/GreenWhite.jpeg">
-      <p><em>Perak Panel. (2022)</em></p>
-    </div>
-    <div class="home-pictures-thumb">
-      <img src="/assets/homeimages/River.jpeg">
-      <p><em>Hotel by The River. (2022)</em></p>
-    </div>
-    <div class="home-pictures-thumb">
-      <img src="/assets/homeimages/Kuay.jpeg">
-      <p><em>Kuay. (2022)</em></p>
-    </div>
-    <div class="home-pictures-thumb">
-      <img src="/assets/homeimages/SMU.jpeg">
-      <p><em>Building near SMU. (2022)</em></p>
-    </div>
-  </div>
 </section>

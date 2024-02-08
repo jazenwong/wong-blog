@@ -5,7 +5,7 @@ date: 2021-09-26
 categories: essay
 description: What the Moral Law tells us about doing and creating.
 permalink: moral-law-why-we-should-create
-image: aldebaran-unsplash.jpg
+image: Aldebran.jpg
 image-description: The pac-man Nebula, taken by Aldebaran S.
 ---
 In a book called *Mere Christianity* by C.S. Lewis (I'm not religious, but Mere Christianity is an amazingly well-written book that is arguably more philosophical than religious), he talks about something called "the Moral Law." Lewis states that we all have instincts: the instinct to run, to help others, to kill, etc. He then asks an interesting question - what is it that helps us judge between our instincts? He argues that it's something called "the Moral Law," and all humans are born with it. He gives an example:
@@ -19,5 +19,3 @@ In 2014, I traveled with a friend to Slovenia and we were in Lake Bled. I was in
 I still remember the feeling that I felt before jumping into the water: a gnawing feeling telling me to jump. It's the same feeling that I have when I'm not fulfilling my potential (each person's idea of potential is different) - which is what the Moral Law tells me I *should* do.
 
 I think a lot of people can relate and often times refers to this feeling as existential anxiety. The same "Moral Law" that tells us to help people in need also tells us that we *should* do things and create and when we don't, it bugs us. (I'm not going to define what it means to create, that's something that each person should define themselves.)
-
-<iframe width="1000px" height="450px" src="https://www.youtube.com/embed/JBxl3qCXbRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

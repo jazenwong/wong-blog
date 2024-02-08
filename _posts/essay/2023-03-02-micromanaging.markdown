@@ -8,7 +8,7 @@ permalink: micromanaging
 image:
 image-description:
 ---
-Micromanaging usually gets a bad rap, for good reason, but there's one area that I can think of where micromanaging isn't "completely bad" - building great products. I'm not saying that micromanagement is needed to create great products, but rather, that it's an area where micromanaging can be an effective strategy.
+Micromanaging usually gets a bad rap, for good reason, but there's one area that I can think of where it isn't "completely bad" - building great products. I'm not saying that micromanagement is needed to create great products, but rather, that it's an area where it's a viable strategy [1].
 
 There are many examples of where this is the case:
 
@@ -27,3 +27,6 @@ It makes sense to micromanage when you're doing things that don't necessarily ha
 But the second you need to do something that has to scale, micromanaging will almost always lead to failure. It just so happens that most end up having to manage processes and work that need to scale, which is where micromanaging becomes ineffective. Also, people generally don't like being micromanaged. This combination is what gives micromanaging a bad reputation.
 
 The follow up thought here is, if there are situations where micromanaging is effective, how can one do it in such a way that it doesn't hurt morale?
+
+---
+[1] One of my favorite sayins is that there are many ways to win.
