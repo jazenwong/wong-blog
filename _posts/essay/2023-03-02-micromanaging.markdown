@@ -29,4 +29,4 @@ But the second you need to do something that has to scale, micromanaging will al
 The follow up thought here is, if there are situations where micromanaging is effective, how can one do it in such a way that it doesn't hurt morale?
 
 ---
-[1] One of my favorite sayins is that there are many ways to win.
+[1] One of my favorite sayings is that there are many ways to win.

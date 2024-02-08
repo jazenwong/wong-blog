@@ -189,6 +189,7 @@ h3 {
 p {
 	font-weight: 400;
 	margin-block-end: 1rem;
+	line-height: 1.4;
 }
 
 p strong {
@@ -210,11 +211,18 @@ blockquote {
 	font-style: italic;
 	padding-inline-start: var(--spacing-sm);
 	border-left: 2px solid var(--black);
+	margin-block-end: 1rem;
+}
+
+blockquote p {
+	margin-block-end: 0;
 }
 
 hr {
+	width: 100%;
 	color: #e8e8e8;
-	margin-block-end: 1rem;
+	margin-block-start: var(--spacing-m);
+	margin-block-end: var(--spacing-m);
 }
 
 sub {
@@ -273,6 +281,21 @@ nav a {
 
 .post-header-img img {
 	width: 100%;
+}
+
+.post-body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.post-body h1 ,
+.post-body h2 ,
+.post-body h3 ,
+.post-body p ,
+.post-body a ,
+.post-body blockquote {
+	align-self: flex-start;
 }
 
 @media only screen and (min-width: 1024px){
