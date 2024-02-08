@@ -1,10 +1,10 @@
 ---
 layout: "post"
-title: Lessons Launching Software
+title: Lessons Building Software
 date: 2024-02-08
 categories: essay
 description: The lessons learned from building customer facing software for FGX's customers.
-permalink: lessons-launching-software
+permalink: lessons-building-software
 image:
 image-description:
 ---

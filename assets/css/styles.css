@@ -181,11 +181,13 @@ h1 {
 
 h2 {
 	font-weight: 500;
+	margin-block-start: .5rem;
 	margin-block-end: 1.5rem;
 }
 
 h3 {
 	font-weight: 500;
+	margin-block-start: .5rem;
 	margin-block-end: 1rem;
 }
 
@@ -303,7 +305,11 @@ nav a {
 .post-body h3 ,
 .post-body p ,
 .post-body a ,
-.post-body blockquote {
+.post-body blockquote ,
+.post-body ul ,
+.post-body ol ,
+.post-body ul li ,
+.post-body ol li {
 	align-self: flex-start;
 }
 
