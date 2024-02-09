@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: Product = Features + Narrative
-date: 2022-04-28
+date: 2024-02-09
 categories: essay
 description: Product is the set of features / services and narratives that enable something to be purchased.
 permalink: product-features-narrative
@@ -9,7 +9,7 @@ image:
 image-description:
 ---
 
-Updated on 2/9/2024.
+Originally published on 04/28/22 and Updated on 2/9/2024.
 
 ---
 
@@ -31,18 +31,18 @@ An interesting example of this is NSO Group's "Pegasus" product, [surveillance s
 
 NSO was originally a company called CommuniTake, which provided cellphone tech-support companies with the ability to take control of their customers’ mobile phones, with the customer's permission. It wasn’t a very successful endeavor. But one day, a European intelligence agency reached out to them about whether they could access a phone *without* a user’s permission, and with that, NSO was born.
 
-NSO finished developing the first iteration of Pegasus in 2011, which allowed the user to access phones without a user's permission. They now had a “product” and a theoretically suitable market - governments and intelligence agencies that wanted to advance their spying capabilities. But Pegasus couldn't land any buyers because governments were worried that NSO would sell them compromised software.
+NSO finished developing the first iteration of Pegasus in 2011, which allowed the user to access phones without a user's permission. They now had the set of features and services correct and a theoretically suitable market - governments and intelligence agencies that wanted to advance their spying capabilities. But after going to market, they couldn't land any buyers because governments were worried that NSO would sell them compromised software.
 
-No one trusted NSO because they lacked a narrative that completed the product. The person that would fill the missing piece was Avigdor Ben-Gal, a highly respected Israeli combat officer. When he joined NSO, he established four pillars:
+No one trusted NSO because they lacked a narrative needed to complete the product. The person that would fill the missing piece was Avigdor Ben-Gal, a highly respected Israeli combat officer. When he joined NSO, he established four pillars:
 
 - NSO would not operate the system itself.
 - It would sell only to governments, not to individuals or companies.
 - It would be selective about which governments it allowed to use the software.
 - It would cooperate with Israel’s Defense Export Controls Agency, or DECA, to license every sale.
 
-These pillars created a narrative that aligned with the software they were selling. With this story, they were able to quickly find a buyer. Without it, NSO may never have been able to find product-market fit.
+With these pillars, they were able to quickly find a buyer. Without it, NSO may never have been able to find product-market fit.
 
-People often just think about the _thing_ or the set of features and services they’re creating when it comes to product. But just as important is the narrative that accompanies it. Without having both, it'll also be difficult to hire the right sales or marketing talent to grow the company. It’s why until you have product-market fit, when there’s a problem with growth, it’s difficult to diagnose if the issue is with the “product” or with the salespeople and marketers. My bet is that, more often than not, it’s a problem with the product. You need a very special kind of salesperson or marketer to be able to help build narrative and drive product while selling it.
+People often just think about the _thing_ or the set of features and services they’re creating when it comes to product. But just as important is the narrative that accompanies it. Without having both, it's also difficult to hire the right sales or marketing talent. It’s why until you have product-market fit, when there’s a problem with growth, it’s difficult to diagnose if the issue is with the “product” or with the salespeople and marketers. My bet is that, more often than not, it’s a problem with the product.
 
 Twitter is a fantastic example of a company that hasn't invested enough in its narrative. Who is it for? How should it be used? What is its purpose? Why does it exist? It's important that the executives have their own belief and share it violently. But they've failed in that department. Narrative is not just for external parties, it's for internal. If the team doesn't feel like they're a part of the story, they will not be able to do their job well.
 
