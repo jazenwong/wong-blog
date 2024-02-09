@@ -13,9 +13,9 @@ Originally published on 04/28/22 and Updated on 2/9/2024.
 
 ---
 
-Most definitions of the term "product" that I've seen are pretty generic. A more useful definition:
+Most definitions of the term "product" I've seen are pretty generic. A more useful definition:
 
-_The set of features, services, and narratives that create demand._ 
+_The set of features, services, and narratives designed to create demand._ 
 
 Shreya Doshi recently published a poll about the most important job for a product team:
 
@@ -23,17 +23,17 @@ Shreya Doshi recently published a poll about the most important job for a produc
 
 Both Shreya's and the most popular answer was (a) maximize the odds of winning in the market.
 
-I think that ties out with my above definition. Said differently, good product management / design is figuring out the set of features, services, and narratives that maximizes demand and thus your changes of winning in the market.
+I think that ties out with my above definition. Said differently, good product management / design is figuring out the set of features, services, and narratives that maximizes demand and thus your chances of winning in the market.
 
-But the point of this post is to talk about the fact that defining a product's features and services isn't enough to maximize demand. When people think about product, they usually just think about the thing they're selling, e.g. the feature or the service. But you also need to get the narrative right. It’s easy to get one or the other “right” but difficult to get both correct.
+But the point of this post is to talk about the fact that having the "correct" features and services for a market isn't enough to maximize demand. You also need to get the narrative right. It’s easy to get one or the other “right” but it's difficult to get both correct.
 
-An interesting example of this is NSO Group's "Pegasus" product, [surveillance software that world governments and intelligence agencies use to spy on their citizens](https://www.newyorker.com/magazine/2022/04/25/how-democracies-spy-on-their-citizens). (I'm not a fan, just using them as an analogy.)
+An interesting example of this is NSO Group's "Pegasus" product, [surveillance software that world governments and intelligence agencies use to spy on their citizens](https://www.newyorker.com/magazine/2022/04/25/how-democracies-spy-on-their-citizens). (I'm not a fan, I'm just using them as an analogy.)
 
-NSO was originally a company called CommuniTake, which provided cellphone tech-support companies with the ability to take control of their customers’ mobile phones, with the customer's permission. It wasn’t a very successful endeavor. But one day, a European intelligence agency reached out to them about whether they could access a phone *without* a user’s permission, and with that, NSO was born.
+NSO was originally a company called CommuniTake, which provided cellphone tech-support companies with the ability to take control of their customers’ mobile phones, with the end-user's permission. It wasn’t a very successful endeavor. But one day, a European intelligence agency reached out to them about whether they could access a phone *without* a user’s permission, and with that, NSO was born.
 
-NSO finished developing the first iteration of Pegasus in 2011, which allowed the user to access phones without a user's permission. They now had the set of features and services correct and a theoretically suitable market - governments and intelligence agencies that wanted to advance their spying capabilities. But after going to market, they couldn't land any buyers because governments were worried that NSO would sell them compromised software.
+NSO finished developing the first iteration of Pegasus in 2011, which allowed the user to access phones without a user's permission. They now had the set of features and services correct and theoretically, a matching market - governments and intelligence agencies that wanted to advance their spying capabilities. But even though they had exactly what the government wanted, they couldn't close any deals.
 
-No one trusted NSO because they lacked a narrative needed to complete the product. The person that would fill the missing piece was Avigdor Ben-Gal, a highly respected Israeli combat officer. When he joined NSO, he established four pillars:
+NSO lacked the right narrative needed to complete their product. The person that would fill the missing piece was Avigdor Ben-Gal, a highly respected Israeli combat officer. When he joined NSO, he established four pillars:
 
 - NSO would not operate the system itself.
 - It would sell only to governments, not to individuals or companies.
@@ -46,4 +46,4 @@ People often just think about the _thing_ or the set of features and services th
 
 Twitter is a fantastic example of a company that hasn't invested enough in its narrative. Who is it for? How should it be used? What is its purpose? Why does it exist? It's important that the executives have their own belief and share it violently. But they've failed in that department. Narrative is not just for external parties, it's for internal. If the team doesn't feel like they're a part of the story, they will not be able to do their job well.
 
-UPDATE: Since I last wrote about this, I think Musk has actually done a decent job building a narrative around X. I don't love the name but he understands that a bigger story needs to be told to grow the product.
+UPDATE: Since I last wrote about this, I think Musk has actually done a decent job building a narrative around X. I don't love the name but he understands that a powerful narrative is needed to make X make sense.
