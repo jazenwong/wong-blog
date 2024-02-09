@@ -272,7 +272,7 @@ nav a {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	gap: var(--gutter-xsm);
+	gap: var(--gutter-sm);
 }
 
 .article a {
