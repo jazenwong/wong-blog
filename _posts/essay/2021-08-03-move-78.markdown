@@ -18,7 +18,7 @@ AlphaGo's move 37 (the 37th move played in the game) was a Divine Move. When Alp
 
 > "I thought AlphaGo was based on probability calculation and it was merely a machine. But when I saw this move, it changed my mind. Surely AlphaGo is creative. This move was really creative and beautiful." - Lee Sadol, AlphaGo
 
-Why did so many, including Lee, use the word "creative" to describe AlphaGo even though they knew that it was a machine? I think a possible reason is because of our desire to protect our ego; it gives us a sliver of hope that maybe we would have played that move if we were creative enough. Maybe by romanticizing the machine and giving it an aspect of human-ness, it would make us feel less powerless and hopeless.
+Why did so many, including Lee, use the word "creative" to describe AlphaGo even though they knew that it was a machine? I think a possible reason is because of our desire to protect our ego; it gives us a sliver of hope that maybe we would have played that move if we were creative enough. Maybe by romanticizing and anthropomorphizing the machine, it would make us feel less powerless, less hopeless.
 
 Although Lee had won 18 international titles and was widely recognized as one of the best players throughout history, with just a single move, AlphaGo entirely changed Lee's view on Go, and even moreso, his view on the world (which isn't a hyperbole!).
 
@@ -30,23 +30,23 @@ In that moment Lee discovered what it really meant to play Go.
 
 > "The more I see this move, I feel something changed...this move is very special because with this move, all the stones played before is work together, it's connect, it look like network, link everywhere it's very special, very special." - Fan Hui, AlphaGo
 
-In a way, a "machine" expanded Lee Sedol's human-ness.
+In a way, a "machine" expanded Lee Sedol's human-ness by invoking [kizen](/kenya-hara-white-reflections).
 
 > "I want Lee Sedol to play his game. Because for the moment, he try many, many things to play against AlphaGo, to understand AlphaGo, but he never tried to play himself. I talk many time that AlphaGo look like real mirror. When you play with AlphaGo, you feel very strange. You look like you're all the time naked. The first time you see this, you don't want to see.. this is me? The real me? And more and more, you need to accept, oh this is real me. So now, how can I do?" - Fan Hui, AlphaGo
 
-Although Lee lost three games in a row, in a twist of fate, Lee was able to win game four with his own Divine Move, which people have coined as "God's Touch." Just like with AlphaGo's Divine Move, the commentators and experts were unable to understand the reason for Lee's Divine Move. This was Move 78. After winning the game, Lee received praise from the entire Go community for this move.
+Lee lost three games in a row, but in a twist of fate, he won game four with his own Divine Move, which people have coined as "God's Touch." Just like with AlphaGo's Divine Move, the commentators and experts were unable to understand the reason behind Lee's Divine Move. This was Move 78. After winning the game, Lee received praise from the entire Go community.
 
-I wonder, could Lee have played Move 78, a move that he will forever be a part of his legacy, if he never saw AlphaGo's Move 37?
+I wonder, could Lee have played Move 78, a move that will forever be a part of his legacy, if he never saw AlphaGo's Move 37?
 
-I also wonder, if Lee had played against a human being who played the same way as AlphaGo, would it have the same effect on Lee? Because when one competes against another human, we understand that the opponent has an ego that conflicts with our own, which sometimes stops us from seeing past a loss. But when playing against a computer, the aspect of our opponent having an ego is removed, which almost makes you feel, like Fan Hui had said, exposed and naked; you have to accept who you are. Because you're not playing against another ego, you're forced to look inwards.
+I also wonder, if Lee had played against a human being who played the same way as AlphaGo, would it have the same effect on Lee? Because when one competes against another human, we understand that the opponent has an ego that conflicts with our own, which sometimes stops us from seeing past a loss. But when playing against a computer, ego is stripped away, which almost makes you feel, like Fan Hui had said, exposed and naked; you have to accept that "this is who you are". You're forced to look inwards.
 
 ![Lee Sedol Winning](/assets/blogimages/move78/Lee_Sedol_Winning.jpg#center "Lee Sedol Winning")
 
-Winning game four was an emotional victory for not just Lee Sedol, but for everyone, including the developers behind AlphaGo. Even though AlphaGo is ultimately a human creation, we couldn't help but feel like Lee was playing on behalf of "people". I couldn't help but feel elation and joy that Lee had won a game against AlphaGo. It felt empowering.
+Winning game four was an emotional victory for not just Lee Sedol, but for everyone, including the developers behind AlphaGo. Even though AlphaGo is ultimately a human creation, we couldn't help but feel like Lee was playing on behalf of "people". I couldn't help but feel elation and joy that Lee had won a game against AlphaGo.
 
 (Side note: I thought it was a nice touch that Lee wasn't made to play against AlphaGo directly on the computer and that Aja Huang was placing down the physical pieces in its stead.)
 
-Although most of us will never truly understand Lee's experience and what it meant to him, the AlphaGo documentary did an amazing job capturing the emotional and existential journey of both Fan Hui and Lee Sedol and their experiences with AlphaGo. It made me reflect on and appreciate the concept of creativity.
+Although most of us will never truly understand Lee's experience and what it meant to him, the AlphaGo documentary did an amazing job capturing the emotional and existential journey of both Fan Hui and Lee Sedol and their experiences with AlphaGo.
 
 > "I feel thankful and feel like I've found the reason I play Go." - Lee Sedol, AlphaGo
 
