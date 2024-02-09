@@ -11,3 +11,5 @@ published: false
 ---
 
 Working inversely. Always inverse.
+
+Similar to kizen - unlimited possibilities, stops you from imagining based on what you have today.

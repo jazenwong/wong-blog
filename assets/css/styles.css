@@ -118,7 +118,8 @@ src: url("/assets/fonts/untitled-sans-web-medium.woff2") format("woff2");
 	--spacing-xsm: .75rem;
 	--spacing-sm: 1rem;
 	--spacing-m: 2rem;
-	--spacing-l: 3rem
+	--spacing-l: 3rem;
+	--spacing-xl: 5rem;
 }
 
 html {
@@ -262,6 +263,7 @@ nav a {
 	flex-direction: column;
 	justify-content: center;
 	gap: var(--gutter-xsm);
+	margin-block-start: var(--spacing-l);
 }
 
 .bio {
@@ -322,8 +324,12 @@ nav {
 }
 
 nav ,
-.home-container ,
 .post-layout {
+	grid-column: var(--desktop-width);
+}
+
+.home-container {
+	margin-block-start: 0;
 	grid-column: var(--desktop-width);
 }
 
