@@ -8,7 +8,7 @@ permalink: kenya-hara-white-reflections
 image: WhiteKenyaHara.jpeg
 image-description: Kenya Hara's "White" on white.
 ---
-*Originally published 11/27/2020 and my recent trip to Japan in 2024, I've revisited the post.*
+*Originally published 11/27/2020 and after my recent trip to Japan in 2024, I've revisited the post.*
 
 ---
 ## White as a Color
