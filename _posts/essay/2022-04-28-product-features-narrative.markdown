@@ -9,25 +9,25 @@ image:
 image-description:
 ---
 
-Updated this post on 2/9/2024.
+Updated on 2/9/2024.
 
 ---
 
 Most definitions of the term "product" that I've seen are pretty generic. A more useful definition:
 
-_The set of features, services, and narratives that create demand from a market._ 
+_The set of features, services, and narratives that create demand._ 
 
 Shreya Doshi recently published a poll about the most important job for a product team:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Which among these 3 is the most important job of a product team i.e. a group of eng, design, pm, data sci, etc. working on a product?<br><br>A) Maximize odds of winning in the market<br><br>B) Build a great product<br><br>C) Operate superbly, launch &amp; iterate fast, exquisitely manage stakeholders</p>&mdash; Shreyas Doshi (@shreyas) <a href="https://twitter.com/shreyas/status/1755304339856593240?ref_src=twsrc%5Etfw">February 7, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-His and the most popular answer was (a) maximize the odds of winning in the market.
+Both Shreya's and the most popular answer was (a) maximize the odds of winning in the market.
 
-I think that ties out with my above definition. Said differently, good product management / design is figuring out the set of features, services, and narratives that maximizes demand from a market.
+I think that ties out with my above definition. Said differently, good product management / design is figuring out the set of features, services, and narratives that maximizes demand and thus your changes of winning in the market.
 
-But the point of this post is mostly to talk about the fact that defining a product's features and services isn't usually enough to maximize demand. You need to get the narrative right. It’s easy to get one or the other “right” but difficult to get both correct.
+But the point of this post is to talk about the fact that defining a product's features and services isn't enough to maximize demand. When people think about product, they usually just think about the thing they're selling, e.g. the feature or the service. But you also need to get the narrative right. It’s easy to get one or the other “right” but difficult to get both correct.
 
-An interesting example of this is NSO Group, the Israeli spyware company that [creates surveillance software to world governments and intelligence agencies](https://www.newyorker.com/magazine/2022/04/25/how-democracies-spy-on-their-citizens), most famously known for “Pegasus”. (I'm not a fan, just think it's an interesting example.)
+An interesting example of this is NSO Group's "Pegasus" product, [surveillance software that world governments and intelligence agencies use to spy on their citizens](https://www.newyorker.com/magazine/2022/04/25/how-democracies-spy-on-their-citizens). (I'm not a fan, just using them as an analogy.)
 
 NSO was originally a company called CommuniTake, which provided cellphone tech-support companies with the ability to take control of their customers’ mobile phones, with the customer's permission. It wasn’t a very successful endeavor. But one day, a European intelligence agency reached out to them about whether they could access a phone *without* a user’s permission, and with that, NSO was born.
 
