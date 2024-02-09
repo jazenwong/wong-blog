@@ -132,7 +132,8 @@ html {
 }
 
 body {
-	height: 100%;
+	min-height: 100%;
+	height: max-content;
 	display: grid;
 	grid-template-columns: repeat(12,1fr);
 	grid-column-gap: var(--gutter-sm);
@@ -271,7 +272,7 @@ nav a {
 .article-container {
 	display: flex;
 	flex-direction: column;
-	justify-content: center;
+	justify-content: flex-start;
 	gap: var(--gutter-sm);
 }
 
@@ -352,6 +353,10 @@ nav ,
 	grid-template-rows: auto 500px auto;
 	justify-content: center;
 	align-content: center;
+}
+
+.article-container {
+	justify-content: center;
 }
 
 }
