@@ -24,7 +24,7 @@ Things go from a non-colored state to gaining color, and once it dies, it goes b
 
 A manifested form of kizen is a sheet of white paper.
 
-Hara argues that paper's practical use *"is less important than its imaginative impact. Human beings who come in contact with its latent potential are naturally driven to express themselves."*
+Hara argues that paper's practical use in history *"[was] less important than its imaginative impact. Human beings who come in contact with its latent potential are naturally driven to express themselves."*
 
 A sheet of white paper invokes kizen. The limitless possibility of what that piece of paper can hold is white.
 
@@ -39,7 +39,7 @@ Emptiness is found in many of Japan’s art and design forms, for example in the
 
 > "It conveys the lively image of the trees by intentionally avoiding detailed description, and approach that activates the imagination of its viewers. In short, the paintings very roughness and omission of details awake and our senses." - Kenya Hara, "White"
 
-Hara uses “Pine trees” as a way for us to understand white as he sees it. By ommitting explicit details of the scenery, the painting uses emptiness as a medium for the viewer to fill with their own imagination.
+Hara uses “Pine trees” as a way for us to understand white as he sees it. By ommitting explicit details about the scenery, the painting uses emptiness as a technique to actviate the viewer's imagination.
 
 To better understand emptiness, Hara gives us a history lesson on where Japanese minimalism “started.”
 
@@ -53,8 +53,6 @@ Hara asks a rhetorical question to us about this culture shift:
 
 > "Why did Higashiyama aesthetics put such an emphasis on “simplicity” or “emptiness”? Could a general war-weariness have caused Yoshima and his fellow Kyotoites to look at the world differently? Perhaps. What is more important than such idle guesswork is the fact that Japanese desperately sought beauty in simplicity on their own from this period on, breaking away from foreign influences." - Kenya Hara, "White"
 
-> "Wabi-Sabi is a concept derived from the Buddhist teaching of the three marks of existence (三法印), specifically impermanence (無常), suffering (苦) and emptiness or absence of self-nature (空, kū). If an object or expression can bring about, within us, a sense of serene melancholy and a spiritual longing, then that object could be said to be wabi-sabi." - Wikipedia
-
 ![Ginkaku Pavilion 1](/assets/blogimages/white/Ginkaku_Pavilion.jpeg#center "Ginkaku Pavilion")
 
 Hara gives an example of the famous tea room in the Silver Pavilion that was simple in design due to its “scant furnishing.”
@@ -65,7 +63,7 @@ The room is like a sheet of white paper, a medium for endless possibility.
 
 This is a concept that’s important to any field, whether it be in business or art. When you start off with white and free yourself of any pre-conceptions, you can invoke clarity. White doesn't have to be a blank piece of paper or an empty room, it can also appear via seemingly random phenomena, [like when Fan Hui played against AlphaGo](/move-78).
 
-> "It’s just when I play AlphaGo, it shows me something. I see the world different, before everything begin. What is real thing inside Go game? Maybe [it] can show humans something we never discover. Maybe it’s beautiful." - Fan Hui, AlphaGo
+> "It’s just when I play AlphaGo, it shows me something. I see the world [differently], before everything [began]. What is real thing inside Go game? Maybe [it] can show humans something we never discover. Maybe it’s beautiful." - Fan Hui, AlphaGo
 
 > "When knowledge and other habitual ways of thinking about things sinks to the bottom of our consciousness, that thing we call “understanding” floats to the surface like pure white paper." - Kenya Hara, "White"
 
@@ -73,7 +71,7 @@ We see the antithesis of this occur as companies grow larger. Their empty sheets
 
 Another interesting example of white and emptiness in Japanese culture is found in the design of Shinto shrines. The Shinto shrine is a temple of worship for the Japanese and is designed to have an empty space in the center. This empty space is called *Yashiro*. Ya means "a roof", over "Shiro", which means white. It literally means white with a roof on top of it.
 
-One of the spiritual beleifs for why the yashiro is left empty is so that there's room for the gods and deities to visit. But maybe the more practical reason for why it's left empty is for the person praying; it gives them space—literally—to empty their thoughts.
+One of the spiritual beleifs for why the yashiro is left empty is to make room for the gods and deities to visit. But it's also for the person praying; it gives them empty space—literally—to fill with their thoughts.
 
 This may be the reason why prayer in many religions and beliefs take place in a quiet, open space that has minimal furnishing. Whether you look at a church, a mosque, or a temple, *white* plays a big part in their design.
 
@@ -89,7 +87,9 @@ Visualizing our minds as empty vessels is a powerful way to make us better liste
 
 ## White
 
-Hara never gives us a methodology for incorporating white into the way we live and do things. Instead, he leaves that part empty. And maybe that was his intention.
+Hara never gives us a methodology for incorporating white into the way we live and do things. Instead, he leaves that part empty. And maybe, that was his intention.
+
+> "Wabi-Sabi is a concept derived from the Buddhist teaching of the three marks of existence (三法印), specifically impermanence (無常), suffering (苦) and emptiness or absence of self-nature (空, kū). If an object or expression can bring about, within us, a sense of serene melancholy and a spiritual longing, then that object could be said to be wabi-sabi." - Wikipedia
 
 ---
 [1] Probably what's happening with Google.
