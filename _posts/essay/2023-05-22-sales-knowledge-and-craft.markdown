@@ -31,7 +31,7 @@ Although the abstract part of sales is often seen as a natural gift that some pe
 
 The people who are best at effective selling are the ones who have both knowledge and craft.
 
-The main pro *knowledge* is that you will be able to get by without learning the craft of sales. The main con is that you have less horizontal flexibility; if you move industries, you'll be starting from scratch.
+The main pro of *knowledge* is that you will be able to get by without learning the craft of sales. The main con is that you have less horizontal flexibility; if you move industries, you'll be starting from scratch.
 
 The main pro of *craft* is that it's much more scalable; you will be able to sell any product, no matter the vertical. The main con is that it's very, very difficult to learn.
 
