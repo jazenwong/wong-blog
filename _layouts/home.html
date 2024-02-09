@@ -6,11 +6,9 @@ description: Collection of essays on business and life.
     <div class="bio">
       <p>Executive at <a href="https://www.fgx.com">FGX</a>. Currently working on productizing our IT shipping services and getting our customers out of email. This is my personal blog where I write about lessons I've learned in business and life. Thanks for visting.</p>
     </div>
-    {% for post in categories.Essay %}
-    {{ post.title }}
-    {% endfor %}
 
-    {% for post in site.categories.essay %}
+    <div class="article-container">
+    {% for post in paginator.posts %}
       {% if post.url %}
       <div class="article">
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
@@ -18,4 +16,23 @@ description: Collection of essays on business and life.
       </div>
       {% endif %}
     {% endfor %}
+    </div>
+
+    <div class="pagination">
+      <div class="pagination-number"><p>{{ paginator.page }} of {{ paginator.total_pages }}</p></div>
+        <div class="pagination-buttons">
+          {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path }}">
+              Previous
+            </a>
+          {% else %}
+            <span class="previous">Previous</span>
+          {% endif %}
+          {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path }}">Next</a>
+          {% else %}
+            <span>Next</span>
+          {% endif %}
+      </div>
+    </div>
 </section>
