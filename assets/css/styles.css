@@ -136,7 +136,7 @@ body {
 	height: max-content;
 	display: grid;
 	grid-template-columns: repeat(12,1fr);
-	grid-column-gap: var(--gutter-sm);
+	grid-column-gap: var(--gutter-xsm);
 	grid-template-rows: min-content;
 }
 
@@ -336,6 +336,10 @@ nav a {
 }
 
 @media only screen and (min-width: 768px){
+
+body {
+	grid-column-gap: var(--gutter-sm);
+}
 
 nav {
 	top: var(--spacing-m);
