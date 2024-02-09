@@ -8,33 +8,42 @@ permalink: product-features-narrative
 image:
 image-description:
 ---
-Most definitions of product and product design are generic which makes the word(s) lose their meaning. A more useful definition of product in business is:
 
-_The set of features / services and narratives that enable something to be purchased. As opposed to just the thing that’s being sold. I would also say that product management is the profession of figuring out what products and stories sells._
+Updated this post on 2/9/2024.
 
-It’s easy to get one or the other “right” but difficult to get both correct. Getting both correct is what leads to product-market fit.
+---
 
-An interesting example of this is NSO Group, the Israeli spyware company that [creates surveillance software to world governments and intelligence agencies](https://www.newyorker.com/magazine/2022/04/25/how-democracies-spy-on-their-citizens), most famously known for “Pegasus”. (I'm definitely not a fan of them, just think it's an interesting example.)
+Most definitions of the term "product" that I've seen are pretty generic. A more useful definition:
 
-NSO actually started as a company called CommuniTake, which created software that gave cellphone tech-support companies the ability to take control of their customers’ mobile phones, with their permission. it wasn’t a very successful endeavor. But as fate would have it, a European intelligence agency reached out to them about whether they could access a phone without a user’s permission, and with that, NSO was born.
+_The set of features, services, and narratives that create demand from a market._ 
 
-NSO finished developing the first iteration of Pegasus in 2011. They now had a “product” and a theoretically suitable market - governments and intelligence agencies that wanted to advance their spying capabilities. But Pegasus couldn't land any sales because government buyers were worried that NSO would sell them compromised software.
+Shreya Doshi recently published a poll about the most important job for a product team:
 
-Buyers didn’t trust NSO because they lacked a narrative that completed the product. The person that would complete the story was Avigdor Ben-Gal, a highly respected Israeli combat officer. When he joined NSO, he established four pillars:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Which among these 3 is the most important job of a product team i.e. a group of eng, design, pm, data sci, etc. working on a product?<br><br>A) Maximize odds of winning in the market<br><br>B) Build a great product<br><br>C) Operate superbly, launch &amp; iterate fast, exquisitely manage stakeholders</p>&mdash; Shreyas Doshi (@shreyas) <a href="https://twitter.com/shreyas/status/1755304339856593240?ref_src=twsrc%5Etfw">February 7, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+His and the most popular answer was (a) maximize the odds of winning in the market.
+
+I think that ties out with my above definition. Said differently, good product management / design is figuring out the set of features, services, and narratives that maximizes demand from a market.
+
+But the point of this post is mostly to talk about the fact that defining a product's features and services isn't usually enough to maximize demand. You need to get the narrative right. It’s easy to get one or the other “right” but difficult to get both correct.
+
+An interesting example of this is NSO Group, the Israeli spyware company that [creates surveillance software to world governments and intelligence agencies](https://www.newyorker.com/magazine/2022/04/25/how-democracies-spy-on-their-citizens), most famously known for “Pegasus”. (I'm not a fan, just think it's an interesting example.)
+
+NSO was originally a company called CommuniTake, which provided cellphone tech-support companies with the ability to take control of their customers’ mobile phones, with the customer's permission. It wasn’t a very successful endeavor. But one day, a European intelligence agency reached out to them about whether they could access a phone *without* a user’s permission, and with that, NSO was born.
+
+NSO finished developing the first iteration of Pegasus in 2011, which allowed the user to access phones without a user's permission. They now had a “product” and a theoretically suitable market - governments and intelligence agencies that wanted to advance their spying capabilities. But Pegasus couldn't land any buyers because governments were worried that NSO would sell them compromised software.
+
+No one trusted NSO because they lacked a narrative that completed the product. The person that would fill the missing piece was Avigdor Ben-Gal, a highly respected Israeli combat officer. When he joined NSO, he established four pillars:
 
 - NSO would not operate the system itself.
 - It would sell only to governments, not to individuals or companies.
 - It would be selective about which governments it allowed to use the software.
 - It would cooperate with Israel’s Defense Export Controls Agency, or DECA, to license every sale.
 
-These pillars created a narrative that aligned with the software they were selling. With this story, they were able to quickly find a buyer that could buy into trusting them. Without it, NSO may never have been able to find product-market fit.
+These pillars created a narrative that aligned with the software they were selling. With this story, they were able to quickly find a buyer. Without it, NSO may never have been able to find product-market fit.
 
-People often just think about the _thing_ they’re creating when it comes to product. But just as important is the narrative that accompanies it. Ultimately, product and narrative is the [founder’s job](https://kwokchain.com/2021/09/29/narrative-distillation-1/). Without having a complete product, it will be difficult to hire the right sales or marketing talent to grow the company. It’s why until you have product-market fit, when there’s a problem with growth, it’s difficult to diagnose if the issue is with the “product” or the salespeople and marketers. My bet is that, more often than not, it’s a problem with the “product”. You need a very special kind of salesperson or marketer to be able to help build narrative and drive product while selling it.
-
-Some basic examples of narrative as it relates to product are:
-
-- Categorizing and naming of the solutions or services a company provides, e.g. “business, enterprise solutions”.
-- Distilling the market to the buyer and helping them understand where it’s going and how it will affect them, e.g. “shared economy, passion economy”.
-- Creating language that defines the product, e.g. “cloud”.
+People often just think about the _thing_ or the set of features and services they’re creating when it comes to product. But just as important is the narrative that accompanies it. Without having both, it'll also be difficult to hire the right sales or marketing talent to grow the company. It’s why until you have product-market fit, when there’s a problem with growth, it’s difficult to diagnose if the issue is with the “product” or with the salespeople and marketers. My bet is that, more often than not, it’s a problem with the product. You need a very special kind of salesperson or marketer to be able to help build narrative and drive product while selling it.
 
 Twitter is a fantastic example of a company that hasn't invested enough in its narrative. Who is it for? How should it be used? What is its purpose? Why does it exist? It's important that the executives have their own belief and share it violently. But they've failed in that department. Narrative is not just for external parties, it's for internal. If the team doesn't feel like they're a part of the story, they will not be able to do their job well.
+
+UPDATE: Since I last wrote about this, I think Musk has actually done a decent job building a narrative around X. I don't love the name but he understands that a bigger story needs to be told to grow the product.
