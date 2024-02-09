@@ -8,7 +8,7 @@ permalink: kenya-hara-white-reflections
 image: WhiteKenyaHara.jpeg
 image-description: Kenya Hara's "White" on white.
 ---
-*Originally published 11/27/2020 but revisited in 2024 after my recent trip to Japan.*
+*Originally published 11/27/2020 and my recent trip to Japan in 2024, I've revisited the post.*
 
 ---
 ## White as a Color
@@ -28,7 +28,7 @@ A manifested form of kizen is a sheet of white paper.
 
 Hara argues that paper's practical application of providing people with a medium to record information "is less important than its imaginative impact. Human beings who come in contact with its latent potential are naturally driven to express themselves."
 
-Facing a sheet of white paper invokes kizen. It's the limitless possibility of what that piece of paper can hold–and this concept is white. "When white emerges from the boundless chaos, it becomes information.”
+A sheet of white paper invokes kizen. It's the limitless possibility of what that piece of paper can hold–and this concept is white. *"When white emerges from the boundless chaos, it becomes information.”*
 
 ## White as a Philosophy
 Japanese minimalism is often seen to encapsulate phrases like "less is more" and "simple is best." These phrases, however, miss the mark of what Japanese minimalism is really about. Japanese minimalism is about expressing “emptiness.”
@@ -45,17 +45,15 @@ Emptiness is found in many of Japan’s art and design forms, for example in the
 
 Emptiness refers to the latent possibilities that are available prior to an event taking place or even while it happens. To better understand the concept, Hara gives us a history lesson on where Japanese minimalism “started.”
 
-Ashikaga Yoshimasa (1436 to 1490) was a Shogun who had a leading part in the Onin war. The Onin war resulted in the destruction of many lives and shrines, art, and culture. This caused Yoshimasa to retire and reflect in Higashiyama. He spent his days practicing calligraphy, painting, and performing tea ceremonies. He also started the construction of the Ginkaku, better known as the Silver Pavilion. These activities and the Ginkaku were the start of Japanese emphasis on simplicity and emptiness.
+Ashikaga Yoshimasa (1436 to 1490) was a Shogun who had a leading part in the Onin war. The Onin war resulted in the destruction of many lives and shrines, art, and culture. This caused Yoshimasa to retire and reflect in Higashiyama. He spent his days practicing calligraphy, painting, and performing tea ceremonies. He also started the construction of the Ginkaku-ji, also known as the Silver Pavilion. To Hara, this was the start of a Japanese emphasis on simplicity and emptiness.
 
 ![Ginkaku](/assets/blogimages/white/Ginkakuji.png#center "Ginkaku-ji")
 
 <sub>Photos I took at Ginkaku-ji in Dec 2023</sub>
 
-Hara asks a rhetorical question to us about this culture that Yoshimasa started:
+Hara asks a rhetorical question to us about this culture shift:
 
 > "Why did Higashiyama aesthetics put such an emphasis on “simplicity” or “emptiness”? Could a general war-weariness have caused Yoshima and his fellow Kyotoites to look at the world differently? Perhaps. What is more important than such idle guesswork is the fact that Japanese desperately sought beauty in simplicity on their own from this period on, breaking away from foreign influences." - Kenya Hara, "White"
-
-The Silver Pavilion that Yoshimasa built incorporated Wabi-Sabi and more specifically, the concept of emptiness.
 
 > "Wabi-Sabi is a concept derived from the Buddhist teaching of the three marks of existence (三法印), specifically impermanence (無常), suffering (苦) and emptiness or absence of self-nature (空, kū). If an object or expression can bring about, within us, a sense of serene melancholy and a spiritual longing, then that object could be said to be wabi-sabi." - Wikipedia
 
@@ -67,11 +65,13 @@ Hara gives an example of the famous tea room in the Silver Pavilion that was sim
 
 The room is like a sheet of white paper, a medium for imagination. 
 
-This is a concept that’s important to any field, whether it be in business, art, or design. When you start off with white and free yourself of any pre-conceptions, you’re able to have a new and better understanding of the thing you’re doing. White doesn't have to be an empty piece of paper, it can also appear via seemingly random phenomena, [like when Fan Hui played against AlphaGo](/move-78).
+This is a concept that’s important to any field, whether it be in business or art. When you start off with white and free yourself of any pre-conceptions, you can invoke clarity. White doesn't have to be a blank piece of paper or an empty room, it can also appear via seemingly random phenomena, [like when Fan Hui played against AlphaGo](/move-78).
 
-> "It’s just when I play AlphaGo, it shows me something. I see the world different, before everything begin. What is real thing inside Go game? Maybe he can show humans something we never discover. Maybe it’s beautiful." - Fan Hui, AlphaGo
+> "It’s just when I play AlphaGo, it shows me something. I see the world different, before everything begin. What is real thing inside Go game? Maybe [it] can show humans something we never discover. Maybe it’s beautiful." - Fan Hui, AlphaGo
 
 > "When knowledge and other habitual ways of thinking about things sinks to the bottom of our consciousness, that thing we call “understanding” floats to the surface like pure white paper." - Kenya Hara, "White"
+
+We see the antithesis of this occur as companies grow larger. Their empty sheets of paper get filled with unnecessary rules, dozens of products, antiquated systems, and this kills the imagination of everyone in them.
 
 Another interesting example of white and emptiness in Japanese culture is found in the design of Shinto shrines. The Shinto shrine is a temple of worship for the Japanese and is designed to have an empty space in the center. This empty space is called *Yashiro*. Ya means "a roof", over "Shiro", which means white. It literally means white with a roof on top of it.
 
@@ -88,12 +88,6 @@ Hara also talks about white in communication:
 > "In other words successful communication depends on how well we listen rather than how well we push our opinions on the person seated before us. People have therefore conceptualized communication techniques using terms like the “empty vessel” to try to understand each other better. For example, unlike other signs whose meanings are narrowly determined, symbols like the cross of the red desk in the Japanese flag allow our imaginations to roam free of any boundaries; they are like enormous empty vessels that can hold every possible meaning." - Kenya Hara, White
 
 Visualizing our minds as empty vessels is a powerful way to make us better listeners and thus communicators.
-
-## White in Companies
-White can be applied to companies too.
-
-As companies grow larger, their empty sheets of paper get filled with unnecessary rules, dozens of products, antiquated systems, and this kills the imagination of everyone in them.
-
 
 ## White
 
