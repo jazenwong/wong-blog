@@ -261,7 +261,7 @@ nav a {
 	grid-column: var(--mobile-width);
 	margin-block-start: var(--spacing-l);
 	display: grid;
-	grid-template-rows: 150px 500px 50px;
+	grid-template-rows: 150px 500px auto;
 }
 
 .bio {
@@ -285,7 +285,6 @@ nav a {
 }
 
 .pagination {
-	font-size: .95rem;
 	margin-block-start: var(--spacing-l);
 }
 
@@ -296,6 +295,7 @@ nav a {
 .pagination-buttons {
 	display: flex;
 	gap: var(--spacing-xsm);
+	margin-block-end: var(--spacing-l);
 }
 
 /* posts */
