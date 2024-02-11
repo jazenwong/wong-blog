@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: Pattern - Managing a <s>Country</s> Company
+title: Managing a <s>Country</s> Company
 date: 2022-07-28
 categories: essay
 description: Running a company is a lot like running a country
