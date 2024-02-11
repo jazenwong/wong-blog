@@ -3,7 +3,7 @@ layout: "post"
 title: Designing a Website as a Framework
 date: 2024-02-10
 categories: essay
-description: An underrated exercise in product thinking is designing a website.
+description: An underrated exercise in business and product thinking is designing a website.
 permalink: designing-a-website-as-a-framework-for-business-and-product
 image:
 image-description:
@@ -21,7 +21,7 @@ It's a way to think backwards.
 
 > “[Jacobi] knew that it is in the nature of things that many hard problems are best solved when they are addressed backward” - Charlie Munger
 
-## The Exercise
+## The exercise
 Instead of designing a website for what you have today, imagine a world where your product was already successful. You may believe that the product still needs X feature, or has to have Y appearance or UI, etc., before it can succeed, and that's fine, assume that you have the perfect version of said product.
 
 With that in mind, design a website (whether in low or high fidelity). If you already have one, forget that it exists. If your company has many products, just isolate for now.
