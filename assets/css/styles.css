@@ -122,6 +122,7 @@ src: url("/assets/fonts/untitled-sans-web-medium.woff2") format("woff2");
 
 html, html[data-theme="light"] {
 	--link-color: #0000FF;
+	--nav-link-color: #333;
 	--main-text-color: #333;
 	--secondary-text-color: #333;
 	--main-background-color: #ffffff;
@@ -129,6 +130,7 @@ html, html[data-theme="light"] {
 
 html[data-theme="dark"] {
 	--link-color: #ffffff;
+	--nav-link-color: #ffffff;
 	--main-text-color: #a6a6a6;
 	--secondary-text-color: #c5c5c5;
 	--main-background-color: #000000;
@@ -137,6 +139,7 @@ html[data-theme="dark"] {
 @media (prefers-color-scheme: dark) {
     html, html[data-theme="dark"] {
 	--link-color: #ffffff;
+	--nav-link-color: #ffffff;
 	--main-text-color: #a6a6a6;
 	--secondary-text-color: #c5c5c5;
 	--main-background-color: #000000;
@@ -144,6 +147,7 @@ html[data-theme="dark"] {
 
     html[data-theme="light"] {
 	--link-color: #0000FF;
+	--nav-link-color: #333;
 	--main-text-color: #333;
 	--secondary-text-color: #333;
 	--main-background-color: #ffffff;
@@ -291,7 +295,7 @@ nav {
 nav a {
 	display: block;
 	font-weight: 400;
-	color: var(--main-text-color);
+	color: var(--nav-link-color);
 }
 
 /* Home */
