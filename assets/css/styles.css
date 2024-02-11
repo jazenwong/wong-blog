@@ -105,7 +105,7 @@ src: url("/assets/fonts/untitled-sans-web-medium.woff2") format("woff2");
 	--serif-font: 'Source Serif', serif;
 	--mono-font: 'Source Code Pro', monospace;
 
-	--mobile-width: 2/12;
+	--mobile-width: 2/23;
 	--desktop-width: 3/11;
 
 	--gutter-xsm: .75rem;
@@ -164,7 +164,7 @@ body {
 	min-height: 100%;
 	height: max-content;
 	display: grid;
-	grid-template-columns: repeat(12,1fr);
+	grid-template-columns: repeat(24,1fr);
 	grid-column-gap: var(--gutter-xsm);
 	grid-template-rows: min-content;
 }
@@ -376,6 +376,7 @@ nav a {
 
 body {
 	grid-column-gap: var(--gutter-sm);
+	grid-template-columns: repeat(12,1fr);
 }
 
 nav {
