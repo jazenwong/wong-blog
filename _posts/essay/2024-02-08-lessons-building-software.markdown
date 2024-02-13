@@ -24,7 +24,7 @@ It also seems that in software design, the more problems you try to solve, the m
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The more narrow your focus, the clearer your identity becomes. The clearer your identity becomes, the faster you move. The faster you move, the faster you can iterate and improve quality. <a href="https://t.co/P0uyF8Wa6s">https://t.co/P0uyF8Wa6s</a></p>&mdash; James Wong (@jwazen1) <a href="https://twitter.com/jwazen1/status/1755220281910612270?ref_src=twsrc%5Etfw">February 7, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### It’s hard to design and build ~software~ useful software.
+### It’s hard to design and build useful software.
 FGX’s DNA is in solving a very specific subset of logistical problems. None of us are software developers or designers by trade and this definitely resulted in a less than optimal app, both from a visual and technical perspective. But we have one thing going for us that will make up for that in spades - we know what our customers want.
 
 We’re not guessing which features will be useful, we’ve already resolved thousands of requests. We “just” needed to choose the most important problems to solve and abstract them into common software patterns. In many ways, I can’t imagine designing the software prior to us having all this experience. If we did, we would probably have to go back and redesign entire tranches of how the application fundamentally worked sooner rather than later. 
