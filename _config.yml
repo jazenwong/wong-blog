@@ -38,7 +38,6 @@ defaults:
       path: "assets/img"
     values:
       image: true
-      og_image: "/assets/img/Fallback.png"
 
 paginate: 10
 paginate_path: /page:num/
