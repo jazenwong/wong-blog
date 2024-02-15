@@ -18,14 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: JJW
-email: your-email@example.com
+title: James Wong
+email: jazenwong@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  JJW | Essays
+  James Wong | Essays
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thewonger.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: jwazen1
 
 # Build settings
 theme: minima
@@ -39,6 +38,7 @@ defaults:
       path: "assets/img"
     values:
       image: true
+      og_image: "/assets/img/Fallback.png"
 
 paginate: 10
 paginate_path: /page:num/
