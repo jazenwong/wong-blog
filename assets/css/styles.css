@@ -118,6 +118,8 @@ src: url("/assets/fonts/untitled-sans-web-medium.woff2") format("woff2");
 	--spacing-m: 2rem;
 	--spacing-l: 3rem;
 	--spacing-xl: 5rem;
+
+	--border-radius: 6px;
 }
 
 html, html[data-theme="light"] {
@@ -195,8 +197,10 @@ a:active {
 }
 
 button {
+	font-size: 1rem;
 	background: transparent;
 	border: 1px solid var(--main-text-color);
+	border-radius: 0px;
 	color: var(--nav-link-color);
 	padding: 0 var(--spacing-xsm);
 	margin: 0;
@@ -351,6 +355,11 @@ nav a {
 	grid-column: var(--mobile-width);
 	display: grid;
 	grid-template-rows: 100px 500px auto;
+	margin-block-start: var(--spacing-l);
+}
+
+.home-container p {
+	max-width: 70ch;
 }
 
 .desktop-nav-container {
@@ -484,7 +493,7 @@ body {
 	padding: 0 var(--spacing-sm);
 	min-height: 51px;
 	border: 1px solid var(--main-text-color);
-	border-radius: 6px;
+	border-radius: var(--border-radius);
 }
 
 .nav-links {
@@ -499,10 +508,6 @@ body {
 	margin-block-start: 0;
 	grid-template-rows: auto;
 	padding: var(--spacing-l);
-}
-
-.home-container p {
-	max-width: 70ch;
 }
 
 }
