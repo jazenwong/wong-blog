@@ -14,7 +14,7 @@ Client wants a quote? Email. They want to book a shipment? Email. Tracking? Emai
 
 We're about to ship the first iteration of our customer facing application (will update this post with the product launch link when we do) and here's what I learned.
 
-### Designing software forces you to focus.
+## Designing software forces you to focus.
 
 At FGX, our customers come to us with a thousand different kinds of problems. When email was the main medium for issue resolution, we could solve every problem under the sun.
 
@@ -24,14 +24,14 @@ It also seems that in software design, the more problems you try to solve, the m
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The more narrow your focus, the clearer your identity becomes. The clearer your identity becomes, the faster you move. The faster you move, the faster you can iterate and improve quality. <a href="https://t.co/P0uyF8Wa6s">https://t.co/P0uyF8Wa6s</a></p>&mdash; James Wong (@jwazen1) <a href="https://twitter.com/jwazen1/status/1755220281910612270?ref_src=twsrc%5Etfw">February 7, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### It’s hard to design and build useful software.
+## It’s hard to design and build useful software.
 FGX’s DNA is in solving a very specific subset of logistical problems. None of us are software developers or designers by trade and this definitely resulted in a less than optimal app, both from a visual and technical perspective. But we have one thing going for us that will make up for that in spades - we know what our customers want.
 
 We’re not guessing which features will be useful, we’ve already resolved thousands of requests. We “just” needed to choose the most important problems to solve and abstract them into common software patterns. In many ways, I can’t imagine designing the software prior to us having all this experience. If we did, we would probably have to go back and redesign entire tranches of how the application fundamentally worked sooner rather than later. 
 
 The lesson here is that yes, it's important to move fast and break things, but that doesn't apply to everything. If you're not VC-funded with millions to burn on dev hours, it doesn't hurt to get more experience under your belt before building software. In fact, it's probably the better strategy.
 
-### For service-based businesses, software can’t replace expertise and attention.
+## For service-based businesses, software can’t replace expertise and attention.
 
 If you provide a service behind software, like FGX (IT shipping), Boundless (a visa immigration service), and TurboTax (tax filing) does, no matter how great your software is, a critical amount of users will want expert “human” attention [1]. They know that software is a proxy for getting what they want and they’ll always feel worried that they aren’t getting serviced well. It’s an emotional human problem that’s difficult to address without another human.
 

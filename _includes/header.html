@@ -1,7 +1,49 @@
-<nav>
-    <div class="nav-links">
-      <a href="{{ site.url }}">James Wong</a>
-      <a href="https://twitter.com/jwazen1" class="instagram">Twitter</a>
+<section class="mobile-nav-container">
+  <nav>
+    <div class="nav-links-container">
+      <div class="nav-links">
+        <!-- Adjust the condition based on your site's URL structure -->
+        <a href="{{ site.url }}" class="{% if page.url == '/' %}current-page{% endif %}">James Wong</a>
+        <!-- External links like Twitter won't have the current-page class unless they're part of your site's structure -->
+        <a href="https://twitter.com/jwazen1" class="instagram">Twitter</a>
+      </div>
+      <button class="nav-toggle" id="closeNav" style="cursor: pointer;">Return</button>
     </div>
-    <a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
-</nav>
+    <div class="article-container">
+      {% for post in site.posts %}
+        {% if post.url %}
+        <div class="article">
+          <a href="{{ site.baseurl }}{{ post.url }}" class="{% if page.url == post.url %}current-page{% endif %}">{{ post.title }}</a>
+          <sub>{{ post.date | date: "%-m/%-d/%y" }}</sub>
+        </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </nav>
+  <div class="nav-functions">
+    <button class="mobile-toggle">Writing</button>
+    <a href="{{page.url}}" class="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
+  </div>
+</section>
+
+<section class="desktop-nav-container">
+  <nav>
+    <div class="nav-links">
+      <!-- Adjust the condition based on your site's URL structure -->
+      <a href="{{ site.url }}" class="{% if page.url == '/' %}current-page{% endif %}">James Wong</a>
+      <!-- External links like Twitter won't have the current-page class unless they're part of your site's structure -->
+      <a href="https://twitter.com/jwazen1" class="instagram">Twitter</a>
+      <a href="{{page.url}}" class="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
+    </div>
+    <div class="article-container desktop-article-container">
+      {% for post in site.posts %}
+        {% if post.url %}
+        <div class="{% if page.url == post.url %}current-page{% endif %} article">
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          <sub>{{ post.date | date: "%-m/%-d/%y" }}</sub>
+        </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </nav>
+</section>

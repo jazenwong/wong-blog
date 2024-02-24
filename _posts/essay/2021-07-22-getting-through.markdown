@@ -8,9 +8,6 @@ permalink: getting-through-to-people
 image:
 image-description:
 ---
-
-I've always been interested in figuring out how to get people to open up and to create a genuine bond with them.
-
 When meeting someone for the first time, I think people often find themselves with two conflicting feelings: one, the fear of opening up and sharing, and two, the desire to open up and share. People put up walls in order to protect themselves as an act of self preservation. But on the other hand, when given the chance, people love talking about themselves. It's a strange duality that most people have.
 
 But like yin and yang, although the fear and desire to share are contradictory forces, they are in-fact, interconnected. Both feelings stem from the desire to be accepted and not judged.

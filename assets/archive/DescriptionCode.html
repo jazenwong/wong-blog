@@ -1,0 +1,9 @@
+{% assign recent_post = site.posts.first %}
+<div class="recent-post">
+    <p>Latest Post</p>
+    <article>
+        <h3><a href="{{ recent_post.url | prepend: site.baseurl }}">{{ recent_post.title }}</a></h3>
+        <p>{{ recent_post.excerpt | strip_html }}</p>
+        <a href="{{ recent_post.url | prepend: site.baseurl }}" class="read-more">Read More</a>
+    </article>
+</div>
