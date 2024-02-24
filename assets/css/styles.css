@@ -200,11 +200,11 @@ button {
 	font-size: 1rem;
 	background: transparent;
 	border: 1px solid var(--main-text-color);
-	border-radius: 0px;
+	border-radius: var(--border-radius);
 	color: var(--nav-link-color);
 	padding: 0 var(--spacing-xsm);
 	margin: 0;
-	height: 27px;
+	height: 30px;
 	width: fit-content;
 }
 
@@ -503,6 +503,7 @@ body {
 .nav-links {
 	display: flex;
 	justify-content: space-between;
+	align-items: center;
 	width: 100%;
 }
 

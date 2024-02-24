@@ -22,7 +22,7 @@
   </nav>
   <div class="nav-functions">
     <button class="mobile-toggle">Writing</button>
-    <a href="{{page.url}}" class="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
+    <button href="{{page.url}}" class="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></button>
   </div>
 </section>
 
@@ -33,7 +33,7 @@
       <a href="{{ site.url }}" class="{% if page.url == '/' %}current-page{% endif %}">James Wong</a>
       <!-- External links like Twitter won't have the current-page class unless they're part of your site's structure -->
       <a href="https://twitter.com/jwazen1" class="instagram">Twitter</a>
-      <a href="{{page.url}}" class="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
+      <button href="{{page.url}}" class="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></button>
     </div>
     <div class="article-container desktop-article-container">
       {% for post in site.posts %}
