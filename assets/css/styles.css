@@ -219,7 +219,7 @@ img[src*='#center'] {
 }
 
 iframe {
-	width: 77ch;
+	width: 100%;
 	margin-block-start: 1rem;
 	margin-block-end: 2rem;
 	align-self: flex-start;
@@ -451,6 +451,10 @@ nav a {
 
 .mobile-nav-container nav {
 	width: 70%;
+}
+
+iframe {
+	width: 77ch;
 }
 
 }
