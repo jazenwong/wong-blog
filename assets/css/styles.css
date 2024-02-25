@@ -172,6 +172,7 @@ body {
 	grid-template-columns: repeat(24,1fr);
 	grid-template-rows: min-content;
 	grid-column-gap: var(--gutter-xsm);
+	padding: var(--spacing-l) 0;
 }
 
 /* Each state */
@@ -304,7 +305,6 @@ sub {
 .mobile-nav-container {
 	grid-column: var(--mobile-width);
 	grid-row: 1/2;
-	margin-block-start: var(--spacing-l);
 }
 
 .mobile-nav-container .nav-functions {
@@ -486,6 +486,7 @@ body {
 	grid-column-gap: var(--gutter-sm);
 	grid-template-columns: repeat(12,1fr);
 	grid-template-rows: auto;
+	padding: 0;
 }
 
 .mobile-nav-container {
