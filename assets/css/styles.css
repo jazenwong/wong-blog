@@ -523,6 +523,11 @@ body {
 	border-radius: var(--border-radius);
 }
 
+.article-container {
+	height: 100%;
+	overflow: unset;
+}
+
 .nav-links {
 	display: flex;
 	justify-content: space-between;
