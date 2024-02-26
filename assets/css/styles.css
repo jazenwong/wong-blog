@@ -215,9 +215,9 @@ img {
 	width: 100%;
 }
 
-img[src*='#center'] {
-    display: block;
-    margin: auto;
+img[src*='#background'] {
+    background-color: var(--nav-link-color);
+	padding: 5px;
 }
 
 iframe {
@@ -295,10 +295,6 @@ sub {
 	display: block;
 	font-size: .8rem;
 	font-style: italic;
-}
-
-.current-page a {
-    font-weight: bold;
 }
 
 /* Nav */
@@ -457,6 +453,15 @@ nav a {
 .post-body ol li {
 	align-self: flex-start;
 	max-width: 70ch;
+}
+
+.post-layout strong {
+	color: var(--link-color);
+}
+
+.post-layout img {
+	margin-block-start: 1rem;
+	margin-block-end: 1rem;
 }
 
 .twitter-tweet {
