@@ -1,32 +1,49 @@
 document.addEventListener('DOMContentLoaded', (event) => {
-    // Listen for clicks on links with hrefs starting with "#"
     document.querySelectorAll('a[href^="#"]').forEach(link => {
         link.addEventListener('click', function(e) {
-            // Prevent default anchor click behavior
             e.preventDefault();
-
-            // Remove highlight class from any previously highlighted spans
+            
+            // Remove any existing return link and highlight
             document.querySelectorAll('.highlight').forEach(highlighted => {
                 highlighted.classList.remove('highlight');
+                const returnLink = highlighted.querySelector('.return-link');
+                if (returnLink) {
+                    returnLink.remove();
+                }
             });
 
-            // Add the highlight class to the clicked link's target span
             const targetId = this.getAttribute('href');
             const targetElement = document.querySelector(targetId);
             if (targetElement) {
                 targetElement.classList.add('highlight');
+                
+                // Create and insert the return link
+                const returnLink = document.createElement('a');
+                returnLink.href = '#';
+                returnLink.textContent = 'Return to original position.';
+                returnLink.className = 'return-link';
 
-                // Optional: Scroll to the element if not in view
+                returnLink.onclick = () => {
+                    this.scrollIntoView({behavior: 'smooth', block: 'center'});
+                    return false; // Prevent default link behavior
+                };
+                
+                targetElement.append(returnLink);
+                
                 targetElement.scrollIntoView({behavior: 'smooth', block: 'center'});
             }
         });
     });
 
-    // Optional: Remove highlight if clicking anywhere else on the page
     document.body.addEventListener('click', function(e) {
-        if (!e.target.matches('a[href^="#"]')) {
+        // Extend to remove return link if clicking outside of footnotes
+        if (!e.target.matches('a[href^="#"], .return-link')) {
             document.querySelectorAll('.highlight').forEach(highlighted => {
                 highlighted.classList.remove('highlight');
+                const returnLink = highlighted.querySelector('.return-link');
+                if (returnLink) {
+                    returnLink.remove();
+                }
             });
         }
     });

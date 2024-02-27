@@ -466,7 +466,9 @@ nav a {
 	color: var(--link-color);
 }
 
-.post-body a:visited {
+.post-body a:visited ,
+.post-body a:active ,
+.post-body a:hover {
 	text-decoration: underline;
 }
 
@@ -486,6 +488,12 @@ nav a {
 	background-color: var(--main-background-color);
 	border-radius: var(--border-radius);
 	color: var(--link-color);
+}
+
+.return-link {
+	color: var(--link-color);
+	margin-inline-start: 5px;
+	font-weight: 500;
 }
 
 @media only screen and (min-width: 768px) {
