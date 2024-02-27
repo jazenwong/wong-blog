@@ -124,6 +124,7 @@ src: url("/assets/fonts/untitled-sans-web-medium.woff2") format("woff2");
 
 html, html[data-theme="light"] {
 	--link-color: #333;
+	--highlight-color: yellow;
 	--nav-link-color: #333;
 	--main-text-color: #333;
 	--secondary-text-color: #333;
@@ -132,6 +133,7 @@ html, html[data-theme="light"] {
 
 html[data-theme="dark"] {
 	--link-color: #ffffff;
+	--highlight-color: #2d2d2d;
 	--nav-link-color: #ffffff;
 	--main-text-color: #a6a6a6;
 	--secondary-text-color: #c5c5c5;
@@ -141,6 +143,7 @@ html[data-theme="dark"] {
 @media (prefers-color-scheme: dark) {
     html, html[data-theme="dark"] {
 	--link-color: #ffffff;
+	--highlight-color: #2d2d2d;
 	--nav-link-color: #ffffff;
 	--main-text-color: #a6a6a6;
 	--secondary-text-color: #c5c5c5;
@@ -149,6 +152,7 @@ html[data-theme="dark"] {
 
     html[data-theme="light"] {
 	--link-color: #333;
+	--highlight-color: yellow;
 	--nav-link-color: #333;
 	--main-text-color: #333;
 	--secondary-text-color: #333;
@@ -469,6 +473,15 @@ nav a {
 
 .twitter-tweet {
 	max-width: none !important;
+}
+
+.highlight {
+	display: block;
+	padding: var(--spacing-sm) var(--spacing-sm);
+	border: 1px solid var(--link-color);
+	background-color: var(--main-background-color);
+	border-radius: var(--border-radius);
+	color: var(--link-color);
 }
 
 @media only screen and (min-width: 768px) {

@@ -33,7 +33,7 @@ The lesson here is that yes, it's important to move fast and break things, but t
 
 ## For service-based businesses, software can’t replace expertise and attention.
 
-If you provide a service behind software, like FGX (IT shipping), Boundless (a visa immigration service), and TurboTax (tax filing) does, no matter how great your software is, a critical amount of users will want expert “human” attention [1]. They know that software is a proxy for getting what they want and they’ll always feel worried that they aren’t getting serviced well. It’s an emotional human problem that’s difficult to address without another human.
+If you provide a service behind software, like FGX (IT shipping), Boundless (a visa immigration service), and TurboTax (tax filing) does, no matter how great your software is, a critical amount of users will want expert “human” attention <a href="#note1">[1]</a>. They know that software is a proxy for getting what they want and they’ll always feel worried that they aren’t getting serviced well. It’s an emotional human problem that’s difficult to address without another human.
 
 It’s why Boundless highlights the step in their process where their attorneys [review your visa application](https://www.boundless.com/services/k-1-fiance-visa-boundless/). Even if their software could (and I bet it already does) review your visa application more thoroughly than a human, customers would feel a lot better thinking that a human was doing it.
 
@@ -42,4 +42,4 @@ TurboTax has pages entirely dedicated to their [expert help](https://turbotax.in
 For FGX, some of our long-time customers were worried about switching to a software interface because they were used to having a direct line to someone who could actually get something done. It’s why we made sure to assign dedicated experts to those accounts and future ones in the same profile.
 
 ---
-[1] From a business perspective, as long as you can keep service quality high, this is good, because you can charge more. With AI’s progress, especially because its primary medium is natural language, I can see “expert customer service” becoming replaced with software; [Intercom is on the right track](https://www.intercom.com/believe).
+<span id="note1">[1] From a business perspective, as long as you can keep service quality high, this is good, because you can charge more. With AI’s progress, especially because its primary medium is natural language, I can see “expert customer service” becoming replaced with software; [Intercom is on the right track](https://www.intercom.com/believe).</span>

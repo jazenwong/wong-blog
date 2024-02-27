@@ -8,7 +8,7 @@ permalink: micromanaging
 image:
 image-description:
 ---
-Micromanaging usually gets a bad rap, for good reason, but there's one area that I can think of where it isn't "completely bad" - building great products. I'm not saying that micromanagement is needed to create great products, but rather, that it's an area where it's a viable strategy [1].
+Micromanaging usually gets a bad rap, for good reason, but there's one area that I can think of where it isn't "completely bad" - building great products. I'm not saying that micromanagement is needed to create great products, but rather, that it's an area where it's a viable strategy <a href="#note1">[1]</a>.
 
 There are many examples of where this is the case:
 
@@ -29,4 +29,4 @@ But the second you need to do something that has to scale, micromanaging will al
 The follow up thought here is, if there are situations where micromanaging is effective, how can one do it in such a way that it doesn't hurt morale?
 
 ---
-[1] One of my favorite sayings is that there are many ways to win.
+<span id="note1">[1] One of my favorite sayings is that there are many ways to win.</span>

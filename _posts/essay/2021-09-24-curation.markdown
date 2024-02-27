@@ -21,15 +21,15 @@ In contemporary branding and marketing, I've noticed curation to be more prevale
 
 [HiddenNY](https://www.instagram.com/hidden.ny/?hl=en) is another design shop that started as a digital moodboard (639k instagram followers) that now sells clothing, and has high-profile followers like Virgil Abloh, Drake, etc.
 
-JJJJound and HiddenNY have both built up their brands by curating and sharing images (images that they almost always don't take themselves.) Some people might say that they're just re-posting other people's / brand's hard work and benefitting off of it. But JJJJound and HiddenNY is doing something very valuable—they give context to the things they curate and signal to their audience that these things are worth their time to ingest (and thus buy) [1].
+JJJJound and HiddenNY have both built up their brands by curating and sharing images (images that they almost always don't take themselves.) Some people might say that they're just re-posting other people's / brand's hard work and benefitting off of it. But JJJJound and HiddenNY is doing something very valuable—they give context to the things they curate and signal to their audience that these things are worth their time to ingest (and thus buy) <a href="#note1">[1]</a>.
 
 > “There’s value in having someone who’s amongst what’s happening in culture. The value is having me as a narrator and telling the story, telling you what’s relevant,” says popular Instagram curator Sam Trotman, more commonly known under his IG moniker Samutaro. “A good curator does the research, writes and edits, and doesn’t just repost images.” Trotman sees himself as an educator and a dot-connector. “A lot of my followers enjoy reading the context and history behind images,” he says. “I connect what’s happening in culture right now with the past. There’s value in finding a new angle on old things and connecting them with new things.” - [Creativity is Dead, Long Live Curation](https://andjelicaaa.substack.com/p/creativity-is-dead-long-live-curation)
 
 Curators do the hard work of rummaging through tons of trash to find you a few pieces of gold. In a world where time is scarce, having someone (whether a brand or a person) do that for you is invaluable, granted that its done well.
 
-Ironically, curation is so valuable that it has become a monetizable product itself. For example, see newsletters. Newsletters are made by a person(s) or team digging through all of the relevant news of the day and then sharing it with the reader with some added commentary [2].
+Ironically, curation is so valuable that it has become a monetizable product itself. For example, see newsletters. Newsletters are made by a person(s) or team digging through all of the relevant news of the day and then sharing it with the reader with some added commentary <a href="#note2">[2]</a>.
 
-Added commentary, however, in curation isn't always necessary, like in the case of JJJJound and HiddenNY. But if it's done well, it makes the curated experience even more valuable. Newsletters like the Morning Brew make a killing by not only being the best curators, but also by being the best commentators of news content for their industry. They're excellent at writing and give their newsletter a unique voice which really makes the reader feel as if the Morning Brew was curated for them. In some cases, added commentary also does some heavy lifting—it tells the reader what to think [3].
+Added commentary, however, in curation isn't always necessary, like in the case of JJJJound and HiddenNY. But if it's done well, it makes the curated experience even more valuable. Newsletters like the Morning Brew make a killing by not only being the best curators, but also by being the best commentators of news content for their industry. They're excellent at writing and give their newsletter a unique voice which really makes the reader feel as if the Morning Brew was curated for them. In some cases, added commentary also does some heavy lifting—it tells the reader what to think <a href="#note3">[3]</a>.
 
 Now, although I love my newsletters, there are way too many of them! (In the past week I've probably subscribed to twelve of them.) So even if you try to use curation to escape the overload of content, you still end up with, well, an overload of content.
 
@@ -39,7 +39,7 @@ A more accurate statement is that we need to become *good* curators. Or at the v
 
 Priority number one in curation is research. Good curators know where to dig for content. Take some time (it could be weeks or months) to organically find what you think the best sources of content are, whether curated or not. Sign up for newsletters, follow pages, follow your curiosity. Make sure you're visiting these sources frequently and keep track of which ones you're constantly engaging with. For example, I always find my way back to Paul Graham's blog. Then, at the end of every month, start cutting out or archiving the content sources that you haven't really engaged with.
 
-Secondly, start developing your taste [4]. Be conscious of and take note of what you're drawn to and why. Take time to analyze the pattern behind the content you've been consuming. An analogy can be found in your wardrobe—take an inventory of your clothes and note down what you wear and don't wear often.
+Secondly, start developing your taste <a href="#note4">[4]</a>. Be conscious of and take note of what you're drawn to and why. Take time to analyze the pattern behind the content you've been consuming. An analogy can be found in your wardrobe—take an inventory of your clothes and note down what you wear and don't wear often.
 
 Lastly, reflect on your efforts. Write about the content you've curated, share your efforts, create your own moodboard, etc. Why do some items in your wardrobe resonate more than others?
 
@@ -47,10 +47,10 @@ Curation is only going to become increasingly more important for both individual
 
 --
 
-[1] It was only natural then for their followers to think, well if I like their curated posts, why wouldn't I like their products? If they can curate well, why wouldn't they be able to create well?
+<span id="note1">[1] It was only natural then for their followers to think, well if I like their curated posts, why wouldn't I like their products? If they can curate well, why wouldn't they be able to create well?</span>
 
-[2] Substack's surge in popularity is proof that curation is here to stay.
+<span id="note2">[2] Substack's surge in popularity is proof that curation is here to stay.</span>
 
-[3] We're all subject to being lazy, and if we're being honest, having someone who *should* know more than you tell you what to think is an enticing offer.
+<span id="note3">[3] We're all subject to being lazy, and if we're being honest, having someone who *should* know more than you tell you what to think is an enticing offer.</span>
 
-[4] [See Taste for Makers by Paul Graham](http://www.paulgraham.com/taste.html)
+<span id="note4">[4] [See Taste for Makers by Paul Graham](http://www.paulgraham.com/taste.html).</span>

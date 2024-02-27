@@ -67,7 +67,7 @@ This is a concept that’s important to any field, whether it be in business or 
 
 > "When knowledge and other habitual ways of thinking about things sinks to the bottom of our consciousness, that thing we call “understanding” floats to the surface like pure white paper." - Kenya Hara, "White"
 
-We see the antithesis of this occur as companies grow larger. Their empty sheets of paper get filled with unnecessary rules, dozens of products, overlapping systems, and room for imagination quickly disappears [1].
+We see the antithesis of this occur as companies grow larger. Their empty sheets of paper get filled with unnecessary rules, dozens of products, overlapping systems, and room for imagination quickly disappears <a href="#note1">[1]</a>.
 
 Another interesting example of white and emptiness in Japanese culture is found in the design of Shinto shrines. The Shinto shrine is a temple of worship for the Japanese and is designed to have an empty space in the center. This empty space is called *Yashiro*. Ya means "a roof", over "Shiro", which means white. It literally means white with a roof on top of it.
 
@@ -92,4 +92,4 @@ Hara never gives us a methodology for incorporating white into the way we live a
 > "Wabi-Sabi is a concept derived from the Buddhist teaching of the three marks of existence (三法印), specifically impermanence (無常), suffering (苦) and emptiness or absence of self-nature (空, kū). If an object or expression can bring about, within us, a sense of serene melancholy and a spiritual longing, then that object could be said to be wabi-sabi." - Wikipedia
 
 ---
-[1] Probably what's happening with Google.
+<span id="note1">[1] Probably what's happening with Google.</span>

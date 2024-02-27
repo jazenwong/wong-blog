@@ -9,9 +9,9 @@ image:
 image-description:
 ---
 
-A well-designed website is a function of understanding your business well. Said differently, if you do not understand your business well, you cannot design a good website [1].
+A well-designed website is a function of understanding your business well. Said differently, if you do not understand your business well, you cannot design a good website <a href="#note1">[1]</a>.
 
-A website [at its core, is copy](https://ia.net/topics/the-web-is-all-about-typography-period), and copy is just a version of writing, and great writing comes from clear thinking [2].
+A website [at its core, is copy](https://ia.net/topics/the-web-is-all-about-typography-period), and copy is just a version of writing, and great writing comes from clear thinking  <a href="#note2">[2]</a>.
 
 This makes designing a website a great exercise for thinking about a business and its products. It's especially useful when you're building something that doesn't yet "exist", e.g. for new markets, new technologies, etc.
 
@@ -34,11 +34,11 @@ To invert even further, what would the site have to look and sound like to compl
 
 **One of the most important questions you're trying to answer is: does the perfect version of the product [win the market](/product-features-narrative)? Can you even imagine a world where it wins? What would that look like?**
 
-This exercise forces these kinds of difficult questions to naturally surface [3]. They may not come to you in a sequentially logical order, but when dealing with complex problems, you can't use straightforward methods. You'll think, design, take a step back, think, design, take a step back, ad infinitum.
+This exercise forces these kinds of difficult questions to naturally surface <a href="#note3">[3]</a>. They may not come to you in a sequentially logical order, but when dealing with complex problems, you can't use straightforward methods. You'll think, design, take a step back, think, design, take a step back, ad infinitum.
 
 ---
-[1] Good as in, does it [maximize your odds of winning the market](https://twitter.com/shreyas/status/1755304339856593240)?
+<span id="note1">[1] Good as in, does it [maximize your odds of winning the market](https://twitter.com/shreyas/status/1755304339856593240)?</span>
 
-[2] If you get the writing part correct, it's hard to end up with a bad website.
+<span id="note2">[2] If you get the writing part correct, it's hard to end up with a bad website.</span>
 
-[3] A blank webpage / piece of paper also invokes [kizen](/kenya-hara-white-reflections) and that naturally makes room for more creativity.
+<span id="note3">[3] A blank webpage / piece of paper also invokes [kizen](/kenya-hara-white-reflections) and that naturally makes room for more creativity.</span>
