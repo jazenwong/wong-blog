@@ -257,7 +257,9 @@ p {
 	line-height: 1.475;
 }
 
-p strong {
+p strong ,
+ul li strong ,
+ol li strong {
 	font-weight: 500;
 }
 
