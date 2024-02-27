@@ -466,6 +466,10 @@ nav a {
 	color: var(--link-color);
 }
 
+.post-body a:visited {
+	text-decoration: underline;
+}
+
 .post-layout img {
 	margin-block-start: 1rem;
 	margin-block-end: 1rem;
