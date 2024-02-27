@@ -217,7 +217,7 @@ img {
 
 img[src*='#background'] {
     background-color: var(--nav-link-color);
-	padding: 5px;
+	padding: 2px;
 	box-sizing: border-box;
 }
 
