@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
                 // Create and insert the return link, if not already present
                 const returnLink = document.createElement('a');
                 returnLink.href = '#';
-                returnLink.textContent = 'Return to position';
+                returnLink.textContent = 'Return to position.';
                 returnLink.className = 'return-link';
                 returnLink.onclick = () => {
                     document.querySelector(`a[href="${targetId}"]`).scrollIntoView({behavior: 'smooth', block: 'center'});
