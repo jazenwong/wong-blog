@@ -218,6 +218,7 @@ img {
 img[src*='#background'] {
     background-color: var(--nav-link-color);
 	padding: 5px;
+	box-sizing: border-box;
 }
 
 iframe {
