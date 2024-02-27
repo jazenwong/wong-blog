@@ -468,7 +468,11 @@ nav a {
 
 .post-body a:visited ,
 .post-body a:active ,
-.post-body a:hover {
+.post-body a:hover ,
+.post-body a:focus ,
+.post-body a:focus-visible ,
+.post-body a:focus-within ,
+.post-body a:target {
 	text-decoration: underline;
 }
 
