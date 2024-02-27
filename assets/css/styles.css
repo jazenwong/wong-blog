@@ -424,7 +424,7 @@ nav a {
 
 .post-layout {
 	grid-column: var(--mobile-width);
-	padding-block: var(--spacing-xl);
+	padding-block: var(--spacing-m);
 }
 
 .post-header {
