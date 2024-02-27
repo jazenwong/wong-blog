@@ -67,12 +67,12 @@ It was also really cool to be able to follow the path of a note from one topic t
 
 A few challenges that I encountered:
 
-- **It's really hard to keep notes "atomic".** Encapsulating a note to only be about itself is a lot harder than it seems. This almost forces you to really understand what you're writing about.
+- **It's really hard to keep notes "atomic".** Encapsulating a note to only be about itself is a lot harder than it seems.
 - **It's tempting to make connections even when they shouldn't exist.** I think this was a behavior that arose due to "overcorrecting".
 
 I don't think these are problems per se, it just forces you to be more intentional and mindful of what you write and the connections you make, which isn't necessarily a bad thing.
 
-I'm sure as time goes on, new challenges may arise that force me to rethink this workflow, but for now, it's working and I'm having a lot of fun.
+I'm sure as time goes on, new challenges will arise that will force me to rethink this workflow, but for now, it's working and I'm having a lot of fun.
 
 ---
 [1] If you're a brainlet like me, you're probably using it as a skin for your file explorer.
