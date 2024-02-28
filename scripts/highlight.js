@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', (event) => {
     let currentActiveId = null; // Track the currently active footnote ID
+    let returnPosition = null; // Track the return position
 
     const clearHighlightsAndReturnLinks = () => {
         // Clear any existing highlights and return links
@@ -17,6 +18,8 @@ document.addEventListener('DOMContentLoaded', (event) => {
             e.preventDefault();
 
             const targetId = this.getAttribute('href');
+            // Save the scroll position before moving to the footnote
+            returnPosition = window.pageYOffset || document.documentElement.scrollTop;
 
             // Clear existing highlights and return links if clicking a different footnote
             if (currentActiveId !== targetId) {
@@ -33,13 +36,13 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
                 // Create and insert the return link, if not already present
                 const returnLink = document.createElement('a');
-                returnLink.href = '#';
-                returnLink.textContent = 'Return to position.';
+                returnLink.href = 'javascript:void(0);'; // Prevent navigating away
+                returnLink.textContent = 'Return to position';
                 returnLink.className = 'return-link';
-                returnLink.onclick = () => {
-                    document.querySelector(`a[href="${targetId}"]`).scrollIntoView({behavior: 'smooth', block: 'center'});
+                returnLink.onclick = (e) => {
+                    e.preventDefault(); // Ensure the link does not perform any default action
+                    window.scrollTo({top: returnPosition, behavior: 'smooth'});
                     clearHighlightsAndReturnLinks(); // Clear highlights when returning
-                    return false; // Prevent default link behavior
                 };
 
                 targetElement.append(returnLink);
