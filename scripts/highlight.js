@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
                 // Create and insert the return link, if not already present
                 const returnLink = document.createElement('a');
                 returnLink.href = 'javascript:void(0);'; // Prevent navigating away
-                returnLink.textContent = 'Return to position';
+                returnLink.textContent = 'Return to position.';
                 returnLink.className = 'return-link';
                 returnLink.onclick = (e) => {
                     e.preventDefault(); // Ensure the link does not perform any default action
