@@ -1,0 +1,16 @@
+---
+layout: "wrapper"
+title: James Wong | All Posts
+description: James Wong | All Posts
+---
+<section class="all-posts-body">
+    <h1>All Posts</h1>
+    {% for post in site.posts %}
+        {% if post.url %}
+        <div class="{% if page.url == post.url %}current-page{% endif %} article">
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        <sub>{{ post.date | date: "%-m/%-d/%y" }}</sub>
+        </div>
+        {% endif %}
+    {% endfor %}
+</section>
