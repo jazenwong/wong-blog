@@ -124,39 +124,47 @@ src: url("/assets/fonts/untitled-sans-web-medium.woff2") format("woff2");
 
 html, html[data-theme="light"] {
 	--link-color: #333;
-	--highlight-color: yellow;
 	--nav-link-color: #333;
 	--main-text-color: #333;
 	--secondary-text-color: #333;
+	--light-text-color: #60646F;
 	--main-background-color: #ffffff;
+	--secondary-background-color: #efefef;
+	--filter: invert(15%) sepia(0%) saturate(1257%) hue-rotate(143deg) brightness(91%) contrast(83%);
 }
 
 html[data-theme="dark"] {
 	--link-color: #ffffff;
-	--highlight-color: #2d2d2d;
 	--nav-link-color: #ffffff;
 	--main-text-color: #a6a6a6;
 	--secondary-text-color: #c5c5c5;
+	--light-text-color: #c5c5c5;
 	--main-background-color: #000000;
+	--secondary-background-color: #27292D;
+	--filter: invert(99%) sepia(100%) saturate(0%) hue-rotate(126deg) brightness(104%) contrast(100%);
 }
 
 @media (prefers-color-scheme: dark) {
     html, html[data-theme="dark"] {
 	--link-color: #ffffff;
-	--highlight-color: #2d2d2d;
 	--nav-link-color: #ffffff;
 	--main-text-color: #a6a6a6;
 	--secondary-text-color: #c5c5c5;
+	--light-text-color: #c5c5c5;
 	--main-background-color: #000000;
+	--secondary-background-color: #27292D;
+	--filter: invert(99%) sepia(100%) saturate(0%) hue-rotate(126deg) brightness(104%) contrast(100%);
     }
 
     html[data-theme="light"] {
 	--link-color: #333;
-	--highlight-color: yellow;
 	--nav-link-color: #333;
 	--main-text-color: #333;
 	--secondary-text-color: #333;
+	--light-text-color: #60646F;
 	--main-background-color: #ffffff;
+	--secondary-background-color: #efefef;
+	--filter: invert(15%) sepia(0%) saturate(1257%) hue-rotate(143deg) brightness(91%) contrast(83%);
   } 
 }
 
@@ -204,6 +212,7 @@ a:active {
 }
 
 button {
+	font-family: var(--sans-serif-font);
 	font-size: 1rem;
 	background: transparent;
 	border: 1px solid var(--main-text-color);
@@ -211,7 +220,7 @@ button {
 	color: var(--nav-link-color);
 	padding: 0 var(--spacing-xsm);
 	margin: 0;
-	height: 30px;
+	height: 33px;
 	width: fit-content;
 }
 
@@ -264,7 +273,7 @@ h3 {
 p {
 	font-weight: 400;
 	margin-block-end: 1rem;
-	line-height: 1.475;
+	line-height: 1.575;
 }
 
 p strong ,
@@ -282,7 +291,7 @@ ol li ,
 ul li ,
 li {
 	margin-bottom: 1rem;
-	line-height: 1.475;
+	line-height: 1.575;
 }
 
 blockquote {
@@ -556,6 +565,7 @@ body {
 	border-right: 1px solid var(--main-text-color);
 	padding: var(--spacing-l);
 	position: relative;
+	height: 100%;
 }
 
 .desktop-nav-container nav {
@@ -590,6 +600,47 @@ body {
 	display: flex;
 	justify-content: space-between;
 	align-items: flex-end;
+	margin-block-end: var(--spacing-xl);
+}
+
+.images a {
+	height: 40px;
+	padding: 0 var(--spacing-sm);
+	border: 1px dotted var(--nav-link-color);
+	border-radius: var(--border-radius);
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.images a:hover {
+	border: 1px solid var(--nav-link-color);
+}
+
+.images p {
+	margin-block-end: 0;
+}
+
+.images .filter {
+	filter: var(--filter);
+}
+
+.images a {
+	text-decoration: none;
+}
+
+.images img {
+	width: 15px;
+}
+
+.images-title {
+	display: flex;
+	align-items: center;
+	gap: var(--gutter-xsm);
+}
+
+.arrow {
+	margin-block-start: 3px;
 }
 
 .home-container {

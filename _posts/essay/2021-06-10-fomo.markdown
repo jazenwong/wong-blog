@@ -9,7 +9,7 @@ image:
 image-description:
 ---
 
- FOMO is a strong motivator and interestingly, it remains a strong motivator even when it's artificially induced. Because even when FOMO is artificially induced, we can't help but fall victim to the loss aversion heuristic—it's inbuilt into our psychology.
+FOMO is a strong motivator and interestingly, it remains a strong motivator even when it's artificially induced. Because even when FOMO is artificially induced, we can't help but fall victim to the loss aversion heuristic—it's inbuilt into our psychology.
 
 Another way of looking at FOMO is seeing it as a derivative of limited supply. If there was unlimited supply, whether from a quantity or time point of view, it would be difficult to induce FOMO, because buyers would know that the opportunity will always be there. FOMO exists when supply is limited and buyers knows that it's limited.
 

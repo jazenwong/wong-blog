@@ -8,7 +8,7 @@ permalink: kenya-hara-white-reflections
 image: WhiteKenyaHara.jpeg
 image-description: Kenya Hara's "White" on white.
 ---
-*Originally published 11/27/2020 and after my recent trip to Japan in 2024, I've revisited the post.*
+Originally published 11/27/2020 and after my recent trip to Japan in 2024, I've revisited the post.
 
 ---
 ## White as a Color
@@ -45,7 +45,7 @@ To better understand emptiness, Hara gives us a history lesson on where Japanese
 
 Ashikaga Yoshimasa (1436 to 1490) was a shogun who played a lead role in the Onin war. The Onin war resulted in the destruction of many lives and shrines, art, and culture. This caused Yoshimasa to retire and reflect in Higashiyama. He spent his days practicing calligraphy, painting, and performing tea ceremonies. He also started the construction of the Ginkaku-ji, also known as the Silver Pavilion. To Hara, this was the start of a Japanese emphasis on simplicity and emptiness.
 
-![Ginkaku](/assets/blogimages/white/Ginkakuji.png#center "Ginkaku-ji")
+![Ginkaku](/assets/blogimages/white/Ginkakuji.png#center#background "Ginkaku-ji")
 
 <sub>Photos I took at Ginkaku-ji in Dec 2023</sub>
 
