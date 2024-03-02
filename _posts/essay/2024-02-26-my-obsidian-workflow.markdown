@@ -9,7 +9,7 @@ image: Obsidian_Graph.jpg
 image-description: An Obsidian graph.
 ---
 
-Note: I'm sure the way that I use Obsidian will evolve. This post reflects my process as of 2/26/24.
+Note: I'm sure the way that I use Obsidian will evolve. This post reflects my process as of 3/02/24.
 
 ---
 
