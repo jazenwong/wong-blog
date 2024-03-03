@@ -187,29 +187,7 @@ body {
 	padding: var(--spacing-l) 0;
 }
 
-/* Each state */
-a {
-	display: inline-block;
-	color: var(--link-color);
-  	text-decoration: underline;
-}
-
-a:hover {
-	cursor: pointer;
-}
-
-a:visited {
-  	text-decoration: none;
-}
-
-a:focus {
-	color: var(--main-text-color);
-	text-decoration: none;
-}
-
-a:active {
-  	text-decoration: none;
-}
+/* Other */
 
 button {
 	font-family: var(--sans-serif-font);
@@ -222,6 +200,7 @@ button {
 	margin: 0;
 	height: 33px;
 	width: fit-content;
+	letter-spacing: -.01em;
 }
 
 a button {
@@ -253,6 +232,7 @@ h1 {
 	font-weight: 500;
 	margin-block-end: 2rem;
 	font-size: 1.2rem;
+	letter-spacing: -.015em;
 }
 
 h2 {
@@ -261,6 +241,7 @@ h2 {
 	margin-block-start: 1rem;
 	margin-block-end: .75rem;
 	font-size: 1.1rem;
+	letter-spacing: -.0125em;
 }
 
 h3 {
@@ -268,12 +249,14 @@ h3 {
 	font-weight: 500;
 	margin-block-start: .5rem;
 	margin-block-end: 1rem;
+	letter-spacing: -.01em;
 }
 
 p {
 	font-weight: 400;
 	margin-block-end: 1rem;
 	line-height: 1.575;
+	letter-spacing: -.01em;
 }
 
 p strong ,
@@ -292,6 +275,7 @@ ul li ,
 li {
 	margin-bottom: 1rem;
 	line-height: 1.575;
+	letter-spacing: -.01em;
 }
 
 blockquote {
@@ -316,6 +300,30 @@ sub {
 	display: block;
 	font-size: .8rem;
 	font-style: italic;
+}
+
+a {
+	display: inline-block;
+	color: var(--link-color);
+  	text-decoration: underline;
+	letter-spacing: -.01em;
+}
+
+a:hover {
+	cursor: pointer;
+}
+
+a:visited {
+  	text-decoration: none;
+}
+
+a:focus {
+	color: var(--main-text-color);
+	text-decoration: none;
+}
+
+a:active {
+  	text-decoration: none;
 }
 
 /* Nav */
