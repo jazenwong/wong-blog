@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: Reflections - Branding
+title: Branding
 date: 2020-09-06
 categories: essay
 description: Branding as a term often thrown around. But what is the purpose of branding?
