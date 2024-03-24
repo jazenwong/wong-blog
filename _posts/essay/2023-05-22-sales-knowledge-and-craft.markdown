@@ -25,7 +25,7 @@ Now, regarding the other method of getting someone to respect your opinion, the 
 
 There are many books that will try to teach you the "technique" of sales, for example, SPIN selling. It teaches you what kinds of questions are good to ask, when to ask them, and even the best order to ask the questions. But I'm sure you've been sold to by a sales rep that tried to do their routine on you and I'm sure it was a turn off. This is where the abstract part of sales comes in, i.e. knowing the right way to ask a question, from the tone to the speed of delivery; knowing when to push on a topic, but also knowing when to back off.
 
-Although the abstract part of sales is often seen as a natural gift that some people have, e.g. charistmatic individuals, I'm certain it can be nurtured with experience, self awareness, and reflection. That being said, it's hard to do and most people won't put in the work to get there <a href="#note1">[1]</a>.
+Although the abstract part of sales is often seen as a natural gift that some people have, e.g. charismatic individuals, I'm certain it can be nurtured with experience, self awareness, and reflection. That being said, it's hard to do and most people won't put in the work to get there <a href="#note1">[1]</a>.
 
 ## Effective Selling
 

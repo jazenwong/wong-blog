@@ -11,7 +11,7 @@ image-description:
 
 In the context of work, having "years of experience" is often one of the main criteria in any job posting. The more senior the job, the more experience one needs in order to get said job. “Experience” serves as a catch all phrase that encompasses the general idea that “vetted” industry experience is vital to getting hired. But more often than not, YOE doesn't equate to valuable experience. Obviously, the YOE qualifier is simply a heuristic that one can and often must use to filter through the volume of applicants. But perhaps given the fact that many blindly accept the heuristic as truth, it's worth introspecting on the quality of experience.
 
-One of the biggest signals that someone has high quality experience is to look for people who know *what to do* or *what's accetpable to do* and conversely, know what's "not acceptable to do". This wisdom is not easy to come by, as these opinions only come about contextually.
+One of the biggest signals that someone has high quality experience is to look for people who know *what to do* or *what's acceptable to do* and conversely, know what's "not acceptable to do". This wisdom is not easy to come by, as these opinions only come about contextually.
 
 In politics, there's a concept called the ["Overton Window"](https://www.mackinac.org/OvertonWindow), which states that there are a number of topics and ideas that are "acceptable" to the main stream population at any given time. This framework is true in business as well, e.g. narratives around cloud, frameworks, etc. 
 
