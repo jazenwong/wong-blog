@@ -39,7 +39,7 @@ Emptiness is found in many of Japan’s art and design forms, for example in the
 
 > "It conveys the lively image of the trees by intentionally avoiding detailed description, and approach that activates the imagination of its viewers. In short, the paintings very roughness and omission of details awake and our senses." - Kenya Hara, "White"
 
-Hara uses “Pine trees” as a way for us to understand white as he sees it. By ommitting explicit details about the scenery, the painting uses emptiness as a technique to actviate the viewer's imagination.
+Hara uses “Pine trees” as a way for us to understand white as he sees it. By omitting explicit details about the scenery, the painting uses emptiness as a technique to activate the viewer's imagination.
 
 To better understand emptiness, Hara gives us a history lesson on where Japanese minimalism “started.”
 

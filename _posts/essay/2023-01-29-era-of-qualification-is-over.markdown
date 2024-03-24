@@ -21,7 +21,7 @@ Some roles that will survive this disruption in the short to medium term:
 
 I expect enterprise sales to be particularly resilient because enterprises are very political. People who work in enterprises prioritize reducing career risk above everything else (see the recently viral [The Maze is in the Mouse](https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a)). So, although the number one threat to white collar jobs at large businesses could and should be the emergence of AI, corporate actors won't let that happen so easily.
 
-Because of this, enterprise sales people (that are not selling products that can "obviously" replace careers) will still be very valuable and highly compensated. (Enterprise sales people that are selling products that "obviously" replace a large number of the workforce will always be valuable, granted they can sell to C-levels. This is similiar to the selling of offshoring services that replaced many jobs in the US; there's probably a lot to learn from studying how offshoring affected enterprises and how it will be different / similar to AI replacement.)
+Because of this, enterprise sales people (that are not selling products that can "obviously" replace careers) will still be very valuable and highly compensated. (Enterprise sales people that are selling products that "obviously" replace a large number of the workforce will always be valuable, granted they can sell to C-levels. This is similar to the selling of offshoring services that replaced many jobs in the US; there's probably a lot to learn from studying how offshoring affected enterprises and how it will be different / similar to AI replacement.)
 
 **Critical Thinking / Resourcefulness**: High end creative and design fields.
 
